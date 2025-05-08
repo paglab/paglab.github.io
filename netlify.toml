@@ -1,9 +1,7 @@
 # netlify.toml
-[[plugins]]
-package = "@netlify/plugin-r"
 
 [build]
-command = "Rscript -e 'blogdown::build_site(build_rmd = TRUE, run_hugo = TRUE)'"
+command = "hugo --gc --minify"
 publish = 'public'
 
 [build.environment]
