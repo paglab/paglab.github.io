@@ -7201,14 +7201,14 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 /*************************************************
- *  Wowchemy: The Website Builder for Hugo
+ *  Hugo Blox Builder: The Website Builder for Hugo
  *  Designed by @GeorgeCushen
- *  https://wowchemy.com/
- *  License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md
+ *  https://hugoblox.com/
+ *  License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md
  **************************************************/
-/* Wowchemy Helpers */
+/* Hugo Blox Builder Helpers */
 /*************************************************
- *  Wowchemy's Core Style
+ *  Hugo Blox Builder's Core Style
  **************************************************/
 html {
   font-family: "", sans-serif;
@@ -7440,7 +7440,7 @@ small,
 .responsive-wrap iframe {
   max-width: 100%; }
 
-/* Wowchemy Elements */
+/* Hugo Blox Builder Elements */
 /*************************************************
  *  Button size override
  *************************************************/
@@ -7950,7 +7950,7 @@ a.badge:hover {
 .dark .tag-cloud a:hover {
   color: #217ee7; }
 
-/* Wowchemy Components */
+/* Hugo Blox Builder Components */
 /*************************************************
  *  Author profile card
  **************************************************/
@@ -8422,6 +8422,20 @@ details p {
 
 .dark details p {
   border-left: 1px solid rgba(255, 255, 255, 0.8); }
+
+.bilibili {
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin: 1rem auto;
+  text-align: center; }
+  .bilibili iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border: none;
+    left: 0;
+    top: 0; }
 
 #announcement {
   font-size: 16px; }
@@ -9205,7 +9219,7 @@ ul.network-icon {
   margin: 0; }
 
 #profile .network-icon {
-  margin-top: 30px; }
+  margin-top: 0.5rem; }
 
 .network-icon li {
   margin-right: 10px; }
@@ -9540,6 +9554,55 @@ a.hero-cta-alt:hover {
 
 .isotope-item:hover {
   z-index: 3; }
+
+/*************************************************
+ *  Hugo Blox: Skills
+ **************************************************/
+.skill-group-title {
+  display: inline-block;
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #c7c7c7;
+  font-size: 1rem;
+  line-height: 30px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px; }
+
+.skills-content {
+  margin-bottom: 15px; }
+
+.skills-name {
+  margin-bottom: 6px;
+  color: #888;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  text-transform: uppercase; }
+
+.skills-description {
+  margin-bottom: 6px;
+  font-size: 0.7rem;
+  text-transform: none; }
+
+.dark .skills-name {
+  color: #eee; }
+
+.skills-icon {
+  margin-right: 0.5em; }
+
+.skills-wrapper {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 10px;
+  border: 1px solid #a8e9e9;
+  border-radius: 10px; }
+
+.skills-percent {
+  position: absolute;
+  width: 60%;
+  height: 10px;
+  background-color: #3cb5b5; }
 
 /*************************************************
  *  Dark themed components

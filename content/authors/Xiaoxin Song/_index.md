@@ -1,6 +1,6 @@
 ---
 authors:
-- 吳飞
+- X Song
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
@@ -15,12 +15,12 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
-first_name: Alice
+first_name: Xiaoxin
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Wu
+last_name: Song
 organizations:
 - name: Stanford University
   url: ""
@@ -39,7 +39,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: false
-title: Alice Wu 吳恩達
+title: Xiaoxin Song
 user_groups:
 - Researchers
 - Visitors

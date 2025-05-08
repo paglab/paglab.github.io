@@ -1,5 +1,5 @@
 [build]
-command = 'hugo --gc --minify'
+command = "Rscript -e 'blogdown::build_site()'"
 publish = 'public'
 
 [build.environment]

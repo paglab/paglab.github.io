@@ -1,66 +1,79 @@
 ---
-date: "2022-10-24"
-sections:
-- block: hero
-  content:
-    image:
-      filename: welcome_drone.jpg
-    text: |
-      <br>
-
-      The **TUM Precision Agriculture Lab** has been a center of excellence for smart farming research, teaching, and practice since its founding in 2020.
-    title: |
-      Precision 
-      Agriculture Lab
-- block: collection
-  content:
-    count: 5
-    filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    page_type: post
-    subtitle: null
-    text: null
-    title: Latest News
-  design:
-    columns: "1"
-    view: card
-- block: markdown
-  content:
-    subtitle: ""
-    text: null
-    title: null
-  design:
-    background:
-      image:
-        filename: coders.jpg
-        filters:
-          brightness: 1
-        parallax: false
-        position: center
-        size: cover
-        text_color_light: true
-    columns: "1"
-    css_class: fullscreen
-    spacing:
-      padding:
-      - 20px
-      - "0"
-      - 20px
-      - "0"
-- block: markdown
-  content:
-    subtitle: null
-    text: |
-      {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    title: null
-  design:
-    columns: "1"
-title: null
+# Leave the homepage title empty to use the site title
+title:
+date: 2022-10-24
 type: landing
+
+sections:
+  - block: hero
+    content:
+      title: |
+        Precision Ag @ TUM
+      image:
+        filename: welcome_drone.jpg
+      text: |
+        <br>
+        
+        Since its founding in 2016, the **TUM Precision Ag Lab** has been committed to empower smart farming research, education, and practice.
+  
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
+  
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: coders.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
+  - block: collection
+    content:
+      title: Latest Preprints
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
 ---

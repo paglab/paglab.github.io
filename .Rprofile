@@ -21,3 +21,6 @@ options(
 
 # fix Hugo version
 options(blogdown.hugo.version = "0.147.2")
+
+# In your R session (or add to .Rprofile)
+options(blogdown.themesDir = NULL)
