@@ -51,6 +51,7 @@ docs/
 po/*~
 .DS_Store
 Thumbs.db
+#my_publications.bib
 .hugo_build.lock
 
 # RStudio Connect folder

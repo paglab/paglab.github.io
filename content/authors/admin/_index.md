@@ -14,15 +14,15 @@ role: Drone of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Drone University
+  - name: University of Drones
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics, mobile computing and AI.
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Computer vision
   - Information Retrieval
 
 education:
@@ -70,8 +70,9 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+  - Administration
 ---
 
-Drone Pag is a drone of artificial intelligence at the Drone AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Drone Pag is a drone of artificial intelligence at the Drone AI Lab. Drone's research interests include robotics, mobile computing and drone artificial intelligence. He leads the drone fly team, which develops self-learning systems and self-flying robots.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
