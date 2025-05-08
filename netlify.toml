@@ -1,5 +1,9 @@
+# netlify.toml
+[[plugins]]
+package = "@netlify/plugin-r"
+
 [build]
-command = "Rscript -e 'blogdown::build_site()'"
+command = "Rscript -e 'blogdown::build_site(build_rmd = TRUE, run_hugo = TRUE)'"
 publish = 'public'
 
 [build.environment]
