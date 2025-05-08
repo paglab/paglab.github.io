@@ -1,6 +1,6 @@
 ---
 authors:
-- Dong Bai
+- Dong Bai dongbai
 bio: My research interests include precision crop farming, hyperspectral remote sensing, and AI in agriculture.
 
 education:
