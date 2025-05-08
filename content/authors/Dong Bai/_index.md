@@ -24,7 +24,7 @@ interests:
 last_name: Bai
 organizations:
 - name: Technical University of Munich
-  url: ""
+  url: "123"
 role: PHD student of Precision Agriculture
 social:
 - icon: envelope
