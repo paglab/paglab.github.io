@@ -73,6 +73,6 @@ user_groups:
   - Administration
 ---
 
-Drone Pag is a drone of artificial intelligence at the Drone AI Lab. Drone's research interests include robotics, mobile computing and drone artificial intelligence. Drones leads the Drone Fly team, which develops self-learning systems and self-flying robots.
+Drone Pag is a drone of artificial intelligence at the Drone AI Lab. Drone's research interests include robotics, mobile computing and drone artificial intelligence. Drone leads the Drone Fly team, which develops self-learning systems and self-flying robots.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
