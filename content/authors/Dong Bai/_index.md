@@ -1,6 +1,6 @@
 ---
 authors:
-- Kang Yu
+- Dong Bai
 bio: My research interests include precision crop farming, hyperspectral remote sensing, and AI in agriculture.
 
 education:
@@ -14,18 +14,18 @@ education:
   - course: BSc in Agricultural Resource and Environmental Sciences
     institution: China Agricultural University
     year: 2007
-email: ""
-first_name: Kang
+email: "dong.bai@tum.de"
+first_name: Dong
 highlight_name: false
 interests:
 - Vegetation remote sensing
 - Crop field phenotyping
 - Precision crop nutrient management
-last_name: Yu
+last_name: Bai
 organizations:
 - name: Technical University of Munich
   url: ""
-role: Professor of Precision Agriculture
+role: PHD student of Precision Agriculture
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,7 +40,7 @@ social:
   icon_pack: fab
   link: https://github.com/kang-yu
 superuser: true
-title: Kang Yu
+title: Dong Bai
 user_groups:
 - Principal Investigators
 - Researchers
