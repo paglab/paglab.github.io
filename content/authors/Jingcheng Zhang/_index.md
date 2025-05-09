@@ -1,7 +1,5 @@
 ---
 title: Jingcheng Zhang
-# authors:
-# - J Zhang
 
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
