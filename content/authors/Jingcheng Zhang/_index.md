@@ -1,8 +1,15 @@
 ---
-authors:
-- J Zhang
+title: Jingcheng Zhang
+# authors:
+# - J Zhang
+
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
+
+email: ""
+first_name: Jingcheng
+last_name: Zhang
+
 education:
   courses:
   - course: PhD in Artificial Intelligence
@@ -14,13 +21,12 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-email: ""
-first_name: Jingcheng
+
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Zhang
+
 organizations:
 - name: Stanford University
   url: ""
@@ -38,8 +44,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
+
 superuser: false
-title: Jingcheng Zhang
 user_groups:
 - Researchers
 ---
