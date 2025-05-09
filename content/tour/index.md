@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Discover & Develop & Deploy:flying_saucer:️
-        content: 'Discover the truth, develop the technology, deploy the practice, by exciting your new ideas together!'
+        content: 'Discover the truth, develop the technology, deploy the practice, by exploring your new ideas together!'
         align: left
         background:
           image:
