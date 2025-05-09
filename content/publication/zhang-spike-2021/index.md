@@ -1,10 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Spike growth affects spike fertility through the number of florets with green
   anthers before floret abortion in wheat
-subtitle: ''
-summary: ''
+date: '2021-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Zhen Zhang
 - Jing Li
@@ -18,36 +18,9 @@ authors:
 - Kang Yu
 - Zhimin Wang
 - Yinghua Zhang
-tags:
-- Irrigation
-- Nitrogen
-- Floret abortion
-- Floret development
-- Grain number
-- Green anther
-categories: []
-date: '2021-01-01'
-lastmod: 2025-05-07T21:24:30+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:29.989277Z'
-publication_types:
-- '2'
+publication: Field Crops Research
+doi: 10.1016/j.fcr.2020.108007
+url: ''
 abstract: The dynamics of floret initiation/abortion has been explored widely; however,
   the mechanisms of increasing floret fertility at anthesis in wheat production remain
   unclear. In this study, morphological and physiological responses of florets per
@@ -64,9 +37,7 @@ abstract: The dynamics of floret initiation/abortion has been explored widely; h
   green during period of early floret development, maintained their development normally
   and becoming fertile florets, but did not make florets that initiate abortion become
   fertile florets and increase the MFP.
-publication: '*Field Crops Research*'
-doi: 10.1016/j.fcr.2020.108007
-links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0378429020312910
+
 ---
+
+Zhen Zhang, Jing Li, Naiyue Hu, Wei Li, Weilong Qin, Jinpeng Li, Yanmei Gao, Yang Liu, Zhencai Sun, Kang Yu, Zhimin Wang, & Yinghua Zhang (2021). Spike growth affects spike fertility through the number of florets with green anthers before floret abortion in wheat. *Field Crops Research*, 260: 108007.

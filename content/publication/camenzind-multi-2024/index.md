@@ -1,37 +1,16 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Multi temporal multispectral UAV remote sensing allows for yield assessment
   across European wheat varieties already before flowering
-subtitle: ''
-summary: ''
+date: '2024-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Moritz Paul Camenzind
 - Kang Yu
-tags: []
-categories: []
-date: '2024-01-01'
-lastmod: 2025-05-07T21:24:36+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:36.674042Z'
-publication_types:
-- '2'
+publication: Frontiers in Plant Science
+doi: 10.3389/fpls.2023.1214931
+url: ''
 abstract: High throughput field phenotyping techniques employing multispectral cameras
   allow extracting a variety of variables and features to predict yield and yield
   related traits, but little is known about which types of multispectral features
@@ -57,14 +36,12 @@ abstract: High throughput field phenotyping techniques employing multispectral c
   years of trial. Combining data from different dates enhanced yield prediction and
   stabilized predictions across dates. TFs exhibited high accuracy in classifying
   low and high-yielding varieties. The CORRELATION feature achieved an accuracy of
-  88% in the first year, while the HOMOGENEITY feature reached 92% accuracy in the
+  88\% in the first year, while the HOMOGENEITY feature reached 92\% accuracy in the
   second year. This study confirms the hypothesis that TFs are more suitable for variety
   classification than for yield prediction. The results underscore the potential of
   TFs derived from multispectral images in early yield prediction and varietal classification,
   offering insights for HTP and precision agriculture alike.
-publication: '*Frontiers in Plant Science*'
-doi: 10.3389/fpls.2023.1214931
-links:
-- name: URL
-  url: https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2023.1214931
+
 ---
+
+Moritz Paul Camenzind & Kang Yu (2024). Multi temporal multispectral UAV remote sensing allows for yield assessment across European wheat varieties already before flowering. *Frontiers in Plant Science*, 14: 1214931.

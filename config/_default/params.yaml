@@ -102,6 +102,13 @@ features:
     api_key: ''
     zoom: 15
 
+# HugoBlox specific settings
+features:
+  publication:
+    show_links: true
+    show_abstract: true
+    show_authors: true
+
 # Extensions
 
 extensions:
@@ -116,3 +123,37 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+  
+
+# Replace any existing publications configuration with:
+params:
+  publications:
+    filters:
+      - name: Journal Article
+        tag: '2'
+      - name: Conference Paper
+        tag: '1'
+      - name: Preprint
+        tag: '3'
+      - name: Thesis
+        tag: '4'
+      - name: Book
+        tag: '5'
+      - name: Book Section
+        tag: '6'
+      - name: Other
+        tag: '0'
+    
+    # Display settings
+    filter_default: 'All'
+    show_publication_type: true
+    display_type_as: text
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true  # Required for filter interactivity
+
+outputs:
+  home: [HTML, RSS, JSON]

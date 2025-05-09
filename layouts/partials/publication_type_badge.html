@@ -1,0 +1,12 @@
+{{ with .Params.publication_types }}
+  {{ range . }}
+    <span class="publication-badge" data-type="{{ . }}">
+      {{ cond (eq . "2") "Journal Article" }}
+      {{ cond (eq . "1") "Conference Paper" }}
+      {{ cond (eq . "3") "Preprint" }}
+      {{ cond (eq . "4") "Thesis" }}
+      {{ cond (eq . "5") "Book" }}
+      {{ cond (eq . "6") "Book Section" }}
+    </span>
+  {{ end }}
+{{ end }}

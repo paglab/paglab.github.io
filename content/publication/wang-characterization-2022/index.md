@@ -1,10 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Characterization of N distribution in different organs of winter wheat using
   UAV-based remote sensing
-subtitle: ''
-summary: ''
+date: '2022-01-01'
+publication_types:
+- '0'
+publication_type_label: Other
 authors:
 - Falv Wang
 - Wei Li
@@ -16,30 +16,9 @@ authors:
 - Zhimin Wang
 - Fei Li
 - Kang Yu
-tags: []
-categories: []
-date: '2022-11-01'
-lastmod: 2025-05-07T21:24:34+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:34.181968Z'
-publication_types:
-- '0'
+publication: ''
+doi: 10.1101/2022.11.02.514839
+url: ''
 abstract: Although unmanned aerial vehicle (UAV) remote sensing is widely used for
   high-throughput crop monitoring, few attempts have been made to assess nitrogen
   content (NC) at the organ level and its impact on nitrogen use efficiency (NUE).
@@ -57,13 +36,11 @@ abstract: Although unmanned aerial vehicle (UAV) remote sensing is widely used f
   NC in different organs varied between the vegetative and reproductive phases. Most
   of VIs were found to be positively correlated with NC, while most of the TFs were
   negatively correlated with NC. PLSR latent variables extracted from VIs and TFs
-  explained 80% of the variations in NAE. However, no significant differences were
+  explained 80\% of the variations in NAE. However, no significant differences were
   found between VIs and TFs in their performance in predicting NC in different organs.
   This study demonstrated the promise of applying UAV-based imaging to estimate NC
   and NAE in different organs of winter wheat.
-publication: '*bioRxiv*'
-doi: 10.1101/2022.11.02.514839
-links:
-- name: URL
-  url: https://www.biorxiv.org/content/10.1101/2022.11.02.514839v1
+
 ---
+
+Falv Wang, Wei Li, Yi Liu, Weilong Qin, Longfei Ma, Yinghua Zhang, Zhencai Sun, Zhimin Wang, Fei Li, & Kang Yu (2022). Characterization of N distribution in different organs of winter wheat using UAV-based remote sensing. **.

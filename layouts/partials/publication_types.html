@@ -1,0 +1,7 @@
+{{- if .Params.publication_types -}}
+  {{- range .Params.publication_types -}}
+    <span class="publication-type-badge">
+      {{ .text }}
+    </span>
+  {{- end -}}
+{{- end -}}

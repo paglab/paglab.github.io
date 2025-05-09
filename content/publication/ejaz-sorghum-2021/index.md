@@ -1,9 +1,9 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Sorghum Grains Grading for Food, Feed, and Fuel Using NIR Spectroscopy
-subtitle: ''
-summary: ''
+date: '2021-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Irsa Ejaz
 - Siyang He
@@ -15,30 +15,9 @@ authors:
 - Boubacar Diallo
 - Guanghui Xie
 - Kang Yu
-tags: []
-categories: []
-date: '2021-01-01'
-lastmod: 2025-05-07T21:24:31+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:31.523136Z'
-publication_types:
-- '2'
+publication: Frontiers in Plant Science
+doi: 10.3389/fpls.2021.720022
+url: ''
 abstract: 'Near-infrared spectroscopy (NIR) is a non-destructive, fast, and low-cost
   method to measure the grain quality of different cereals. However, the feasibility
   for determining the critical biochemicals, related to the classifications for food,
@@ -57,9 +36,7 @@ abstract: 'Near-infrared spectroscopy (NIR) is a non-destructive, fast, and low-
   cellulose, and hemicellulose using NIR data. This study aimed to provide a reference
   for the evaluation of sorghum grain biochemicals for food, feed, and fuel without
   destruction and complex chemical analysis.'
-publication: '*Frontiers in Plant Science*'
-doi: 10.3389/fpls.2021.720022
-links:
-- name: URL
-  url: https://www.frontiersin.org/article/10.3389/fpls.2021.720022
+
 ---
+
+Irsa Ejaz, Siyang He, Wei Li, Naiyue Hu, Chaochen Tang, Songbo Li, Meng Li, Boubacar Diallo, Guanghui Xie, & Kang Yu (2021). Sorghum Grains Grading for Food, Feed, and Fuel Using NIR Spectroscopy. *Frontiers in Plant Science*, 12: 720022.

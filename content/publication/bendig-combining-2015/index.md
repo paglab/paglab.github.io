@@ -1,10 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Combining UAV-based plant height from crop surface models, visible, and near
   infrared vegetation indices for biomass monitoring in barley
-subtitle: ''
-summary: ''
+date: '2015-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Juliane Bendig
 - Kang Yu
@@ -14,54 +14,9 @@ authors:
 - Janis Broscheit
 - Martin L. Gnyp
 - Georg Bareth
-tags:
-- LAI
-- Structure from motion
-- height
-- GnyLi
-- Green red vegetation index
-- barley
-- SAVI
-- NDVI
-- Point cloud
-- near infrared
-- biomass
-- Germany
-- WINTER-WHEAT
-- YIELD
-- ALGORITHMS
-- CORN
-- RED
-- EFFICIENCY
-- NITROGEN STATUS
-- IMAGING SPECTROMETRY
-- unmanned vehicle
-- aerial photograph
-- Hordeum
-- monitoring system
-categories: []
-date: '2015-07-01'
-lastmod: 2025-05-07T21:24:24+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:24.566592Z'
-publication_types:
-- '2'
+publication: International Journal of Applied Earth Observation and Geoinformation
+doi: 10.1016/j.jag.2015.02.012
+url: ''
 abstract: 'In this study we combined selected vegetation indices (VIs) and plant height
   information to estimate biomass in a summer barley experiment. The VIs were calculated
   from ground-based hyperspectral data and unmanned aerial vehicle (UAV)-based red
@@ -85,9 +40,7 @@ abstract: 'In this study we combined selected vegetation indices (VIs) and plant
   in summer barley. Moreover, visible band VIs might be a useful addition to biomass
   estimation. The main limitation is that the visible band VIs work for early growing
   stages only.'
-publication: '*International Journal of Applied Earth Observation and Geoinformation*'
-doi: 10.1016/j.jag.2015.02.012
-links:
-- name: URL
-  url: http://www.sciencedirect.com/science/article/pii/S0303243415000446
+
 ---
+
+Juliane Bendig, Kang Yu, Helge Aasen, Andreas Bolten, Simon Bennertz, Janis Broscheit, Martin L. Gnyp, & Georg Bareth (2015). Combining UAV-based plant height from crop surface models, visible, and near infrared vegetation indices for biomass monitoring in barley. *International Journal of Applied Earth Observation and Geoinformation*, 39: 79--87.

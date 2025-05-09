@@ -1,47 +1,19 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Meta-analysis assessing potential of drone remote sensing in estimating plant
   traits related to nitrogen use efficiency
-subtitle: ''
-summary: ''
+date: '2023-01-01'
+publication_types:
+- '0'
+publication_type_label: Other
 authors:
 - Jingcheng Zhang
 - Yuncai Hu
 - Fei Li
 - Kadeghe Fue
 - Kang Yu
-tags:
-- Growth stage
-- Meta-analysis
-- Vegetation indices
-- Unmanned aerial vehicle (UAV)
-- Nutrient use efficiency
-- Sensor type
-- Signal process technique
-categories: []
-date: '2023-12-01'
-lastmod: 2025-05-07T21:24:36+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:35.802607Z'
-publication_types:
-- '0'
+publication: ''
+doi: 10.2139/ssrn.4666863
+url: ''
 abstract: Unmanned Aerial Systems (UASs) are increasingly vital in precision agriculture,
   offering detailed, real-time insights into plant health across multiple spectral
   domains. However, this technology's precision in estimating plant traits associated
@@ -60,9 +32,7 @@ abstract: Unmanned Aerial Systems (UASs) are increasingly vital in precision agr
   productivity and sustainability but also demonstrates its potential in providing
   more accurate and comprehensive insights for effective crop health and nutrient
   management strategies.
-publication: ''
-doi: 10.2139/ssrn.4666863
-links:
-- name: URL
-  url: https://papers.ssrn.com/abstract=4666863
+
 ---
+
+Jingcheng Zhang, Yuncai Hu, Fei Li, Kadeghe Fue, & Kang Yu (2023). Meta-analysis assessing potential of drone remote sensing in estimating plant traits related to nitrogen use efficiency. **.

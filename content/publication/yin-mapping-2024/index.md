@@ -1,10 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Mapping Plant Nitrogen Concentration and Aboveground Biomass of Potato Crops
   from Sentinel-2 Data Using Ensemble Learning Models
-subtitle: ''
-summary: ''
+date: '2024-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Hang Yin
 - Fei Li
@@ -12,36 +12,9 @@ authors:
 - Yunfei Di
 - Yuncai Hu
 - Kang Yu
-tags:
-- potato
-- plant nitrogen concentration
-- feature selection
-- spectral indices
-- Sentinel-2 imagery
-- ensemble learning model
-categories: []
-date: '2024-01-01'
-lastmod: 2025-05-07T21:24:36+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:36.112193Z'
-publication_types:
-- '2'
+publication: Remote Sensing
+doi: 10.3390/rs16020349
+url: ''
 abstract: Excessive nitrogen (N) fertilization poses environmental risks at regional
   and global levels. Satellite remote sensing provides a novel approach for large-scale
   N monitoring. In this study, we evaluated the performance of different types of
@@ -62,9 +35,7 @@ abstract: Excessive nitrogen (N) fertilization poses environmental risks at regi
   that the promising solution of using SPA-PCA coupled with an ensemble learning model
   improves the estimation accuracy of potato PNC and AGB based on Sentinel-2 imagery
   data.
-publication: '*Remote Sensing*'
-doi: 10.3390/rs16020349
-links:
-- name: URL
-  url: https://www.mdpi.com/2072-4292/16/2/349
+
 ---
+
+Hang Yin, Fei Li, Haibo Yang, Yunfei Di, Yuncai Hu, & Kang Yu (2024). Mapping Plant Nitrogen Concentration and Aboveground Biomass of Potato Crops from Sentinel-2 Data Using Ensemble Learning Models. *Remote Sensing*, 16(2): 349.

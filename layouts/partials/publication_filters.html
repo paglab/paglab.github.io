@@ -1,0 +1,37 @@
+{{ $active := .Scratch.Get "filter" | default "*" }}
+<div class="pub-filters">
+  <div class="btn-group">
+    {{ range .Site.Params.publications.filters }}
+      {{ $display_name := .name }}
+      {{ if eq .tag "*" }}{{ $display_name = "All" }}{{ end }}
+      
+      <button class="btn {{ if eq $active .tag }}active{{ end }}" 
+              data-filter="{{ .tag }}"
+              aria-label="{{ $display_name }}">
+        {{ $display_name }}
+      </button>
+    {{ end }}
+  </div>
+</div>
+
+<script>
+// Backup filter handler to ensure functionality
+document.addEventListener('DOMContentLoaded', function() {
+  const filterMap = {
+    '2': 'Journal Article',
+    '1': 'Conference Paper', 
+    '3': 'Preprint',
+    '4': 'Thesis',
+    '5': 'Book',
+    '6': 'Book Section',
+    '0': 'Other'
+  };
+  
+  document.querySelectorAll('.pub-filters button').forEach(btn => {
+    const filterVal = btn.dataset.filter;
+    if (filterMap[filterVal]) {
+      btn.textContent = filterMap[filterVal];
+    }
+  });
+});
+</script>

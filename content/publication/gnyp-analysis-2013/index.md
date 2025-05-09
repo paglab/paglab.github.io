@@ -1,10 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Analysis of Crop Reflectance for Estimating Biomass in Rice Canopies at Different
   Phenological Stages
-subtitle: ''
-summary: ''
+date: '2013-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Martin Leon Gnyp
 - Kang Yu
@@ -13,38 +13,9 @@ authors:
 - Shanyu Huang
 - Yuxin Miao
 - Georg Bareth
-tags:
-- Spectral indices
-- Biomass
-- Hyperspectral
-- MLR
-- Rice
-- biomass
-- hyperspectral
-- rice
-categories: []
-date: '2013-08-01'
-lastmod: 2025-05-07T21:24:23+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:22.774136Z'
-publication_types:
-- '2'
+publication: Photogrammetrie - Fernerkundung - Geoinformation
+doi: 10.1127/1432-8364/2013/0182
+url: ''
 abstract: This paper contributes an assessment for estimating rice (Oryza sativa L.,
   irrigated low-land rice) biomass by canopy reflectance in the Sanjiang Plain, China.
   Hyperspectral data were captured with field spectroradiometers in experimental field
@@ -87,6 +58,7 @@ abstract: This paper contributes an assessment for estimating rice (Oryza sativa
   unterschiedlichen phänologischen Stadien. Dies wird durch die gute Übertragbarkeit
   (R 2 = 0.69 für SR und R 2 = 0.70 für NRI) der optimierten Modelle in die landwirtschaftliche
   Praxis unterstrichen.
-publication: '*Photogrammetrie - Fernerkundung - Geoinformation*'
-doi: 10.1127/1432-8364/2013/0182
+
 ---
+
+Martin Leon Gnyp, Kang Yu, Helge Aasen, Yinkun Yao, Shanyu Huang, Yuxin Miao, & Georg Bareth (2013). Analysis of Crop Reflectance for Estimating Biomass in Rice Canopies at Different Phenological Stages. *Photogrammetrie - Fernerkundung - Geoinformation*, 2013(4): 351--365.

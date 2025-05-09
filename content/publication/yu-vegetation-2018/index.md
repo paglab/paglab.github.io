@@ -1,10 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Vegetation reflectance spectroscopy for biomonitoring of heavy metal pollution
   in urban soils
-subtitle: ''
-summary: ''
+date: '2018-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Kang Yu
 - Maarten Van Geel
@@ -21,38 +21,9 @@ authors:
 - Marc Saudreau
 - Olivier Honnay
 - Ben Somers
-tags:
-- Bio-indicator
-- leaf functional trait
-- Leaf functional trait
-- Red-edge position
-- soil heavy metal contamination
-- Soil heavy metal contamination
-- vegetation reflectance spectroscopy
-- Vegetation reflectance spectroscopy
-categories: []
-date: '2018-12-01'
-lastmod: 2025-05-07T21:24:26+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:26.512603Z'
-publication_types:
-- '2'
+publication: Environmental Pollution
+doi: 10.1016/j.envpol.2018.09.053
+url: ''
 abstract: Heavy metals in urban soils may impose a threat to public health and may
   negatively affect urban tree viability. Vegetation spectroscopy techniques applied
   to bio-indicators bring new opportunities to characterize heavy metal contamination,
@@ -70,14 +41,12 @@ abstract: Heavy metals in urban soils may impose a threat to public health and m
   induced contrasting spectral changes in the red-edge (690–740 nm) region, which
   might be associated with the proportional changes in leaf pigments. PLS-DA models
   allowed for the classifications of Cd and Pb contamination, with a classification
-  accuracy of 86% (Kappa = 0.48) and 83% (Kappa = 0.66), respectively. PLS-DA models
+  accuracy of 86\% (Kappa = 0.48) and 83\% (Kappa = 0.66), respectively. PLS-DA models
   also allowed for the detection of a collective elevation of soil Cd and Pb, with
-  an accuracy of 66% (Kappa = 0.49). This study demonstrates the potential of using
+  an accuracy of 66\% (Kappa = 0.49). This study demonstrates the potential of using
   reflectance spectroscopy for biomonitoring of heavy metal contamination in urban
   soils.
-publication: '*Environmental Pollution*'
-doi: 10.1016/j.envpol.2018.09.053
-links:
-- name: URL
-  url: http://www.sciencedirect.com/science/article/pii/S026974911832356X
+
 ---
+
+Kang Yu, Maarten Van Geel, Tobias Ceulemans, Willem Geerts, Miguel Marcos Ramos, Cindy Serafim, Nadine Sousa, Paula M. L. Castro, Pierre Kastendeuch, Georges Najjar, Thierry Ameglio, Jérôme Ngao, Marc Saudreau, Olivier Honnay, & Ben Somers (2018). Vegetation reflectance spectroscopy for biomonitoring of heavy metal pollution in urban soils. *Environmental Pollution*, 243: 1912--1922.

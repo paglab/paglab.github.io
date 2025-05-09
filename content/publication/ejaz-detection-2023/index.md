@@ -1,10 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Detection of combined frost and drought stress in wheat using hyperspectral
   and chlorophyll fluorescence imaging
-subtitle: ''
-summary: ''
+date: '2023-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Irsa Ejaz
 - Wei Li
@@ -18,40 +18,13 @@ authors:
 - Zhimin Wang
 - Zhencai Sun
 - Kang Yu
-tags:
-- PLSR
-- Hyperspectral
-- Chilling injury
-- Combined stress
-- Enzyme activity
-- Fluorescence
-categories: []
-date: '2023-05-01'
-lastmod: 2025-05-07T21:24:28+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:27.976856Z'
-publication_types:
-- '2'
+publication: Environmental Technology \& Innovation
+doi: 10.1016/j.eti.2023.103051
+url: ''
 abstract: Immediate detection and prediction tools for interactive stresses are essential
   to avoid yield losses. This study investigated the capability of hyperspectral (HSI)
   and chlorophyll fluorescence imaging (CFI) to characterize individual and interactive
-  frost (−4 °C) and drought (40% soil moisture content) stress responses at the booting
+  frost (−4 °C) and drought (40\% soil moisture content) stress responses at the booting
   stage of wheat under controlled environmental conditions. HSI full range reflectance
   (280–2500 nm), CFI, and traditional responses (leaf water content, photosynthesis,
   and enzymatic activity) were measured from flag leaves. The potentiality of HSI
@@ -70,9 +43,7 @@ abstract: Immediate detection and prediction tools for interactive stresses are 
   and enzyme activities showed a strong correlation in determining yield losses. Hence,
   HSI and CFI techniques successfully detected combined frost and drought stresses
   for rapid quantification.
-publication: '*Environmental Technology & Innovation*'
-doi: 10.1016/j.eti.2023.103051
-links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S2352186423000470
+
 ---
+
+Irsa Ejaz, Wei Li, Muhammad Asad Naseer, Yebei Li, Weilong Qin, Muhammad Farooq, Fei Li, Shoubing Huang, Yinghua Zhang, Zhimin Wang, Zhencai Sun, & Kang Yu (2023). Detection of combined frost and drought stress in wheat using hyperspectral and chlorophyll fluorescence imaging. *Environmental Technology \& Innovation*, 30: 103051.

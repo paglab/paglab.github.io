@@ -1,43 +1,18 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'OPTRAM-ET: A novel approach to remote sensing of actual evapotranspiration
   applied to Sentinel-2 and Landsat-8 observations'
-subtitle: ''
-summary: ''
+date: '2023-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Ali Mokhtari
 - Morteza Sadeghi
 - Yasamin Afrasiabian
 - Kang Yu
-tags:
-- Optical remote sensing
-- Google earth engine
-- Thermal remote sensing
-- Priestley-Taylor
-categories: []
-date: '2023-03-01'
-lastmod: 2025-05-07T21:24:35+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:34.784056Z'
-publication_types:
-- '2'
+publication: Remote Sensing of Environment
+doi: 10.1016/j.rse.2022.113443
+url: ''
 abstract: Satellite remote sensing technology provides a promising means for near
   real-time monitoring of crop water status and requirements in agricultural and hydrological
   applications. Estimation of actual evapotranspiration (ETa) often requires thermal
@@ -58,9 +33,7 @@ abstract: Satellite remote sensing technology provides a promising means for nea
   satellite image, a temporally-invariant region-specific calibration is possible
   in the OPTRAM-ET model. Therefore, OPTRAM-ET is substantially less computationally
   demanding than the LST-VI model.
-publication: '*Remote Sensing of Environment*'
-doi: 10.1016/j.rse.2022.113443
-links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0034425722005491
+
 ---
+
+Ali Mokhtari, Morteza Sadeghi, Yasamin Afrasiabian, & Kang Yu (2023). OPTRAM-ET: A novel approach to remote sensing of actual evapotranspiration applied to Sentinel-2 and Landsat-8 observations. *Remote Sensing of Environment*, 286: 113443.

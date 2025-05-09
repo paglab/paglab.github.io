@@ -1,10 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Remotely detecting canopy nitrogen concentration and uptake of paddy rice in
   the Northeast China Plain
-subtitle: ''
-summary: ''
+date: '2013-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Kang Yu
 - Fei Li
@@ -12,38 +12,9 @@ authors:
 - Yuxin Miao
 - Georg Bareth
 - Xinping Chen
-tags:
-- Heading stage
-- Hyperspectral index
-- Lambda by lambda band-optimized algorithm
-- N dilution effect
-- Stepwise multiple linear regression
-- Nitrogen status
-- Rice
-- rice
-categories: []
-date: '2013-04-01'
-lastmod: 2025-05-07T21:24:20+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:20.473811Z'
-publication_types:
-- '2'
+publication: ISPRS Journal of Photogrammetry and Remote Sensing
+doi: 10.1016/j.isprsjprs.2013.01.008
+url: ''
 abstract: The influence of morphophysiological variation at different growth stages
   on the performance of vegetation indices for estimating plant N status has been
   confirmed. However, the underlying mechanisms explaining how this variation impacts
@@ -74,9 +45,7 @@ abstract: The influence of morphophysiological variation at different growth sta
   influences of N dilution effect on hyperspectral band combinations in relating to
   the different N variables and further recommends the best band combinations which
   may provide an insight for developing new hyperspectral vegetation indices.
-publication: '*ISPRS Journal of Photogrammetry and Remote Sensing*'
-doi: 10.1016/j.isprsjprs.2013.01.008
-links:
-- name: URL
-  url: http://www.sciencedirect.com/science/article/pii/S0924271613000282
+
 ---
+
+Kang Yu, Fei Li, Martin L. Gnyp, Yuxin Miao, Georg Bareth, & Xinping Chen (2013). Remotely detecting canopy nitrogen concentration and uptake of paddy rice in the Northeast China Plain. *ISPRS Journal of Photogrammetry and Remote Sensing*, 78: 102--115.

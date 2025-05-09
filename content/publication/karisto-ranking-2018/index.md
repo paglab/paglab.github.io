@@ -1,10 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Ranking Quantitative Resistance to Septoria tritici Blotch in Elite Wheat Cultivars
   Using Automated Image Analysis
-subtitle: ''
-summary: ''
+date: '2018-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Petteri Karisto
 - Andreas Hund
@@ -14,30 +14,9 @@ authors:
 - Fabio Mascher
 - Bruce A. McDonald
 - Alexey Mikaberidze
-tags: []
-categories: []
-date: '2018-04-01'
-lastmod: 2025-05-07T21:24:26+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:25.910017Z'
-publication_types:
-- '2'
+publication: Phytopathology
+doi: 10.1094/PHYTO-04-17-0163-R
+url: ''
 abstract: Quantitative resistance is likely to be more durable than major gene resistance
   for controlling Septoria tritici blotch (STB) on wheat. Earlier studies hypothesized
   that resistance affecting the degree of host damage, as measured by the percentage
@@ -65,9 +44,7 @@ abstract: Quantitative resistance is likely to be more durable than major gene r
   yield losses caused by STB. These data can already be used by breeding programs
   to choose wheat cultivars that are broadly resistant to naturally diverse Z. tritici
   populations according to the different classes of resistance.
-publication: '*Phytopathology*'
-doi: 10.1094/PHYTO-04-17-0163-R
-links:
-- name: URL
-  url: https://apsjournals.apsnet.org/doi/10.1094/PHYTO-04-17-0163-R
+
 ---
+
+Petteri Karisto, Andreas Hund, Kang Yu, Jonas Anderegg, Achim Walter, Fabio Mascher, Bruce A. McDonald, & Alexey Mikaberidze (2018). Ranking Quantitative Resistance to Septoria tritici Blotch in Elite Wheat Cultivars Using Automated Image Analysis. *Phytopathology*, 108(5): 568--581.

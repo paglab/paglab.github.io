@@ -1,10 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Hyperspectral Vegetation Indices to Assess Water and Nitrogen Status of Sweet
   Maize Crop
-subtitle: ''
-summary: ''
+date: '2022-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Milica Colovic
 - Kang Yu
@@ -13,36 +13,9 @@ authors:
 - Mohamad Hamze
 - Rossella Albrizio
 - Anna Maria Stellacci
-tags:
-- bio-physiological crop parameters
-- narrow-bands spectral indices
-- red-edge
-- vegetation reflectance
-- water and nitrogen stress
-- water band indices
-categories: []
-date: '2022-09-01'
-lastmod: 2025-05-07T21:24:32+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:32.675904Z'
-publication_types:
-- '2'
+publication: Agronomy
+doi: 10.3390/agronomy12092181
+url: ''
 abstract: The deployment of novel technologies in the field of precision farming has
   risen to the top of global agendas in response to the impact of climate change and
   the possible shortage of resources such as water and fertilizers. The present research
@@ -65,9 +38,7 @@ abstract: The deployment of novel technologies in the field of precision farming
   to nitrogen levels compared to the structural and water band indices. Our study
   highlighted that it is critical to choose proper narrow-band vegetation indices
   to monitor the plant eco-physiological response to water and nitrogen stresses.
-publication: '*Agronomy*'
-doi: 10.3390/agronomy12092181
-links:
-- name: URL
-  url: https://www.mdpi.com/2073-4395/12/9/2181
+
 ---
+
+Milica Colovic, Kang Yu, Mladen Todorovic, Vito Cantore, Mohamad Hamze, Rossella Albrizio, & Anna Maria Stellacci (2022). Hyperspectral Vegetation Indices to Assess Water and Nitrogen Status of Sweet Maize Crop. *Agronomy*, 12(9): 2181.

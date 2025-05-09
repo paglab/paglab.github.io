@@ -1,10 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Foliar optical traits indicate that sealed planting conditions negatively affect
   urban tree health
-subtitle: ''
-summary: ''
+date: '2018-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Kang Yu
 - Maarten Van Geel
@@ -20,36 +20,9 @@ authors:
 - Marc Saudreau
 - Olivier Honnay
 - Ben Somers
-tags:
-- Hyperspectral indices
-- Functional traits
-- Phenology
-- Urban ecosystem
-- Soil sealing
-- Foliar optical traits
-categories: []
-date: '2018-12-01'
-lastmod: 2025-05-07T21:24:26+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:26.216809Z'
-publication_types:
-- '2'
+publication: Ecological Indicators
+doi: 10.1016/j.ecolind.2018.08.047
+url: ''
 abstract: 'Urban trees play a key role in mitigating environmental problems in cities,
   but they often face harsh environmental conditions as they generally grow in sealed
   soils that have small rooting space and low water availability. In this context,
@@ -71,9 +44,7 @@ abstract: 'Urban trees play a key role in mitigating environmental problems in c
   demonstrating the great potential of optical traits in assessing tree health status.
   Our findings provide insights into facilitating urban green management using optical
   traits and remote sensing data.'
-publication: '*Ecological Indicators*'
-doi: 10.1016/j.ecolind.2018.08.047
-links:
-- name: URL
-  url: http://www.sciencedirect.com/science/article/pii/S1470160X18306484
+
 ---
+
+Kang Yu, Maarten Van Geel, Tobias Ceulemans, Willem Geerts, Miguel Marcos Ramos, Nadine Sousa, Paula M. L. Castro, Pierre Kastendeuch, Georges Najjar, Thierry Ameglio, Jérôme Ngao, Marc Saudreau, Olivier Honnay, & Ben Somers (2018). Foliar optical traits indicate that sealed planting conditions negatively affect urban tree health. *Ecological Indicators*, 95: 895--906.

@@ -1,39 +1,18 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Maize plant detection using UAV-based RGB imaging and YOLOv5
-subtitle: ''
-summary: ''
+date: '2024-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Chenghao Lu
 - Emmanuel Nnadozie
 - Moritz Paul Camenzind
 - Yuncai Hu
 - Kang Yu
-tags: []
-categories: []
-date: '2024-01-01'
-lastmod: 2025-05-07T21:24:36+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:36.378689Z'
-publication_types:
-- '2'
+publication: Frontiers in Plant Science
+doi: 10.3389/fpls.2023.1274813
+url: ''
 abstract: In recent years, computer vision (CV) has made enormous progress and is
   providing great possibilities in analyzing images for object detection, especially
   with the application of machine learning (ML). Unmanned Aerial Vehicle (UAV) based
@@ -52,9 +31,7 @@ abstract: In recent years, computer vision (CV) has made enormous progress and i
   of the 3-leaf stage. This work provides a practical reference for applying lightweight
   ML and deep learning methods to UAV images for automated object detection and characterization
   of plant growth under realistic environments.
-publication: '*Frontiers in Plant Science*'
-doi: 10.3389/fpls.2023.1274813
-links:
-- name: URL
-  url: https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2023.1274813
+
 ---
+
+Chenghao Lu, Emmanuel Nnadozie, Moritz Paul Camenzind, Yuncai Hu, & Kang Yu (2024). Maize plant detection using UAV-based RGB imaging and YOLOv5. *Frontiers in Plant Science*, 14: 1274813.

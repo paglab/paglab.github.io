@@ -1,0 +1,11 @@
+/* Hide any numeric tags that might appear */
+[data-filter]::after {
+  content: "" !important;
+}
+
+/* Style the text labels */
+.btn-group button {
+  &[data-filter="2"]::before { content: "Journal Articles"; }
+  &[data-filter="1"]::before { content: "Conference Papers"; }
+  /* Add others as needed */
+}

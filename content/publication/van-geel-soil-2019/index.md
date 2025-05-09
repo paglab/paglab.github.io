@@ -1,10 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Soil organic matter rather than ectomycorrhizal diversity is related to urban
   tree health
-subtitle: ''
-summary: ''
+date: '2019-01-01'
+publication_types:
+- '2'
+publication_type_label: Journal Article
 authors:
 - Maarten Van Geel
 - Kang Yu
@@ -20,38 +20,9 @@ authors:
 - Paula Castro
 - Ben Somers
 - Olivier Honnay
-tags:
-- Urban ecosystems
-- Leaves
-- Phylogenetics
-- Trees
-- Urban areas
-- Urban ecology
-- Phylogenetic analysis
-- Extracellular matrix
-categories: []
-date: '2019-11-01'
-lastmod: 2025-05-07T21:24:29+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2025-05-07T19:24:29.679795Z'
-publication_types:
-- '2'
+publication: PLOS ONE
+doi: 10.1371/journal.pone.0225714
+url: ''
 abstract: 'Urban trees provide many ecosystem services, including carbon sequestration,
   air quality improvement, storm water attenuation and energy conservation, to people
   living in cities. Provisioning of ecosystem services by urban trees, however, may
@@ -75,9 +46,7 @@ abstract: 'Urban trees provide many ecosystem services, including carbon sequest
   services they deliver. Further research should also study other soil microbiota
   which may independently, or in interaction with ectomycorrhiza, mediate tree performance
   in urban settings.'
-publication: '*PLOS ONE*'
-doi: 10.1371/journal.pone.0225714
-links:
-- name: URL
-  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225714
+
 ---
+
+Maarten Van Geel, Kang Yu, Gerrit Peeters, Kasper van Acker, Miguel Ramos, Cindy Serafim, Pierre Kastendeuch, Georges Najjar, Thierry Ameglio, Jérôme Ngao, Marc Saudreau, Paula Castro, Ben Somers, & Olivier Honnay (2019). Soil organic matter rather than ectomycorrhizal diversity is related to urban tree health. *PLOS ONE*, 14(11): e0225714.
