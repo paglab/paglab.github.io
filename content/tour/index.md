@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Discover & Develop :flying_saucer:️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Discover & Develop & Deploy:flying_saucer:️
+        content: 'Discover the truth, develop the technology, deploy the practice, by exciting your new ideas together!'
         align: left
         background:
           image:
