@@ -27,18 +27,21 @@ organizations:
   url: ""
 role: Professor of Precision Agriculture
 social:
-- icon: envelope
+- icon: globe
   icon_pack: fas
-  link: mailto:test@example.org
-- icon: twitter
+  link: "https://www.pa.wzw.tum.de"
+- icon: orcid
   icon_pack: fab
-  link: https://twitter.com/PrecisionAgLab
+  link: https://orcid.org/0000-0002-0686-6783
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=atIbrIsAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/kang-yu
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/PrecisionAgLab
 superuser: true
 title: Kang Yu
 user_groups:
