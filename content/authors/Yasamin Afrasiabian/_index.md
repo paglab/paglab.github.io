@@ -1,11 +1,11 @@
 ---
-title: Jingcheng Zhang
+title: Yasamin Afrasiabian
 
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 
-first_name: Jingcheng
-last_name: Zhang
+first_name: Yasamin
+last_name: Afrasiabian
 
 education:
   courses:
@@ -38,13 +38,13 @@ social:
   link: https://orcid.org/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/
 
 superuser: false
 user_groups:
