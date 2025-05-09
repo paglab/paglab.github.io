@@ -1,4 +1,5 @@
 ---
+# Exact the author name (case sensitive) & how it is shown in the page
 title: Jingcheng Zhang
 
 bio: My research interests include distributed robotics, mobile computing and programmable
@@ -42,6 +43,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
+- icon: researchgate
+  icon_pack: fab
+  link: "https://www.researchgate.net/profile/Jingcheng_Zhang"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
