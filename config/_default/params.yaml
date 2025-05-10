@@ -144,8 +144,8 @@ params:
     filter_default: "All"
     show_publication_type: true
     display_type_as: text
-    show_publication_type: badge  # Options: badge/text/none
-    badge_style: rounded  # Options: rounded/pill/square
+#    show_publication_type: badge  # Options: badge/text/none
+#    badge_style: rounded  # Options: rounded/pill/square
 
 
 markup:
