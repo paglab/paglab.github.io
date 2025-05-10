@@ -1,3 +1,5 @@
+---
+# Display Author full name 
 title: Jingcheng Zhang
 
 bio: My research focuses on UAV-based phenotyping, hyperspectral remote sensing, and modeling of photosynthetic traits and yield in winter wheat.
