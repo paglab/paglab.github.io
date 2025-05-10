@@ -1,6 +1,6 @@
 ---
 title: "UAV-based multispectral imaging helps understand crop Nitrogen Use Efficiency"
-author: "Simon Urbanek"
+author: "Drone Pag"
 date: "2025-04-10"
 slug: "uav-based-multispectral-imaging-helps-understand-crop-nitrogen-use-efficiency"
 categories: Story
@@ -10,7 +10,8 @@ tags:
 - Nitrogen use efficiency
 subtitle: ''
 summary: ''
-authors: Drone Pag
+# authors: 
+# - Drone Pag
 lastmod: "2025-05-09T14:38:33+02:00"
 featured: false
 draft: false
