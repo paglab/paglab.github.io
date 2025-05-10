@@ -4,7 +4,6 @@ title: A New Critical Nitrogen Dilution Curve for Rice Nitrogen Status Diagnosis
 date: '2018-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Shanyu Huang
 - Yuxin Miao

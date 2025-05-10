@@ -4,7 +4,6 @@ title: Investigation of Leaf Diseases and Estimation of Chlorophyll Concentratio
 date: '2014-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Kang Yu
 - Georg Leufen

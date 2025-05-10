@@ -3,7 +3,6 @@ title: Predicting micronutrients of wheat using hyperspectral imaging
 date: '2021-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Naiyue Hu
 - Wei Li

@@ -4,7 +4,6 @@ title: Improving potato leaf chlorophyll content prediction using a machine lear
 date: '2025-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Haibo Yang
 - Yuncai Hu

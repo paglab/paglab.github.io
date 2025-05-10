@@ -3,7 +3,6 @@ title: Derivative analysis to improve rice biomass estimation at early growth st
 date: '2014-01-01'
 publication_types:
 - '1'
-publication_type_label: Conference Paper
 authors:
 - Martin Leon Gnyp
 - Yuxin Miao

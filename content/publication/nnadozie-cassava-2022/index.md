@@ -4,7 +4,6 @@ title: 'Cassava Detection from UAV Images Using YOLOv5 Object Detection Model: T
 date: '2022-01-01'
 publication_types:
 - '0'
-publication_type_label: Other
 authors:
 - Emmanuel C. Nnadozie
 - Ogechukwu Iloanusi

@@ -4,7 +4,6 @@ title: Analysis of Crop Reflectance for Estimating Biomass in Rice Canopies at D
 date: '2013-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Martin Leon Gnyp
 - Kang Yu

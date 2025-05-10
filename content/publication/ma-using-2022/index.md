@@ -4,7 +4,6 @@ title: Using multispectral drone data to monitor maize’s response to various i
 date: '2022-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - L.-F. Ma
 - N.-Y. Hu

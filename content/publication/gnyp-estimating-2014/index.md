@@ -3,7 +3,6 @@ title: Estimating Biomass of Rice in Farmers' Fields by Red-Edge Indices
 date: '2014-01-01'
 publication_types:
 - '1'
-publication_type_label: Conference Paper
 authors:
 - Martin Leon Gnyp
 - Kang Yu

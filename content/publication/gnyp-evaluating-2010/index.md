@@ -4,7 +4,6 @@ title: Evaluating within-field rice growth variability using Quickbird and Ikono
 date: '2010-01-01'
 publication_types:
 - '1'
-publication_type_label: Conference Paper
 authors:
 - ML Gnyp
 - Y Yao

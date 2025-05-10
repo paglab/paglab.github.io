@@ -4,7 +4,6 @@ title: Meta-Analysis Assessing Potential of Drone Remote Sensing in Estimating P
 date: '2024-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Jingcheng Zhang
 - Yuncai Hu

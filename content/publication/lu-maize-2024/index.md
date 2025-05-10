@@ -3,7 +3,6 @@ title: Maize plant detection using UAV-based RGB imaging and YOLOv5
 date: '2024-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Chenghao Lu
 - Emmanuel Nnadozie

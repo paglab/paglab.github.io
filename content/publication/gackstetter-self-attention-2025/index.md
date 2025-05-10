@@ -4,7 +4,6 @@ title: Self-attention and frequency-augmentation for unsupervised domain adaptat
 date: '2025-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - David Gackstetter
 - Kang Yu

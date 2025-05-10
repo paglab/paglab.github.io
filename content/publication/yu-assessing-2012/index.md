@@ -4,7 +4,6 @@ title: Assessing Hyperspectral Vegetation Indices for Estimating Leaf Chlorophyl
 date: '2012-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - K. Yu
 - V. Lenz-Wiedemann

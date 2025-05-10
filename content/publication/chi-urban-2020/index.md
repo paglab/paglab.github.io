@@ -4,7 +4,6 @@ title: Urban Tree Health Classification Across Tree Species by Combining Airborn
 date: '2020-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Dengkai Chi
 - Jeroen Degerickx

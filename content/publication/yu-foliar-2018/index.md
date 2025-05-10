@@ -4,7 +4,6 @@ title: Foliar optical traits indicate that sealed planting conditions negatively
 date: '2018-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Kang Yu
 - Maarten Van Geel

@@ -4,7 +4,6 @@ title: Wheat varieties show consistent differences in root colonization by mycor
 date: '2024-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Agnė Veršulienė
 - Juliane Hirte

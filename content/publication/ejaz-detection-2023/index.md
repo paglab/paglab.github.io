@@ -4,7 +4,6 @@ title: Detection of combined frost and drought stress in wheat using hyperspectr
 date: '2023-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Irsa Ejaz
 - Wei Li

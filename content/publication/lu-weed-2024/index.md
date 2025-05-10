@@ -3,7 +3,6 @@ title: Weed Instance Segmentation from UAV ortho-mosaic Images based on Deep Lea
 date: '2024-01-01'
 publication_types:
 - '0'
-publication_type_label: Other
 authors:
 - Chenghao Lu
 - Kang Yu

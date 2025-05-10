@@ -4,7 +4,6 @@ title: Substrate pH mediates growth promotion and resilience to water stress of 
 date: '2024-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Cindy Serafim
 - Miguel A. Ramos

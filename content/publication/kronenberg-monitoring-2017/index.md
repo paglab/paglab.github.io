@@ -4,7 +4,6 @@ title: 'Monitoring the dynamics of wheat stem elongation: genotypes differ at cr
 date: '2017-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Lukas Kronenberg
 - Kang Yu

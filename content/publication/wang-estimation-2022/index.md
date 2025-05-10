@@ -4,7 +4,6 @@ title: Estimation of Above-Ground Biomass of Winter Wheat Based on Consumer-Grad
 date: '2022-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Falv Wang
 - Mao Yang

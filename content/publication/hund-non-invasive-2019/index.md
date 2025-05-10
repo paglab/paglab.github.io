@@ -3,7 +3,6 @@ title: Non-invasive field phenotyping of cereal development
 date: '2019-01-01'
 publication_types:
 - '6'
-publication_type_label: Book Section
 authors:
 - Andreas Hund
 - Lukas Kronenberg

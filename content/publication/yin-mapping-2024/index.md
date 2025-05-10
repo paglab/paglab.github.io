@@ -4,7 +4,6 @@ title: Mapping Plant Nitrogen Concentration and Aboveground Biomass of Potato Cr
 date: '2024-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Hang Yin
 - Fei Li

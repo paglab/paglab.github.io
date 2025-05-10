@@ -4,7 +4,6 @@ title: Machine learning models fed with optimized spectral indices to advance cr
 date: '2023-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Haibo Yang
 - Hang Yin

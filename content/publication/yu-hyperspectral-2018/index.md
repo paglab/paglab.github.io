@@ -3,7 +3,6 @@ title: Hyperspectral Canopy Sensing of Wheat Septoria Tritici Blotch Disease
 date: '2018-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Kang Yu
 - Jonas Anderegg

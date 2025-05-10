@@ -4,7 +4,6 @@ title: Variation in ectomycorrhizal fungal communities associated with Silver li
 date: '2018-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Maarten Van Geel
 - Kang Yu

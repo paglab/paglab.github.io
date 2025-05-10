@@ -4,7 +4,6 @@ title: Estimate Leaf Chlorophyll of Rice Using Reflectance Indices and Partial L
 date: '2015-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Kang Yu
 - Martin Leon Gnyp

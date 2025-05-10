@@ -3,7 +3,6 @@ title: Machine Learning on the estimation of Leaf Area Index
 date: '2022-01-01'
 publication_types:
 - '1'
-publication_type_label: Conference Paper
 authors:
 - Yasamin Afrasiabian
 - Ali Mokhtari

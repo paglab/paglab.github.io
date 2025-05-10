@@ -4,7 +4,6 @@ title: Multi temporal multispectral UAV remote sensing allows for yield assessme
 date: '2024-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Moritz Paul Camenzind
 - Kang Yu

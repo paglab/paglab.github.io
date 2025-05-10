@@ -3,7 +3,6 @@ title: Active canopy sensor-based precision N management strategy for rice
 date: '2012-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Yinkun Yao
 - Yuxin Miao

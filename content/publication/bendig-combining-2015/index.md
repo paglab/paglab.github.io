@@ -4,7 +4,6 @@ title: Combining UAV-based plant height from crop surface models, visible, and n
 date: '2015-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Juliane Bendig
 - Kang Yu

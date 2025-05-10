@@ -4,7 +4,6 @@ title: 'Application of unmanned aerial vehicle optical remote sensing in crop ni
 date: '2024-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Daoliang Li
 - Shuai Yang

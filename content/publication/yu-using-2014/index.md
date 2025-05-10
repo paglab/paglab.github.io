@@ -4,7 +4,6 @@ title: Using partial least squares (PLS) to estimate canopy nitrogen and biomass
 date: '2014-01-01'
 publication_types:
 - '1'
-publication_type_label: Conference Paper
 authors:
 - Kang Yu
 - Martin Leon Gnyp

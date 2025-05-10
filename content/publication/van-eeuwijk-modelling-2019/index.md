@@ -4,7 +4,6 @@ title: Modelling strategies for assessing and increasing the effectiveness of ne
 date: '2019-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Fred A. van Eeuwijk
 - Daniela Bustos-Korts

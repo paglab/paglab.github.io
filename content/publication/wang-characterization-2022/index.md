@@ -4,7 +4,6 @@ title: Characterization of N distribution in different organs of winter wheat us
 date: '2022-01-01'
 publication_types:
 - '0'
-publication_type_label: Other
 authors:
 - Falv Wang
 - Wei Li

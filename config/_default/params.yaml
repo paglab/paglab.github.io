@@ -118,36 +118,34 @@ extensions:
   academicons:
     enable: true
 
-# Citation style
-
-publications:
-  date_format: January 2006
-  citation_style: apa
-  
 
 # Replace any existing publications configuration with:
 params:
   publications:
+    date_format: January 2006
+    citation_style: apa
     filters:
-      - name: Journal Article
+      - name: Journal Articles
         tag: '2'
-      - name: Conference Paper
+      - name: Conference Papers
         tag: '1'
-      - name: Preprint
+      - name: Preprints
         tag: '3'
-      - name: Thesis
+      - name: Theses
         tag: '4'
-      - name: Book
+      - name: Books
         tag: '5'
-      - name: Book Section
+      - name: Book Sections
         tag: '6'
       - name: Other
         tag: '0'
     
     # Display settings
-    filter_default: 'All'
+    filter_default: "All"
     show_publication_type: true
     display_type_as: text
+    show_publication_type: badge  # Options: badge/text/none
+    badge_style: rounded  # Options: rounded/pill/square
 
 
 markup:

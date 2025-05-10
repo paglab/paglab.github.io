@@ -4,7 +4,6 @@ title: Estimating Above-Ground Biomass of Potato Using Random Forest and Optimiz
 date: '2021-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Haibo Yang
 - Fei Li

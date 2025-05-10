@@ -4,7 +4,6 @@ title: Drone Multispectral Imaging Captures the Effects of Soil Nmin on Canopy S
 date: '2024-01-01'
 publication_types:
 - '0'
-publication_type_label: Other
 authors:
 - Jie Wang
 - Sebastian Meyer

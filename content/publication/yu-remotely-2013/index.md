@@ -4,7 +4,6 @@ title: Remotely detecting canopy nitrogen concentration and uptake of paddy rice
 date: '2013-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Kang Yu
 - Fei Li

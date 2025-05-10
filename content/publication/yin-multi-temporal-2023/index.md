@@ -3,7 +3,6 @@ title: Multi-temporal UAV Imaging-Based Mapping of Chlorophyll Content in Potato
 date: '2023-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Hang Yin
 - Weili Huang

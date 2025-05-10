@@ -4,7 +4,6 @@ title: UAV-Based Multi-Temporal Thermal Imaging to Evaluate Wheat Drought Resist
 date: '2022-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Weilong Qin
 - Jian Wang

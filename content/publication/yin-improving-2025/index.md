@@ -4,7 +4,6 @@ title: Improving the transferability of potato nitrogen concentration estimation
 date: '2025-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Hang Yin
 - Haibo Yang

@@ -112,12 +112,12 @@ sanitize_slug <- function(key) {
 map_publication_type <- function(bibtype) {
   type_mapping <- list(
     "0" = list(code = "0", label = "Other"),
-    "1" = list(code = "1", label = "Conference Paper"),
-    "2" = list(code = "2", label = "Journal Article"),
-    "3" = list(code = "3", label = "Preprint"),
-    "4" = list(code = "4", label = "Thesis"),
-    "5" = list(code = "5", label = "Book"),
-    "6" = list(code = "6", label = "Book Section")
+    "1" = list(code = "1", label = "Conference Papers"),
+    "2" = list(code = "2", label = "Journal Articles"),
+    "3" = list(code = "3", label = "Preprints"),
+    "4" = list(code = "4", label = "Theses"),
+    "5" = list(code = "5", label = "Books"),
+    "6" = list(code = "6", label = "Book Sections")
   )
   
   if (is.null(bibtype) || bibtype == "~") return(type_mapping[["2"]]) # Default to journal
@@ -179,8 +179,7 @@ main <- function() {
       metadata <- list(
         title = entry$title %||% "",
         date = parse_date(entry),
-        publication_types = list(map_publication_type(entry$bibtype)$code), # As array
-        publication_type_label = map_publication_type(entry$bibtype)$label, # For display
+        publication_types = list(map_publication_type(entry$bibtype)$code), # Keep as array
         authors = tryCatch(as.character(entry$author), error = function(e) "Unknown"),
         publication = entry$journal %||% entry$booktitle %||% "",
         doi = entry$doi %||% "",

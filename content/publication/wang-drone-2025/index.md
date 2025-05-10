@@ -4,7 +4,6 @@ title: Drone multispectral imaging captures the effects of soil mineral nitrogen
 date: '2025-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Jie Wang
 - Sebastian T. Meyer

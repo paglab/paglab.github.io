@@ -4,7 +4,6 @@ title: Spectroscopic estimation of N concentration in wheat organs for assessing
 date: '2021-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Wei Li
 - Xiaonan Zhou

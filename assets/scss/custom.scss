@@ -1,11 +1,18 @@
-/* Hide any numeric tags that might appear */
-[data-filter]::after {
-  content: "" !important;
+/* Publication type badges */
+.publication-badge {
+  display: inline-block;
+  padding: 0.2em 0.5em;
+  margin-right: 0.5em;
+  background: #f0f0f0;
+  border-radius: 3px;
+  font-size: 0.8em;
+  
+  &[data-type="2"] { background: #e3f2fd; } /* Journal */
+  &[data-type="1"] { background: #e8f5e9; } /* Conference */
 }
 
-/* Style the text labels */
-.btn-group button {
-  &[data-filter="2"]::before { content: "Journal Articles"; }
-  &[data-filter="1"]::before { content: "Conference Papers"; }
-  /* Add others as needed */
+/* Filter buttons */
+.pub-filters .btn {
+  text-transform: none !important;
+  letter-spacing: normal !important;
 }

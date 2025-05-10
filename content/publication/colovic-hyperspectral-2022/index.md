@@ -4,7 +4,6 @@ title: Hyperspectral Vegetation Indices to Assess Water and Nitrogen Status of S
 date: '2022-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Milica Colovic
 - Kang Yu

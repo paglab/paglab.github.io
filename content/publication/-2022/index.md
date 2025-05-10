@@ -3,7 +3,6 @@ title: 利用无人机多光谱数据监测玉米对不同灌溉模式的响应�
 date: '2022-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - 马龙飞
 - 胡乃月

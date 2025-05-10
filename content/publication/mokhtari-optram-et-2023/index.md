@@ -4,7 +4,6 @@ title: 'OPTRAM-ET: A novel approach to remote sensing of actual evapotranspirati
 date: '2023-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Ali Mokhtari
 - Morteza Sadeghi

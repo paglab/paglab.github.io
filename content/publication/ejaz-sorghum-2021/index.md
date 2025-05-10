@@ -3,7 +3,6 @@ title: Sorghum Grains Grading for Food, Feed, and Fuel Using NIR Spectroscopy
 date: '2021-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Irsa Ejaz
 - Siyang He

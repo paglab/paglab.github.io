@@ -4,7 +4,6 @@ title: Optimising Root and Grain Yield Through Variety Selection in Winter Wheat
 date: '2025-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - H. Heinemann
 - F. Durand-Maniclas

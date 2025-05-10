@@ -4,7 +4,6 @@ title: Planting contexts affect urban tree species classification using airborne
 date: '2025-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Dengkai Chi
 - Jingli Yan

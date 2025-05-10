@@ -7,7 +7,7 @@ first_name: Drone
 last_name: Pag
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Drone of Artificial Intelligence

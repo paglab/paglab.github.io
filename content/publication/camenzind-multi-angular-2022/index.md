@@ -3,7 +3,6 @@ title: Multi-angular Multispectral Sensing of Barley Awn Coloring
 date: '2022-01-01'
 publication_types:
 - '1'
-publication_type_label: Conference Paper
 authors:
 - Moritz Camenzind
 - Michael Thaler

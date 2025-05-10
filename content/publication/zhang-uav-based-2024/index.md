@@ -4,7 +4,6 @@ title: UAV-based assessment of the impact of aboveground biomass and photosynthe
 date: '2024-01-01'
 publication_types:
 - '1'
-publication_type_label: Conference Paper
 authors:
 - Jingcheng Zhang
 - Vladyslav Pitsyk

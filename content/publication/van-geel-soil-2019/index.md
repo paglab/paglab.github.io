@@ -4,7 +4,6 @@ title: Soil organic matter rather than ectomycorrhizal diversity is related to u
 date: '2019-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Maarten Van Geel
 - Kang Yu

@@ -4,7 +4,6 @@ title: An image analysis pipeline for automated classification of imaging light 
 date: '2017-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Kang Yu
 - Norbert Kirchgessner

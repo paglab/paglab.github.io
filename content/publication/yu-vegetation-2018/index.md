@@ -4,7 +4,6 @@ title: Vegetation reflectance spectroscopy for biomonitoring of heavy metal poll
 date: '2018-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Kang Yu
 - Maarten Van Geel

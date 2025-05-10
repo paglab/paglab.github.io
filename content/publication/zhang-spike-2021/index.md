@@ -4,7 +4,6 @@ title: Spike growth affects spike fertility through the number of florets with g
 date: '2021-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Zhen Zhang
 - Jing Li

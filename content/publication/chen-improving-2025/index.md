@@ -4,7 +4,6 @@ title: Improving winter wheat plant nitrogen concentration prediction by combini
 date: '2025-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Xiaokai Chen
 - Fenling Li

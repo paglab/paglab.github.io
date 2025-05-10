@@ -4,7 +4,6 @@ title: Detecting Cassava Plants under Different Field Conditions Using UAV-Based
 date: '2023-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Emmanuel C. Nnadozie
 - Ogechukwu N. Iloanusi

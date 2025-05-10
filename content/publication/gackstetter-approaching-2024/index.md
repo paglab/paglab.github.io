@@ -4,7 +4,6 @@ title: Approaching holistic crop type mapping in Europe through winter vegetatio
 date: '2024-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - David Gackstetter
 - Marco Körner

@@ -4,7 +4,6 @@ title: Precision Phenotyping Reveals Novel Loci for Quantitative Resistance to S
 date: '2019-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Steven Yates
 - Alexey Mikaberidze

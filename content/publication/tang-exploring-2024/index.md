@@ -4,7 +4,6 @@ title: Exploring the optimal wavelet function and wavelet feature for estimating
 date: '2024-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Yuzhe Tang
 - Fei Li

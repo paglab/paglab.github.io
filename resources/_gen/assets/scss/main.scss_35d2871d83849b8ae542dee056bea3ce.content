@@ -9736,14 +9736,22 @@ div.chart {
 .cta-group {
   justify-content: center; }
 
-/* Hide any numeric tags that might appear */
-[data-filter]::after {
-  content: "" !important; }
+/* Publication type badges */
+.publication-badge {
+  display: inline-block;
+  padding: 0.2em 0.5em;
+  margin-right: 0.5em;
+  background: #f0f0f0;
+  border-radius: 3px;
+  font-size: 0.8em;
+  /* Journal */
+  /* Conference */ }
+  .publication-badge[data-type="2"] {
+    background: #e3f2fd; }
+  .publication-badge[data-type="1"] {
+    background: #e8f5e9; }
 
-/* Style the text labels */
-.btn-group button {
-  /* Add others as needed */ }
-  .btn-group button[data-filter="2"]::before {
-    content: "Journal Articles"; }
-  .btn-group button[data-filter="1"]::before {
-    content: "Conference Papers"; }
+/* Filter buttons */
+.pub-filters .btn {
+  text-transform: none !important;
+  letter-spacing: normal !important; }

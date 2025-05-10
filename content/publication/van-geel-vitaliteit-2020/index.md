@@ -3,7 +3,6 @@ title: â€ªVitaliteit van stadsbomen. Het belang van omgeving en bodemschimmelsâ€
 date: '2020-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - M Van Geel
 - K Yu

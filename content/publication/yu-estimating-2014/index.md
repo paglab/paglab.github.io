@@ -4,7 +4,6 @@ title: Estimating leaf chlorophyll of barley at different growth stages using sp
 date: '2014-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Kang Yu
 - Victoria Lenz-Wiedemann

@@ -4,7 +4,6 @@ title: 'NTRI: A novel spectral index for developing a precise nitrogen diagnosis
 date: '2025-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Yuzhe Tang
 - Fei Li

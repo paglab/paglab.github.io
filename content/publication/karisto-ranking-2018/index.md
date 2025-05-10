@@ -4,7 +4,6 @@ title: Ranking Quantitative Resistance to Septoria tritici Blotch in Elite Wheat
 date: '2018-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Petteri Karisto
 - Andreas Hund

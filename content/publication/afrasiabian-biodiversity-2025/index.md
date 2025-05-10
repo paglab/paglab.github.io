@@ -4,7 +4,6 @@ title: Biodiversity Monitoring in Urban Community Gardens Using Proximal Sensing
 date: '2025-01-01'
 publication_types:
 - '0'
-publication_type_label: Other
 authors:
 - Yasamin Afrasiabian
 - Felix Contiz

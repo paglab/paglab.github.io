@@ -4,7 +4,6 @@ title: Hyperspectral canopy sensing of paddy rice aboveground biomass at differe
 date: '2014-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Martin L. Gnyp
 - Yuxin Miao

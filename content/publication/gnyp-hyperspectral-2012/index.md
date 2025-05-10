@@ -3,7 +3,6 @@ title: Hyperspectral Analysis of Rice Phenological Stages in Northeast China
 date: '2012-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - M. L. Gnyp
 - Y. Yao

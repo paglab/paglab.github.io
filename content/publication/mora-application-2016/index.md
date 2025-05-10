@@ -4,7 +4,6 @@ title: 'Application of the Prunus spp. Cyanide Seed Defense System onto Wheat: R
 date: '2016-01-01'
 publication_types:
 - '2'
-publication_type_label: Journal Article
 authors:
 - Carlos A. Mora
 - Jonas G. Halter
