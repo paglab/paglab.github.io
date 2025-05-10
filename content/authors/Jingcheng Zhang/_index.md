@@ -29,6 +29,9 @@ organizations:
   url: "https://www.pa.wzw.tum.de"
 role: PhD student
 
+featured_publications:
+  - "zhang-meta-analysis-2024"
+
 social:
 - icon: envelope
   icon_pack: fas

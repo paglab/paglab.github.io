@@ -1,8 +1,14 @@
 ---
+title: Kang Yu
+
 authors:
 - Kang Yu
+
 bio: My research interests include precision crop farming, hyperspectral remote sensing, and AI in agriculture.
 
+first_name: Kang
+last_name: Yu
+email: ""
 education:
   courses:
   - course: PhD in Physical Geography
@@ -14,17 +20,16 @@ education:
   - course: BSc in Agricultural Resource and Environmental Sciences
     institution: China Agricultural University
     year: 2007
-email: ""
-first_name: Kang
+
 highlight_name: false
 interests:
 - Vegetation remote sensing
 - Crop field phenotyping
 - Precision crop nutrient management
-last_name: Yu
+
 organizations:
 - name: Technical University of Munich
-  url: ""
+  url: "https://www.pa.wzw.tum.de"
 role: Professor of Precision Agriculture
 social:
 - icon: globe
@@ -42,8 +47,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PrecisionAgLab
+
 superuser: true
-title: Kang Yu
 user_groups:
 - Principal Investigators
 - Researchers

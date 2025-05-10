@@ -46,9 +46,17 @@ permalinks:
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
+outputFormats:
+  Authors:
+    baseName: "authors"
+    mediaType: "text/html"
+    isPlainText: false
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
+  authors: 
+    - HTML
+    - JSON
 imaging:
   resampleFilter: lanczos
   quality: 75

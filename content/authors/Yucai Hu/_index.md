@@ -1,29 +1,27 @@
 ---
 # Page title (what shows up on the page)
-title: "Yuncai Hu"
+title: PD. Dr. Yuncai Hu
 
-# Tell Hugo exactly what URL slug to use
-slug: "yuncai-hu"
-# (Optional) Or hard-code the full URL:
-# url: "/authors/yuncai-hu/"
+# Username (this should match the author folder name)
+authors:
+  - Yuncai Hu
 
-# Remove the 'authors:' list—this file *is* the author page.
-# authors:
-# - Yuncai Hu
-
-bio: >
-  My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 
-first_name: "Yuncai"
-last_name: "Hu"
+first_name: Yuncai
+last_name: Hu
 email: ""
 
-role: "Professor of Artificial Intelligence"
+role: "Researcher Plant Nutrition"
+
+featured_publications:
+  - "tang-ntri-2025"
+  - "yang-improving-2025"
 
 organizations:
-  - name: "Stanford University"
-    url: ""
+  - name: "Technical University of Munich"
+    url: "https://www.pa.wzw.tum.de"
 
 education:
   courses:

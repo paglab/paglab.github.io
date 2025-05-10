@@ -1,0 +1,11 @@
+<div class="card h-100">
+  <div class="card-body">
+    <h5 class="card-title">{{ .Title }}</h5>
+    <h6 class="card-subtitle mb-2 text-muted">
+      {{ .Date | time.Format "2006" }} | 
+      {{ index .Params.publication_types 0 | humanize }}
+    </h6>
+    <p class="card-text">{{ .Params.abstract | truncate 150 }}</p>
+    <a href="{{ .RelPermalink }}" class="btn btn-sm btn-outline-primary">Read More</a>
+  </div>
+</div>

@@ -1,0 +1,49 @@
+{{ define "main" }}
+{{ $author_name := .Title }}
+
+<!-- Debug Header -->
+<div class="alert alert-info">
+  <strong>Debug Info:</strong><br>
+  Author: {{ $author_name }}<br>
+  Featured Publications: {{ .Params.featured_publications | jsonify }}
+</div>
+
+<!-- Featured Publications -->
+<div class="featured-section">
+  <h2>Featured Work</h2>
+  <div class="row">
+    {{ range .Params.featured_publications }}
+      {{ $pub_path := printf "/publication/%s" . }}
+      {{ with $.Site.GetPage $pub_path }}
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">{{ .Title }}</h5>
+            <p class="card-text">{{ .Params.abstract | truncate 150 }}</p>
+            <a href="{{ .RelPermalink }}" class="btn btn-sm btn-primary">View</a>
+          </div>
+        </div>
+      </div>
+      {{ else }}
+      <div class="col-md-6 mb-4">
+        <div class="card bg-warning">
+          <div class="card-body">
+            <h5>Missing Publication</h5>
+            <p>Could not find: {{ $pub_path }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
+
+<!-- All Publications -->
+<div class="all-pubs">
+  <h2>All Publications</h2>
+  {{ $author_pubs := where site.RegularPages "Params.authors" "intersect" (slice $author_name) }}
+  {{ range $author_pubs.ByDate.Reverse }}
+    {{ partial "publication_li" . }}
+  {{ end }}
+</div>
+{{ end }}
