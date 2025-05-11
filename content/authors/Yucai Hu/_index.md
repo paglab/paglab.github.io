@@ -44,10 +44,10 @@ Yuncai Hu is a senior researcher in plant nutrition and precision agriculture. H
 His research encompasses the development of precision nitrogen management strategies, utilizing remote sensing and machine learning to monitor crop health and optimize fertilizer use. 
 Dr. Hu also investigates the physiological responses of crops to abiotic stresses such as drought and salinity, aiming to improve tolerance and yield stability.
 
-### Interests:
-  - "Plant nutrition"
-  - "Plant stress phenotyping"
-  - "Precision agriculture"
+### Interests
+  - Plant nutrition
+  - Plant stress phenotyping
+  - Precision agriculture
 
 
 ### Selected Publications {.pt-2}
