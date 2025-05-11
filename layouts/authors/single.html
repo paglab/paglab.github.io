@@ -1,49 +1,101 @@
 {{ define "main" }}
-{{ $author_name := .Title }}
 
-<!-- Debug Header -->
-<div class="alert alert-info">
-  <strong>Debug Info:</strong><br>
-  Author: {{ $author_name }}<br>
-  Featured Publications: {{ .Params.featured_publications | jsonify }}
-</div>
+{{ if eq .Title "PD. Dr. Yuncai Hu" }}
+<section class="pt-5">
+  <div class="container">
 
-<!-- Featured Publications -->
-<div class="featured-section">
-  <h2>Featured Work</h2>
-  <div class="row">
-    {{ range .Params.featured_publications }}
-      {{ $pub_path := printf "/publication/%s" . }}
-      {{ with $.Site.GetPage $pub_path }}
-      <div class="col-md-6 mb-4">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title">{{ .Title }}</h5>
-            <p class="card-text">{{ .Params.abstract | truncate 150 }}</p>
-            <a href="{{ .RelPermalink }}" class="btn btn-sm btn-primary">View</a>
-          </div>
-        </div>
-      </div>
-      {{ else }}
-      <div class="col-md-6 mb-4">
-        <div class="card bg-warning">
-          <div class="card-body">
-            <h5>Missing Publication</h5>
-            <p>Could not find: {{ $pub_path }}</p>
-          </div>
-        </div>
+    <!-- Avatar + bio -->
+    <div class="row">
+      {{ with .Params.image }}
+      <div class="col-md-3 text-center">
+        <img src="{{ . | relURL }}" class="avatar avatar-circle" alt="{{ $.Title }}">
       </div>
       {{ end }}
-    {{ end }}
-  </div>
-</div>
 
-<!-- All Publications -->
-<div class="all-pubs">
-  <h2>All Publications</h2>
-  {{ $author_pubs := where site.RegularPages "Params.authors" "intersect" (slice $author_name) }}
-  {{ range $author_pubs.ByDate.Reverse }}
-    {{ partial "publication_li" . }}
-  {{ end }}
-</div>
+      <div class="col-md-9">
+        <h1>{{ .Title }}</h1>
+
+        {{ with .Params.role }}
+        <div class="mb-2 text-muted">{{ . }}</div>
+        {{ end }}
+
+        {{ with .Params.organizations }}
+        {{ range . }}
+        <p><a href="{{ .url }}">{{ .name }}</a></p>
+        {{ end }}
+        {{ end }}
+
+        {{ with .Params.email }}
+        <p>Email: <a href="mailto:{{ . }}">{{ . }}</a></p>
+        {{ end }}
+
+        {{ with .Params.social }}
+        <p>
+          {{ range . }}
+          <a href="{{ .link }}" class="mr-3" target="_blank" rel="noopener">
+            <i class="{{ .icon_pack }} fa-{{ .icon }}"></i>
+          </a>
+          {{ end }}
+        </p>
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- Bio -->
+    <div class="row mt-4">
+      <div class="col-12">
+        {{ .Content }}
+      </div>
+    </div>
+
+    <!-- Interests -->
+    {{ with .Params.interests }}
+    <div class="row mt-4">
+      <div class="col-12">
+        <h2>Interests</h2>
+        <ul>
+          {{ range . }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+    {{ end }}
+
+    <!-- Education -->
+    {{ with .Params.education.courses }}
+    <div class="row mt-4">
+      <div class="col-12">
+        <h2>Education</h2>
+        <ul>
+          {{ range . }}
+          <li>{{ .course }}, {{ .institution }} ({{ .year }})</li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+    {{ end }}
+
+    <!-- Selected Publications -->
+    <div class="row mt-5">
+      <div class="col-12">
+        <h2>Selected Publications</h2>
+        <ul>
+          <li>
+            <strong>Opportunity and challenges of phenotyping plant salt tolerance</strong><br>
+            Yuncai Hu, Urs Schmidhalter (2023)<br>
+            <em>Trends in Plant Science</em><br>
+            <a href="https://doi.org/10.1016/j.tplants.2022.12.010">[DOI]</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+{{ else }}
+  {{ partial "page_author" . }}
+{{ end }}
+
 {{ end }}
