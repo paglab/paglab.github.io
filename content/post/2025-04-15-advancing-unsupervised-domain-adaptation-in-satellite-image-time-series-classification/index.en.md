@@ -1,6 +1,6 @@
 ---
 title: Advancing Unsupervised Domain Adaptation in Satellite Image Time Series Classification
-author: Simon Urbanek
+author: Drone Pag
 date: '2025-04-11'
 slug: advancing-unsupervised-domain-adaptation-in-satellite-image-time-series-classification
 categories:
