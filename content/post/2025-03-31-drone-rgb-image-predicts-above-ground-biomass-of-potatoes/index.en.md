@@ -22,9 +22,9 @@ image:
 projects: []
 ---
 
-The [*Yin et al. 2025*](/yin-drone-2025) paper aims to understand which types of features extracted from drone RGB images predict potato aboveground biomass (AGB) more accurately across different growth stages. 
+The [*Yin et al. 2025*](/publication/yin-drone-2025) paper aims to understand which types of features extracted from drone RGB images predict potato aboveground biomass (AGB) more accurately across different growth stages. 
 The innovation lies in the approach of integrating color indices with the gray-level co-occurrence matrix (GLCM) and Gabor wavelet textures. 
 Our results demonstrated that combining the color (spectral) features and texture features could significantly enhance predictive accuracy, 
 whereas different features varied a lot in their *contributions* to model performance.
-![Figure from Yin et al. 2025](/yin-drone-2025_Fig4.jpg)
+![Figure 4 from Yin et al. 2025](/yin-drone-2025_Fig4.jpg)
 Also, multi-scale texture features lead to improved predictions when using the Gaussian Process Regression (GPR).  
