@@ -22,10 +22,11 @@ projects: []
 
 Today our group is conducting a field campaign in the INVITE wheat field trial to advance UAV-based hyperspectral remote sensing for crop trait analysis.
 ![Xiaoxin et al selfie with drone](images/IMG_1110.jpg)
-The drone team (Xiaoxin, Ying, Wuhua & Anirudh) operated quadcopter drones equipped with hyperspectral cameras under a every ideal weather condition:).  
+The drone phenotyping team (*Ying, Anirudh, Wuhua & Xiaoxin*; left to right) operated quadcopter drones equipped with hyperspectral cameras under a every ideal weather condition:).  
 At the same time, in-situ hyperspectral measurements were collected using portable spectrometer for validation.  
 On the ground, team members configured calibration procedures to ensured accurate georeferencing and calibration.  
 This integrated setup reflects our focus on combining drone remote sensing data and ground measurements for high-resolution & hight-throughput phenotyping.
 
 ![Preparing drones and cameras](images/IMG_1114.jpg)
 ![Wuhua pilot](images/IMG_1106.jpg)
+![ASD canopy measurement](images/IMG_1090.jpg)
