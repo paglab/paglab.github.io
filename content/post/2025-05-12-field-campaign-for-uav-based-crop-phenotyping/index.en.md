@@ -13,10 +13,12 @@ authors: []
 lastmod: '2025-05-12T15:54:22+02:00'
 featured: no
 draft: no
-image:
-  caption: ''
+
+image: 
+  filename: 'images/IMG_1106.jpg'
+  caption: 'Wuhua pilot'
   focal_point: 'top'
-  preview_only: no
+  preview_only: true
 projects: []
 ---
 
