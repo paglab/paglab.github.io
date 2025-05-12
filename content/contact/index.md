@@ -50,13 +50,13 @@ sections:
   - block: markdown
     content:
       title:
-      subtitle: ''
+      subtitle: 'map'
       text:
     design:
       columns: '1'
       background:
       image:
-        filename: 'map_duernast.jpg'
+        filename: 'contact.jpg'
         filters:
           brightness: 1
         parallax: false
