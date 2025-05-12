@@ -38,7 +38,7 @@ social:
 
 superuser: false
 user_groups:
-- Researchers
+- PhD students
 ---
 Ying Yuan is a PhD student at the Precision Agriculture Lab of the Technical University of Munich (TUM). Her current research focuses on remote sensing phenotyping of winter wheat, including ground-based and UAV-based hyperspectral remote sensing and solar-induced chlorophyll fluorescence remote sensing...
 

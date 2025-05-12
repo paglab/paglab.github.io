@@ -1,5 +1,5 @@
 ---
-title: Kang Yu
+title: Prof. Dr. Kang Yu
 
 authors:
 - Kang Yu

@@ -1,6 +1,7 @@
 ---
 authors:
 - Dong Li
+title: Dr. Dong Li
 bio: My research interests include vegetation remote sensing and precision agriculture.
 education:
   courses:
@@ -37,8 +38,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/lidongmath
+
 superuser: false
-title: Dong Li
 user_groups:
 - Researchers
 

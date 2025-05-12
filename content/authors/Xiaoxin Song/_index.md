@@ -40,7 +40,8 @@ social:
 superuser: false
 title: Xiaoxin Song 宋小鑫
 user_groups:
-- Researchers
+- PhD students
+- Visitors
 ---
 
 Xiaoxin Song (宋小鑫) is a PhD of Precision Agriculture Lab at Technische Universität München. Her research interests include multi-scale plant and crop phenotyping, crop growth and senescence monitoring, dynamic modelling and remote sensing. She has now joined the INVITE project and is researching on high-throughput phenotyping of dynamic traits of winter wheat.

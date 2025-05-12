@@ -42,7 +42,7 @@ social:
 superuser: false
 title: Dong Bai
 user_groups:
-- Researchers
+- PhD students
 
 ---
 

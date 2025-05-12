@@ -48,7 +48,7 @@ social:
 
 superuser: false
 user_groups:
-- Researchers
+- PhD students
 ---
 
 Xuefeng is a PhD student of Nature Science at the Precision Agriculture Lab, Technical University of Munich(TUM). Her research interests include applying Remote Sensing techniches on crop traits retrieval (eg. chlorophyll), vegetation indices applications, and deep learning techniques.

@@ -1,6 +1,7 @@
 ---
 authors:
 - Anirudh Belwalkar
+title: Dr. Anirudh Belwalkar
 bio: My research interests include hyperspectral remote sensing of vegetation and precision agriculture.
 education:
   courses:
@@ -38,8 +39,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/anirudhb20
+
 superuser: false
-title: Anirudh Belwalkar
 user_groups:
 - Researchers
 

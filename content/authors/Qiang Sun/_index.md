@@ -42,7 +42,7 @@ social:
 
 superuser: false
 user_groups:
-- Researchers
+- PhD students
 ---
 
 Qiang is a PhD student at the Precision Agriculture Lab with a background in geography. His research focuses on integrating geographic principles with agricultural applications to retrieve crop traits at large scales.

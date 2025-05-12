@@ -48,7 +48,7 @@ social:
 
 superuser: false
 user_groups:
-- Researchers
+- PhD students
 ---
 Jingcheng Zhang is a PhD student at the Precision Agriculture Lab, Technical University of Munich. His research focuses on UAV-based multispectral and hyperspectral imaging for winter wheat phenotyping, especially in modeling photosynthetic parameters.
 
