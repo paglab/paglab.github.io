@@ -49,20 +49,34 @@ sections:
 
   - block: markdown
     content:
-      title:
-      subtitle: 'map'
-      text:
+      title: 'Visit Us'
+      text: |
+        <iframe
+          width="100%"
+          height="400"
+          frameborder="0"
+          style="border:0"
+          allowfullscreen
+          src="https://www.openstreetmap.org/export/embed.html?bbox=11.6880,48.4040,11.6930,48.4070&layer=mapnik&marker=48.4056883,11.6904669">
+        </iframe>
+        <p><a href="https://www.openstreetmap.org/?mlat=48.4056883&mlon=11.6904669#map=17/48.4057/11.6905">Open in full screen</a></p>
+    design:
+      columns: '1'
+    
+  - block: markdown
+    content:
+      title: ''
+      text: " " # Must have content (can be space)
     design:
       columns: '1'
       background:
-      image:
-        filename: 'contact.jpg'
-        filters:
-          brightness: 1
-        parallax: false
-        position: center
-        size: cover
-        text_color_light: true
+        image:
+          filename: 'map_duernast.jpg'
+          filters:
+            brightness: 1
+          parallax: false # Recommended for contact pages
+          position: center
+          size: contain # Better than contain for full-width
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
