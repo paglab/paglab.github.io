@@ -13,11 +13,11 @@ authors: []
 lastmod: '2025-05-12T15:54:22+02:00'
 featured: no
 draft: no
-
+view: 2  # Card layout with images in original aspect ratio
 image: 
   filename: 'images/IMG_1106.jpg'
   caption: 'Wuhua pilot'
-  focal_point: 'top'
+  focal_point: 'smart'
   preview_only: true
 projects: []
 ---

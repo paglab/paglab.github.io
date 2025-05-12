@@ -9755,3 +9755,9 @@ div.chart {
 .pub-filters .btn {
   text-transform: none !important;
   letter-spacing: normal !important; }
+
+/* cover image */
+.card-simple .card-image {
+  background-size: contain !important;
+  background-repeat: no-repeat;
+  background-position: center center; }
