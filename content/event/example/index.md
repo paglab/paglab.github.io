@@ -34,7 +34,7 @@ tags: [Drone remote sensing, Artificial intelligence, Object detection, Trait pr
 featured: false
 
 image:
-  caption: 'Hackathon: [**2025**](AI-meets-drone.jpg)'
+  caption: 'PagLab Hackathon: [**2025**](AI-meets-drone.jpg)'
   focal_point: Right
 
 url_code: ''
