@@ -54,9 +54,7 @@ outputFormats:
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
-  authors:
-    - HTML
-    - JSON
+#  authors: [HTML, JSON]
 imaging:
   resampleFilter: lanczos
   quality: 75
