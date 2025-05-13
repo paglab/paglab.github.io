@@ -23,27 +23,31 @@ last_name: Song
 organizations:
 - name: Technical University of Munich
   url: "https://www.lse.ls.tum.de/pag/home/"
-role: Professor of Artificial Intelligence
+role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
-  link: xs.song@tum.de
-- icon: twitter
+  link: mailto: xs.song@tum.de
+- icon: researchgate
   icon_pack: fab
-  link: https://x.com/xiaoxinsong3?s=21
+  link: "https://www.researchgate.net/profile/Xiaoxin-Song?ev=prf_overview"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=cckTQy4AAAAJ&hl=zh-CN&oi=ao
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0009-0002-2368-3011 
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/xiaoxinsong3?s=21
 - icon: github
   icon_pack: fab
   link: https://github.com/xiaoxin-song
 superuser: false
-title: Xiaoxin Song 宋小鑫
+title: Xiaoxin Song
 user_groups:
 - PhD students
-- Visitors
 ---
 
-Xiaoxin Song (宋小鑫) is a PhD of Precision Agriculture Lab at Technische Universität München. Her research interests include multi-scale plant and crop phenotyping, crop growth and senescence monitoring, dynamic modelling and remote sensing. She has now joined the INVITE project and is researching on high-throughput phenotyping of dynamic traits of winter wheat.
+Xiaoxin Song is a PhD of Precision Agriculture Lab at Technische Universität München. Her research interests include multi-scale plant and crop phenotyping, crop growth and senescence monitoring, dynamic modelling and remote sensing. She has now joined the INVITE project and is researching on high-throughput phenotyping of dynamic traits of winter wheat.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
