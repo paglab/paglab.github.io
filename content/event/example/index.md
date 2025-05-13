@@ -1,7 +1,7 @@
 ---
-title: Drones & AI Summer Hackathon 2025
+title: AI Meets Drones Summer Hackathon 2025
 
-event: Drones Meet AI Hackathon
+event: AI Meets Drones Hackathon
 event_url: https://paglab.org
 
 location: Weihenstephan Campus
@@ -12,8 +12,8 @@ address:
   postcode: '85354'
   country: Germany
 
-summary: An example event.
-abstract: 'This hands-on event is organized in conjunction with the Master’s course “Drone Remote Sensing Meets AI”, 
+summary: A deep learning week.
+abstract: 'This event is organized in conjunction with the Master’s course “Drone Remote Sensing Meets AI”, 
 bringing together students and researchers to tackle real-world challenges at the intersection of drone remote sensing technology and artificial intelligence. 
 Throughout the week, participants will work in teams to develop and test AI-powered solutions for processing drone-acquired imagery, addressing agricultural tasks such as object detection, classification of crop types or stress conditions, and regression-based trait prediction. 
 The event fosters an interactive environment where cutting-edge UAV data meets machine learning workflows — encouraging innovation, collaboration, and critical thinking in precision agriculture.'
