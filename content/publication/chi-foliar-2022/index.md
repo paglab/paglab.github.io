@@ -35,6 +35,15 @@ abstract: Knowledge on the response of trees to the urban heat island (UHI) effe
   optical traits to serve as a proxy of leaf functional traits for studying the spatiotemporal
   response of urban trees to environmental factors, which opens up new possibilities
   for large scale ecological studies using remote sensing.
+featured: no
+projects: []
+tags:
+- Urban trees
+- Urban heat island
+- Impervious surfaces
+- Intraspecific trait variability
+- Leaf functional traits
+- Spectral phenotyping
 
 ---
 

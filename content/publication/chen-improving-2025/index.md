@@ -33,6 +33,14 @@ abstract: Timely and accurate prediction of nitrogen (N) status in winter wheat 
   on developing multi-source data fusion strategies, incorporating unmanned aerial
   vehicle or satellite hyperspectral sensing and machine learning, for large-scale
   monitoring of crop N status and N management decision making.
+featured: no
+projects: []
+tags:
+- Plant nitrogen concentration
+- Precision nitrogen management
+- Machine learning
+- Proximal hyperspectral sensing
+- Weather information
 
 ---
 

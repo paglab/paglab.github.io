@@ -28,6 +28,16 @@ abstract: A significant number of object detection models have been researched f
   for making a choice of which model fits an intended real-life plant detection application,
   taking into consideration the need for a trade-off between of detection speed, detection
   accuracy, and memory usage.
+featured: no
+projects: []
+tags:
+- object detection
+- precision agriculture
+- computer vision
+- deep learning
+- YOLOv5
+- crop counting
+- plant detection
 
 ---
 

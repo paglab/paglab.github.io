@@ -36,6 +36,15 @@ abstract: The dynamics of floret initiation/abortion has been explored widely; h
   green during period of early floret development, maintained their development normally
   and becoming fertile florets, but did not make florets that initiate abortion become
   fertile florets and increase the MFP.
+featured: no
+projects: []
+tags:
+- Irrigation
+- Nitrogen
+- Floret abortion
+- Floret development
+- Grain number
+- Green anther
 
 ---
 

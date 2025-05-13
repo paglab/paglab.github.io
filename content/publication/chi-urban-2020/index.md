@@ -35,6 +35,15 @@ abstract: 'Declining urban tree health can affect critical ecosystem services, s
   (Kc points improved by 0.07 on average compared with a mixed species modelling approach).
   Our study constitutes a basis for future urban tree health monitoring, which will
   enable managers to guide early remediation management.'
+featured: no
+projects: []
+tags:
+- airborne hyperspectral data
+- random forest
+- defoliation
+- discoloration
+- airborne LiDAR
+- street trees
 
 ---
 

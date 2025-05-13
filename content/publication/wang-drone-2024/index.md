@@ -38,6 +38,15 @@ abstract: Drone remote sensing has been increasingly demonstrated its unique adv
   This study demonstrates the potential of UAV remote sensing for capturing soil N
   effect on canopy traits and for assessing nitrogen use efficiency for the purpose
   of improving fertilizer utilization and environmental effects.
+featured: no
+projects: []
+tags:
+- UAV
+- machine learning
+- Nitrogen balance
+- Soil Nmin
+- spectral features
+- wheat grain quality
 
 ---
 

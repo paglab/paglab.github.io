@@ -39,6 +39,9 @@ abstract: Although unmanned aerial vehicle (UAV) remote sensing is widely used f
   found between VIs and TFs in their performance in predicting NC in different organs.
   This study demonstrated the promise of applying UAV-based imaging to estimate NC
   and NAE in different organs of winter wheat.
+featured: no
+projects: []
+tags: ~
 
 ---
 

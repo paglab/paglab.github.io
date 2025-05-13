@@ -32,6 +32,26 @@ abstract: One of the problems of optical remote sensing of crop above-ground bio
   of LR models showed that the heading stage was the most suitable stage for AGB prediction,
   with R2 values varying from 0.48 to 0.93. Three PLSR models based on different datasets
   performed differently in estimating AGB in the training dataset (R2 = 0.74{\textasciitilde}0.92
+featured: no
+projects: []
+tags:
+- unmanned aerial vehicle
+- vegetation indices
+- machine learning
+- partial least squares regression
+- random forest regression
+- multiple growth stages
+- winter wheat biomass
+- LEAF-AREA INDEX
+- PADDY RICE
+- REMOTE ESTIMATION
+- CHLOROPHYLL CONTENT
+- SPECTRAL INDEXES
+- HYPERSPECTRAL VEGETATION INDEXES
+- NITROGEN CONCENTRATION
+- DIFFERENT GROWTH-STAGES
+- SENSITIVITY-ANALYSIS
+- SQUARES REGRESSION
 
 ---
 

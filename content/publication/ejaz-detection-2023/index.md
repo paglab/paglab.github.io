@@ -42,6 +42,15 @@ abstract: Immediate detection and prediction tools for interactive stresses are 
   and enzyme activities showed a strong correlation in determining yield losses. Hence,
   HSI and CFI techniques successfully detected combined frost and drought stresses
   for rapid quantification.
+featured: no
+projects: []
+tags:
+- PLSR
+- Hyperspectral
+- Chilling injury
+- Combined stress
+- Enzyme activity
+- Fluorescence
 
 ---
 

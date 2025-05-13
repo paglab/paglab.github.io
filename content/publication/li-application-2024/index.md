@@ -35,6 +35,24 @@ abstract: Nitrogen (N) is an essential nutrient that profoundly impacts crop gro
   and technical backing; it seeks to guide practical implementation strategies to
   foster the adoption and effective use of UAV optical remote sensing in evaluating
   crop N status.
+featured: no
+projects: []
+tags:
+- Nitrogen
+- Remote sensing
+- Unmanned aerial vehicle
+- WINTER-WHEAT
+- PRECISION AGRICULTURE
+- LEAF CHLOROPHYLL CONTENT
+- PLANT HEIGHT
+- Crop nitrogen retrieval methodologies
+- Multi-sensor information fusion
+- HYPERSPECTRAL VEGETATION INDEXES
+- AREA INDEX
+- NONDESTRUCTIVE ESTIMATION
+- PIGMENT CONTENT
+- UAV-BASED RGB
+- YIELD PREDICTION
 
 ---
 

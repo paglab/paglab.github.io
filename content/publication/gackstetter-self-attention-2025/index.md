@@ -39,6 +39,14 @@ abstract: With the increasing availability of Earth observation data in recent y
   RAINCOAT-SRS, a novel model for UDA in SITS, designed to advance generalization
   in remote sensing by enabling more comprehensive cross-regional and multi-temporal
   SITS experiments in face of lacking target-labeled data.
+featured: no
+projects: []
+tags:
+- Deep learning
+- Satellite image time series
+- Transfer learning
+- Crop type mapping
+- Unsupervised domain adaptation
 
 ---
 

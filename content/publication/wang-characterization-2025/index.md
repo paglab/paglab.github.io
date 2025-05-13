@@ -45,6 +45,20 @@ abstract: Although unmanned aerial vehicle (UAV) remote sensing is widely used f
   This study not only demonstrates the promise of applying UAV-based imaging to estimate
   NC in different organs and map NUE in winter wheat but also highlights the importance
   of conducting model evaluations based on independent datasets.
+featured: no
+projects: []
+tags:
+- Multispectral indices
+- Nitrogen use efficiency
+- Plant organs
+- UAV remote sensing
+- nitrogen use efficiency
+- multispectral imaging
+- Unmanned aerial systems
+- Drone image texture feature analysis
+- Nitrogen status monitoring
+- Wheat phenological stages
+- model transferability
 
 ---
 

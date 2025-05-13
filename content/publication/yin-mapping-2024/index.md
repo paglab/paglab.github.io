@@ -34,6 +34,15 @@ abstract: Excessive nitrogen (N) fertilization poses environmental risks at regi
   that the promising solution of using SPA-PCA coupled with an ensemble learning model
   improves the estimation accuracy of potato PNC and AGB based on Sentinel-2 imagery
   data.
+featured: no
+projects: []
+tags:
+- potato
+- plant nitrogen concentration
+- feature selection
+- spectral indices
+- Sentinel-2 imagery
+- ensemble learning model
 
 ---
 

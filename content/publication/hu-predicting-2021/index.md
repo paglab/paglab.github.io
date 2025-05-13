@@ -30,6 +30,15 @@ abstract: Micronutrients are the key factors to evaluate the nutritional quality
   higher for wheat kernels than for the flour. This study showed the feasibility of
   hyperspectral imaging as a non-invasive, non-destructive tool to predict micronutrients
   of wheat.
+featured: no
+projects: []
+tags:
+- PLSR
+- Wheat grain
+- Grain nutritional attribute
+- Grain quality
+- Visible and near-infrared reflectance spectroscopy
+- Wheat flour
 
 ---
 

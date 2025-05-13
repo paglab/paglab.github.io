@@ -46,6 +46,15 @@ abstract: '[Objectives]Monitoring crop moisture conditions in real-time is criti
   better than some measured agronomic indicators. However, further research should
   be conducted on the best spectral indicators and periods for drought monitoring
   in various situations and environments. © 2022 by the authors.'
+featured: no
+projects: []
+tags:
+- maize
+- chlorophyll
+- spectral index
+- specific leaf area
+- irrigation
+- drone remote sensing
 
 ---
 

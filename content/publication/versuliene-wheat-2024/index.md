@@ -48,6 +48,15 @@ abstract: Arbuscular mycorrhizal (AM) fungi form mutualistic relationships with 
   underline that genetic drivers of mycorrhization are to some extent independent
   of the site. This highlights the relevance of breeding practices to shape a wheat
   variety's capacity for mycorrhizal symbiosis across a range of environmental conditions.
+featured: no
+projects: []
+tags:
+- environmental conditions
+- AM fungi
+- arbuscules
+- EJP SOIL
+- hyphae
+- variance decomposition
 
 ---
 

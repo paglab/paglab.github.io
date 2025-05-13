@@ -32,6 +32,13 @@ abstract: Satellite remote sensing technology provides a promising means for nea
   satellite image, a temporally-invariant region-specific calibration is possible
   in the OPTRAM-ET model. Therefore, OPTRAM-ET is substantially less computationally
   demanding than the LST-VI model.
+featured: no
+projects: []
+tags:
+- Optical remote sensing
+- Google earth engine
+- Thermal remote sensing
+- Priestley-Taylor
 
 ---
 

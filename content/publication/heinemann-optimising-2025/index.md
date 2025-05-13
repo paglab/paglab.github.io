@@ -58,6 +58,16 @@ abstract: 'Ensuring food security through sustainable practices while reducing g
   direction between root biomass and grain yield. A site-specific approach is, therefore,
   needed to realise the full potential for increased root biomass and yield offered
   by optimised variety selection.'
+featured: no
+projects: []
+tags:
+- climate change mitigation
+- carbon sequestration
+- EJP SOIL
+- environment × genotype
+- root biomass carbon
+- root depth distribution
+- root-to-shoot ratio
 
 ---
 

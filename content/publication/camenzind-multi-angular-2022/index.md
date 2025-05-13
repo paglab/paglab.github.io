@@ -22,6 +22,9 @@ abstract: Barley awn coloring is a descriptive trait for barley (Hordeum vulgare
   between the canopies without awn coloring and the canopies with awn coloring. The
   proposed method failed to detect subtle changes of awn coloring but it might be
   further improved and used to characterize canopy traits from multiple viewing angles.
+featured: no
+projects: []
+tags: ~
 
 ---
 

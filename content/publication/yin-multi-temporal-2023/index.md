@@ -29,6 +29,14 @@ abstract: Spectral indices based on unmanned aerial vehicle (UAV) multispectral 
   study suggests that the best models, RF model, allow to map the spatial variation
   in chlorophyll content of plant canopy using the UAV multispectral images at different
   growth stages.
+featured: no
+projects: []
+tags:
+- Potato
+- Chlorophyll content
+- Machine learning
+- Unmanned aerial vehicle (UAV)
+- Multispectral images
 
 ---
 

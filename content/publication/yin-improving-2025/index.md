@@ -32,6 +32,14 @@ abstract: Feature selection methods are widely used to improve the performance o
   combining the hybrid feature selection method with VHGPR can facilitate real-time
   PNC estimation in the field, thereby assisting farmers in accurately applying nitrogen
   fertilization strategies.
+featured: no
+projects: []
+tags:
+- Feature selection
+- Hyperspectral image
+- Potato
+- Plant nitrogen concentration
+- Remote sensing
 
 ---
 

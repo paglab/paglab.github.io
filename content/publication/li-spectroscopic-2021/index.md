@@ -35,6 +35,15 @@ abstract: Nitrogen (N) remobilization is a critical process that provides substa
   estimating N concentration and assessing N remobilization using hyperspectral data
   of individual organs, which offers a non-chemical and low-cost approach to screen
   germplasms for an optimal NRE in drought-resistance breeding.
+featured: no
+projects: []
+tags:
+- PLSR
+- winter wheat
+- hyperspectral
+- N concentration
+- N remobilization efficiency
+- plant organ reflectance
 
 ---
 

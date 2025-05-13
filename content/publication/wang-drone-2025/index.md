@@ -30,6 +30,18 @@ abstract: Drone remote sensing offers a powerful tool for monitoring vegetation 
   of soil Nmin on canopy traits. This study provides a proof-of-concept for mapping
   NUE using UAV images, with the final goal of improving crop nitrogen management
   and fertilizer use efficiency in agriculture.
+featured: no
+projects: []
+tags:
+- UAV
+- Spectral features
+- PROSAIL
+- Machine learning
+- nitrogen use efficiency
+- canopy traits
+- Nitrogen balance
+- drone remote sensing
+- Soil Nmin
 
 ---
 

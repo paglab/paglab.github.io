@@ -26,6 +26,13 @@ abstract: |-
   Our study concludes that the OSI-based RF is a robust and effective model to predict crop PNC at the vegetative growth stage.
   Significance
   The results of this study may provide insights into how to improve PNC assessment using the OSI-based RF models and deploy ML-based N recommendation models in the next generation of crop sensors.
+featured: no
+projects: []
+tags:
+- Remote monitoring
+- Crops
+- Nitrogen
+- Machine learning
 
 ---
 

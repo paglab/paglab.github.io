@@ -37,6 +37,23 @@ abstract: 'Spectral indices rarely show consistency in estimating crop traits ac
   lowest RMSE (262.9 kg/ha) and RE (14.8\%) across two growth stages. This study shows
   that combining the Opt-SIs and RF can greatly enhance the prediction accuracy for
   crop AGB while significantly reduces collinearity and redundancies of spectral data.'
+featured: no
+projects: []
+tags:
+- vegetation indices
+- machine learning
+- biomass estimation
+- potato crops
+- VEGETATION INDEXES
+- LEAF-AREA INDEX
+- PADDY RICE
+- REFLECTANCE
+- CHLOROPHYLL CONTENT
+- SPECTRAL INDEXES
+- NITROGEN STATUS
+- UAV-BASED RGB
+- YIELD PREDICTION
+- WINTER-WHEAT BIOMASS
 
 ---
 

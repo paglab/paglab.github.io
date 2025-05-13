@@ -37,6 +37,15 @@ abstract: 'The process of crop type mapping generates land use maps, which serve
   transnational as well as winter and all-year crop type mapping, thereby serving
   as contribution towards temporally and spatially holistic research on agricultural
   practices’ sociocultural, economic, and environmental impacts.'
+featured: no
+projects: []
+tags:
+- Deep learning
+- All-season crop type mapping
+- Crop taxonomy
+- Multi-temporal earth observation
+- Transnationality
+- Winter vegetation monitoring
 
 ---
 

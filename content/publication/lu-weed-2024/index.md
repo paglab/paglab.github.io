@@ -28,6 +28,9 @@ abstract: Weeds significantly impact agricultural production, and traditional we
   on yield, while weed control treatments significantly impacted yield, showing the
   importance of precise weed mapping. This study provides insights into weed segmentation
   and contributes to environmentally friendly precision weed control.
+featured: no
+projects: []
+tags: ~
 
 ---
 

@@ -22,6 +22,15 @@ doi: 10.1186/s12870-024-05614-3
 url: ''
 abstract: Urban trees in urban environments are commonly exposed to stresses, contributing
   to their health decline;
+featured: no
+projects: []
+tags:
+- Urban forest
+- Ectomycorrhizal fungi
+- Inoculation
+- Nursery management
+- Soil pH
+- Water-stress
 
 ---
 

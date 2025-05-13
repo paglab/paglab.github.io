@@ -32,6 +32,24 @@ abstract: Ensuring global food security depends heavily on attaining and sustain
   of the Mexh function-based wavelet transform across growth stages, leaf layers,
   locations, and varieties demonstrated the universality and stability of the wavelet
   transform approach in estimating maize LCC.
+featured: no
+projects: []
+tags:
+- Estimation
+- Reflectivity
+- Feature selection
+- Hyperspectral imaging
+- Absorption
+- Indexes
+- Crops
+- Wavelet analysis
+- leaf chlorophyll content
+- hyperspectral
+- spectroscopy
+- Accuracy
+- wavelet analysis
+- Continuous wavelet transforms
+- Springs
 
 ---
 

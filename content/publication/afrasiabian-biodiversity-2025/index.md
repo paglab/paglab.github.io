@@ -38,6 +38,14 @@ abstract: In urban community gardens, artificially managed ground cover types, i
   of combining complementary remote sensing data for better interpreting urban garden
   biodiversity. Our findings highlight the importance of characterizing canopy structural
   heterogeneity in advancing biodiversity monitoring within these complex urban ecosystems.
+featured: no
+projects: []
+tags:
+- Biodiversity conservation
+- Field Spectroscopy
+- Height Variation Hypothesis
+- Spectral Diversity Hypothesis
+- Urban Green
 
 ---
 

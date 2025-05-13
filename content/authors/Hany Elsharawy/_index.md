@@ -1,16 +1,16 @@
 ---
 # Display Author full name
-title: "Hany Elsharawy"
+title: "Hany El Sharawy"
 
 # Author username (for linking content to this author)
 authors:
-- Hany Elsharawy
+- Hany El Sharawy
+
+first_name: "Hany"
+last_name: "El Sharawy"
 
 # Short bio shown on author pages
 bio: "My research focuses on UAV-based phenotyping, hyperspectral remote sensing, and high-throughput phenotyping of maize under drought conditions."
-
-first_name: "Hany"
-last_name: "Elsharawy"
 
 # Academic qualifications
 education:

@@ -40,6 +40,9 @@ abstract: High throughput field phenotyping techniques employing multispectral c
   classification than for yield prediction. The results underscore the potential of
   TFs derived from multispectral images in early yield prediction and varietal classification,
   offering insights for HTP and precision agriculture alike.
+featured: no
+projects: []
+tags: ~
 
 ---
 

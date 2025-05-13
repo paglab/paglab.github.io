@@ -35,6 +35,14 @@ abstract: The ability of a genotype to stay green affects the primary target tra
   quantify leaf senescence in moderately large trials. However, using appropriate
   phenotyping platforms, the proposed index-based parameterization of the canopy reflectance
   dynamics offers the critical advantage of upscaling to very large breeding trials.
+featured: no
+projects: []
+tags:
+- field-based phenotyping
+- hyperspectral remote sensing
+- Canopy reflectance
+- Feature Selection
+- high-throughput phenotyping
 
 ---
 

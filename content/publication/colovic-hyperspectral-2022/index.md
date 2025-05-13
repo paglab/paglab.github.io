@@ -37,6 +37,15 @@ abstract: The deployment of novel technologies in the field of precision farming
   to nitrogen levels compared to the structural and water band indices. Our study
   highlighted that it is critical to choose proper narrow-band vegetation indices
   to monitor the plant eco-physiological response to water and nitrogen stresses.
+featured: no
+projects: []
+tags:
+- bio-physiological crop parameters
+- narrow-bands spectral indices
+- red-edge
+- vegetation reflectance
+- water and nitrogen stress
+- water band indices
 
 ---
 

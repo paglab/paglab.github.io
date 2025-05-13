@@ -1,37 +1,40 @@
 ---
-title: Example Event
+title: Drones & AI Summer Hackathon 2025
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Drones Meet AI Hackathon
+event_url: https://paglab.org
 
-location: Wowchemy HQ
+location: Weihenstephan Campus
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Emil-Ramann-Str. 2
+  city: Freising
+  region: Bavaria
+  postcode: '85354'
+  country: Germany
 
 summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'This hands-on event is organized in conjunction with the Master’s course “Drone Remote Sensing Meets AI”, 
+bringing together students and researchers to tackle real-world challenges at the intersection of drone remote sensing technology and artificial intelligence. 
+Throughout the week, participants will work in teams to develop and test AI-powered solutions for processing drone-acquired imagery, addressing agricultural tasks such as object detection, classification of crop types or stress conditions, and regression-based trait prediction. 
+The event fosters an interactive environment where cutting-edge UAV data meets machine learning workflows — encouraging innovation, collaboration, and critical thinking in precision agriculture.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2025-09-22T09:00:00Z'
+date_end: '2025-09-26T17:00:00Z'
+all_day: yes
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2020-01-01T00:00:00Z'
 
-authors: []
-tags: []
+authors: [Kang Yu, Anirudh Belwalkar, Chenghao Lu, Xiang Su, et al.]
+tags: [Drone remote sensing, Artificial intelligence, Object detection, Trait prediction, Machine learning in agriculture]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Hackathon: [**2025**](AI-meets-drone.jpg)'
   focal_point: Right
 
 url_code: ''

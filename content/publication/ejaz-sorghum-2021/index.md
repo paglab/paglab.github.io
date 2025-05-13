@@ -35,6 +35,9 @@ abstract: 'Near-infrared spectroscopy (NIR) is a non-destructive, fast, and low-
   cellulose, and hemicellulose using NIR data. This study aimed to provide a reference
   for the evaluation of sorghum grain biochemicals for food, feed, and fuel without
   destruction and complex chemical analysis.'
+featured: no
+projects: []
+tags: ~
 
 ---
 

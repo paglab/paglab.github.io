@@ -33,6 +33,14 @@ abstract: Different urban planting contexts, such as streets and parks, can lead
   to planting context. We concluded that a planting context-specific modeling approach
   can enhance urban tree species classification, ultimately supporting improved urban
   forest management.
+featured: no
+projects: []
+tags:
+- Linear discriminant analysis
+- Street trees
+- Intraspecific variation
+- Park trees
+- Urban tree management
 
 ---
 

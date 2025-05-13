@@ -30,6 +30,9 @@ abstract: In recent years, computer vision (CV) has made enormous progress and i
   of the 3-leaf stage. This work provides a practical reference for applying lightweight
   ML and deep learning methods to UAV images for automated object detection and characterization
   of plant growth under realistic environments.
+featured: no
+projects: []
+tags: ~
 
 ---
 

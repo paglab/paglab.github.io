@@ -31,6 +31,26 @@ abstract: Unmanned Aerial Systems (UASs) are increasingly vital in precision agr
   productivity and sustainability but also demonstrates its potential in providing
   more accurate and comprehensive insights for effective crop health and nutrient
   management strategies.
+featured: no
+projects: []
+tags:
+- nutrient use efficiency
+- vegetation indices
+- meta-analysis
+- Unmanned Aerial Vehicle (UAV)
+- SIMULATION
+- YIELD
+- NUTRITION INDEX
+- RANDOM FOREST
+- growth stage
+- sensor type
+- signal process technique
+- CLASSIFICATION
+- IMAGERY
+- AERIAL VEHICLE UAV
+- HYPERSPECTRAL VEGETATION INDEXES
+- QUANTIFICATION
+- TEMPERATURE
 
 ---
 

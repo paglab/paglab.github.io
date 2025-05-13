@@ -27,6 +27,9 @@ abstract: Most deep learning-based weed detection methods either yield high accu
   Both models were robust to variations in field conditions. The speed vs accuracy
   plot highlighted a range of possible speed/accuracy trade-offs to guide real-time
   deployment of the object detection models for cassava detection.
+featured: no
+projects: []
+tags: ~
 
 ---
 

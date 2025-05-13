@@ -25,6 +25,13 @@ abstract: |-
   Pre-anthesis N diagnosis was most sensitive to spectral diagnosis from the latest fully expanded leaf, while post-anthesis N diagnosis relied on ear leaves. NTRI’s accuracy and resistance to varietal and interannual variability highlight its potential application for real-time N monitoring.
   Significance
   Our innovative spectral index NTRI significantly advances spectral N nutrition diagnostics, enabling leaf-layer sensing and smart fertigation systems. This breakthrough paves the way for sustainable, high-yield maize production in arid regions.
+featured: no
+projects: []
+tags:
+- Nitrogen nutrition index
+- Remote sensing
+- Nitrogen management
+- And spectral index
 
 ---
 

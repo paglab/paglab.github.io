@@ -39,6 +39,15 @@ abstract: Deficit irrigation is a common approach in water-scarce regions to bal
   effective before the grain-filling stage in evaluating drought resistance. This
   study demonstrates the potential of ensuring yield and saving irrigation water by
   identifying suitable wheat varieties for different water-scarce irrigation scenarios.
+featured: no
+projects: []
+tags:
+- canopy temperature
+- drought stress
+- deficit irrigation
+- hierarchical cluster analysis
+- physiological traits
+- UAV thermal imagery
 
 ---
 

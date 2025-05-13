@@ -13,6 +13,17 @@ publication: '{UAV}-based assessment of the impact of aboveground biomass and ph
 doi: 10.24407/KXP:1885707169
 url: ''
 abstract: ''
+featured: no
+projects: []
+tags:
+- Earth Science
+- Fernerkundung
+- Fotogrammetrie
+- Geoinformationssystem
+- Geoinformationssysteme
+- Luftaufnahmen
+- Photogrammetrie
+- Methoden und Techniken der Geowissenschaften
 
 ---
 

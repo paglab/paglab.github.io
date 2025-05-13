@@ -24,6 +24,9 @@ abstract: The Leaf Area Index (LAI) is an important indicator in agriculture tha
   lower compared to use SIs. However, R2 variations were more homogeneous across the
   whole spectrum, which suggests that even by using multispectral broadband bands
   in RF and SVM, a good correlation will be achieved.
+featured: no
+projects: []
+tags: ~
 
 ---
 

@@ -37,6 +37,14 @@ abstract: Many empirical models based on hyperspectral indices (HIs) have been d
   not be verified with the PROSAIL model because of the absence of the wavebands from
   340 to 400 nm. Optimization for HIs indicates that there will be a great potential
   to improve the use of hyperspectral sensing for the estimation of field croṕs CNC.
+featured: no
+projects: []
+tags:
+- Hyperspectral indices
+- Potato
+- Canopy nitrogen concentration
+- Formula formats
+- Wavebands optimum
 
 ---
 
