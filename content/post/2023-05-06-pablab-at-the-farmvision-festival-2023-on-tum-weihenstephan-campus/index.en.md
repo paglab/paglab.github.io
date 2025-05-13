@@ -16,7 +16,7 @@ featured: no
 draft: no
 image:
   filename: 'images/FvcU9SjWwAAP3x7.jpeg'
-  caption: 'rone flying demo by Jürgen'
+  caption: 'Drone flying demo by Jürgen'
   focal_point: 'top'
   preview_only: no
 projects: []
