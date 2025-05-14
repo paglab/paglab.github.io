@@ -16,8 +16,9 @@ lastmod: '2025-04-11T21:49:23+02:00'
 featured: no
 draft: no
 image:
+  filename: ''
   caption: ''
-  focal_point: ''
+  focal_point: 'top'
   preview_only: no
 projects: []
 ---
