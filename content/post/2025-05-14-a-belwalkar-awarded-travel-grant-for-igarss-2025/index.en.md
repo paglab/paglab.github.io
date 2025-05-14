@@ -1,5 +1,5 @@
 ---
-title: A-Belwalkar-awarded travel grant for IGARSS 2025
+title: Anirudh Belwalkar awarded travel grant for IGARSS 2025
 author: Drone Pag
 date: '2025-05-14'
 slug: a-belwalkar-awarded-travel-grant-for-igarss-2025
