@@ -18,7 +18,7 @@ image:
   filename: 'congrazdrone.jpg'
   caption: ''
   focal_point: 'top'
-  preview_only: yes
+  preview_only: no
 projects: [AmAIzed, PRECISION]
 ---
 
