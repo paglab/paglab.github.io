@@ -5,6 +5,7 @@ date: '2025-05-14'
 slug: a-belwalkar-awarded-travel-grant-for-igarss-2025
 categories:
   - conference
+  - award
 tags:
   - IGARSS
   - Drone remote sensing

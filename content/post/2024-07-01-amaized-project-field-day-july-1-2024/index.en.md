@@ -21,7 +21,7 @@ image:
   caption: 'AmAIzed field trial maize'
   focal_point: 'top'
   preview_only: no
-projects: []
+projects: [amaized]
 ---
 
 🌽🤖 AmAIzed Project – Field Meeting 🤖🌽
