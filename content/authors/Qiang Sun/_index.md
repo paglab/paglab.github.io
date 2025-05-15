@@ -1,8 +1,7 @@
 ---
 title: Qiang Sun
 
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include satellite remote sensing, precision agriculture and geographic data mining.
 
 first_name: Qiang
 last_name: Sun
@@ -11,12 +10,15 @@ education:
   courses:
   - course: PhD in Agriculture
     institution: Technical University of Munich
-    year: 2024
+    year: 2024 - 
+  - course: MEng in Science
+    institution: Aerospace Information Research Institute
+    year: 2017 - 2019
 
 interests:
-- Satellite 
-- Geographic data Mining
-- Information Retrieval
+- Satellite Remote Sensing
+- Precision Agriculture
+- Geographic Data Mining
 
 organizations:
 - name: Technical University of Munich
