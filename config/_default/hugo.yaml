@@ -5,7 +5,7 @@ theme: "theme-research-group"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Precision Agriculture Lab # Website name
-baseURL: 'https://paglab.netlify.app/' # Website URL
+baseURL: 'https://paglab.org/' # Website URL
 
 ############################
 ## LANGUAGE
