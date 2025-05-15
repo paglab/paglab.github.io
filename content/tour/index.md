@@ -8,16 +8,6 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the PrecisionAg Lab
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: duernast9_autumn.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
       - title: Discover & Develop & Deploy:flying_saucer:️
         content: 'Discover the truth, develop the technology, deploy the practice, by exploring your new ideas together!'
         align: left
@@ -28,6 +18,16 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+      - title: 👋 Welcome to the PrecisionAg Lab
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: duernast9_autumn.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
       - title: Your testing ground for future farming!
         content: 'Just waiting for you!'
         align: right
@@ -59,7 +59,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: yes
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
