@@ -3,7 +3,7 @@ title: "LiveSen-MAP: Real-Time Nutrient Sensing for Precision Agriculture"
 summary: "Integrating biosensor technology and satellite data to optimize fertilizer application and promote sustainable farming practices."
 date: 2023-06-01
 authors: [Kang Yu, Dong Li, Dong Bai, Xuefeng Xu]
-tags: ["Precision Agriculture", "Remote Sensing", "AI", "Sustainability", "Nitrogen Use Efficiency"]
+tags: ["Precision Agriculture", "Satellite Remote Sensing", "AI", "Sustainability", "Nitrogen Use Efficiency"]
 categories: [project]
 image:
   filename: "project_LiveSen-MAP.png"
