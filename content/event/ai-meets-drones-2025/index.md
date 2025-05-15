@@ -28,7 +28,7 @@ all_day: yes
 publishDate: '2020-01-01T00:00:00Z'
 
 authors: [Kang Yu, Anirudh Belwalkar, Chenghao Lu, Xiang Su, et al.]
-tags: [Drone remote sensing, Artificial intelligence, Object detection, Trait prediction, Machine learning in agriculture]
+tags: [Drone remote sensing, Artificial intelligence, AI, Object detection, Trait prediction, Machine learning in agriculture]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -54,7 +54,7 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: ["amaized"]
 ---
 
 Further event details, including page elements such as image galleries, can be added to the body of this page.

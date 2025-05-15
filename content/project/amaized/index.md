@@ -2,6 +2,7 @@
 title: "AmAIzed: AI-Assisted Multi-Tasking Robot for Sustainable Agriculture"
 summary: "Developing intelligent robotic systems for individualized crop and weed management."
 date: 2023-10-01
+categories: [Project]
 tags: ["AI", "Robotics", "Precision Agriculture", "Weed Management"]
 authors: [Kang Yu, Yuncai Hu, Chenghao Lu, Fei Wu, Shuai Yang, Jannatul Nipa]
 image:
