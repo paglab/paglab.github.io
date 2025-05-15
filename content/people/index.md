@@ -16,6 +16,7 @@ sections:
           - PhD students
           - Grad Students
           - Administration
+          - Research assistants & Technicians
           - Visitors
           - Visiting scholars
           - Alumni

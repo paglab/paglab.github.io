@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Since its founding in 2020, the **TUM Precision Ag Lab** has been committed to empower smart farming research, education, and practice.
+        Since its founding in 2020, the **TUM Precision Agriculture Lab** has been committed to empower smart farming research, education, and practice.
   
   - block: collection
     content:
