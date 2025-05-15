@@ -13,6 +13,7 @@ public
 
 # User-specific files
 .Ruserdata
+paglab.data
 
 # Example code in package build process
 *-Ex.R
