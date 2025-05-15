@@ -10,7 +10,7 @@ tags:
   - Precision nitrogen management
 subtitle: ''
 summary: ''
-authors: [Drone Pag, Dong Bai, Xuefeng Xu, Ali Mokhtari, Dong Li, Kang Yu]
+authors: [Dong Bai, Xuefeng Xu, Ali Mokhtari, Dong Li, Kang Yu]
 lastmod: '2025-05-01T09:55:49+02:00'
 featured: no
 draft: no
@@ -24,9 +24,9 @@ projects: []
 
 🛰️🌱 Boosting Nitrogen Use Efficiency from Space 🌱🛰
 
-From ground to sky — our satellite remote sensing projects (GreenWindows, LiveSen-MAP) are paving the way for precision nitrogen fertilization!
+From ground to sky — our satellite remote sensing projects (GreenWindows, LiveSen-MAP) are paving the way for precision nitrogen fertilization!🚜📡
 ![Satellite pixel map of Chl and water content](images/map_chl_water.png)
-By integrating high-resolution satellite imagery with field data and machine learning models, we’re developing tools to detect spatial variability in plant nitrogen needs, optimize inputs, and reduce environmental impacts. 🚜📡
+By integrating high-resolution satellite imagery with field data and machine learning models, we’re developing tools to detect spatial variability in plant nitrogen needs, optimize inputs, and reduce environmental impacts. 
 
 With every pixel, we’re getting closer to smarter, greener farming.
 

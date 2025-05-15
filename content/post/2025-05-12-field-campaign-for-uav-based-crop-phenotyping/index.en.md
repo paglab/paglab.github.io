@@ -9,7 +9,7 @@ tags:
   - drone remote sensing
 subtitle: ''
 summary: 'Snapshots from our UAV field campaign, combining drone-based hyperspectral imaging with in-situ measurements.'
-authors: []
+authors: [Anirudh Belwalkar, Wuhua Wang, Xiaoxin Song, Ying Yuan]
 lastmod: '2025-05-12T15:54:22+02:00'
 featured: no
 draft: no
