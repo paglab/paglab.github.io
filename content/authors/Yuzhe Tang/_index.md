@@ -26,7 +26,7 @@ interests:
 organizations:
 - name: Technical University of Munich
   url: "https://www.pa.wzw.tum.de"
-role: Visitors
+role: Visiting PhD student (2024-2025)
 
 social:
 - icon: envelope
