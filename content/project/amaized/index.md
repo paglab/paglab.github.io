@@ -6,7 +6,7 @@ categories: [Project]
 tags: ["AI", "Robotics", "Precision Agriculture", "Weed Management"]
 authors: [Kang Yu, Yuncai Hu, Chenghao Lu, Fei Wu, Shuai Yang, Jannatul Nipa]
 image:
-  filename: "amaized.jpg"
+  filename: "project_AmAIzed.jpg"
   focal_point: "Center"
   preview_only: false
 #external_link: "https://www.hef.tum.de/en/hef/agromissionhub-weihenstephan/amaized/"
