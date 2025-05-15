@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Precision Ag @ TUM
+        Welcome to the PrecisionAg Lab@TUM
       image:
         filename: welcome_drone.jpg
       text: |
@@ -63,7 +63,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: 'Preprints'
     design:
       view: citation
       columns: '1'

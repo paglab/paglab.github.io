@@ -8,6 +8,7 @@ theme: "theme-research-group"
 title: Precision Agriculture Lab # Website name
 baseURL: 'https://paglab.netlify.app/' # Website URL
 
+
 ############################
 ## LANGUAGE
 ############################

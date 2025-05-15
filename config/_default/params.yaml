@@ -29,6 +29,7 @@ marketing:
     google: ''
     baidu: ''
 
+
 # Site header
 
 header:
@@ -36,10 +37,17 @@ header:
     enable: true
     align: r
     show_logo: true
+    show_title: true  # This must be true
+    show_title_with_logo: true  # Special parameter some themes use
     show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: false
+    title: "Precision Agriculture Lab"  # Explicit override
+    logo:
+      alt: "PagLab Logo"
+      light: "logo.png"  # Path to your logo
+      width: 50 # Optional size control
 
 # Site footer
 

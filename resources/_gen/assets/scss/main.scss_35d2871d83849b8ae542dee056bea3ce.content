@@ -9761,3 +9761,17 @@ div.chart {
   background-size: contain !important;
   background-repeat: no-repeat;
   background-position: center center; }
+
+/* Force title visibility */
+.navbar-brand__title {
+  display: inline-block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  font-size: 1.2rem;
+  color: #333;
+  /* Change to your preferred color */
+  margin-left: 10px;
+  position: relative !important;
+  width: auto !important;
+  height: 500px !important;
+  clip: auto !important; }
