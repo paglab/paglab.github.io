@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Preferred method of contact is email.
+        The best way to reach us is by email 📨 — we’re just one message away from your next great idea.
       email: pag<at>ls<dot>tum<dot>de
       phone: 0049 81 6171 5013
       address:
