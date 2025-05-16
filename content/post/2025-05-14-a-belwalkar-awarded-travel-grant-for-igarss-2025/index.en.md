@@ -20,7 +20,7 @@ image:
   caption: ''
   focal_point: 'top'
   preview_only: no
-projects: [AmAIzed, PRECISION]
+projects: [PRECISION]
 ---
 
 We are delighted to share that Dr. Anirudh Belwalkar has been awarded a Young Researcher and Innovator Conference Grant under the EU COST Action to attend the IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2025) in Australia. 

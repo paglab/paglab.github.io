@@ -16,7 +16,7 @@ featured: no
 draft: no
 image:
   filename: 'images/IMG_9558.jpg'
-  caption: 'Tractor doing variable rate fertilization'
+  caption: 'Tractor doing variable rate fertilization at BBCH39'
   focal_point: 'top'
   preview_only: no
 projects: [livesen-map]
@@ -24,7 +24,7 @@ projects: [livesen-map]
 
 🛰️🌱 Boosting Nitrogen Use Efficiency from Space 🌱🛰
 
-From ground to sky — our satellite remote sensing projects (GreenWindows, LiveSen-MAP) are paving the way for precision nitrogen fertilization!🚜📡
+From ground to sky — our satellite remote sensing projects (GreenWindows, LiveSen-MAP, PHENET) are paving the way for precision nitrogen fertilization!🚜📡
 ![Satellite pixel map of Chl and water content](images/map_chl_water.png)
 By integrating high-resolution satellite imagery with field data and machine learning models, we’re developing tools to detect spatial variability in plant nitrogen needs, optimize inputs, and reduce environmental impacts. 
 
