@@ -27,4 +27,4 @@ Key objectives of the project include:
 
 Through these efforts, the RAISEAgriculture Project Team aims to contribute to the advancement of precision agriculture, promoting environmental sustainability and economic viability for farmers.
 
-After the project at TUM, the RAISEAgriculture team established their own company [project website](https://website-f7f20.web.app/about).
+After the project at TUM, the RAISEAgriculture team established their own company.
