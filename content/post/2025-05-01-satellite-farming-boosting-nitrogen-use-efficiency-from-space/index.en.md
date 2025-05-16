@@ -19,7 +19,7 @@ image:
   caption: 'Tractor doing variable rate fertilization'
   focal_point: 'top'
   preview_only: no
-projects: []
+projects: [livesen-map]
 ---
 
 🛰️🌱 Boosting Nitrogen Use Efficiency from Space 🌱🛰

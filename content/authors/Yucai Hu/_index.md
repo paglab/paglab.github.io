@@ -1,9 +1,10 @@
 ---
 title: "PD. Dr. Yuncai Hu"
-widget: page
+#widget: page
 authors:
   - Yuncai Hu
 
+name: "Yuncai Hu"
 first_name: Yuncai
 last_name: Hu
 
