@@ -11,10 +11,17 @@ education:
   courses:
   - course: PhD in Precision Agriculture
     institution: Technical University of Munich
-    year: 2024
+    year: 2027 (expected)
   - course: PhD in National Innovation Center for Digital Fishery
     institution: China Agricultural University
+    year: 2024
+  - course: MAE in Engineering
+    institution: China Agricultural University
     year: 2023
+  - course: BSc in Surveying and Mapping
+    institution: Henan Polytechnic University
+    year: 2021
+
 
 interests:
 - Remote sensing
@@ -48,5 +55,5 @@ user_groups:
 - PhD students
 ---
 
-
+Shuai Yang is a PhD student at the Precision Agriculture Lab. His research focuses on Deep learning, Computer vision, hyperspectral remote sensing, and radiative transfer model.
 

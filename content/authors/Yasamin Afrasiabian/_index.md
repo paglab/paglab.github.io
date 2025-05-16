@@ -1,28 +1,30 @@
 ---
 title: Yasamin Afrasiabian
 
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include remote sensing, particularly hyperspectral UAV and satellite imaging, and machine-learning methods for ecosystem-biodiversity characterisation, precision agriculture, and hydrological analysis.
 
 first_name: Yasamin
 last_name: Afrasiabian
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Precision Agriculture
+    institution: Technical University of Munich
+    year: 2025.12 (expected)
+  - course: MS Agricultural Water Engineering 
+    institution: University of Tehran
+    year: 2020
+  - course: BS Agricultural Water Engineering
+    institution: University of Tehran
+    year: 2014
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Remote Sensing & Earth Observation
+- Hyperspectral Imaging
+- Geospatial Machine Learning
+- Environmental Monitoring
+- Biodiversity Spectroscopy
+
 
 organizations:
 - name: Technical University of Munich
@@ -32,13 +34,13 @@ role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org
+  link: yasamin.afrasiabian@tum.de
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/
+  link: https://orcid.org/0009-0003-6672-4095
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk
+  link: https://scholar.google.com/citations?hl=en&user=xpDr418AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/
@@ -51,6 +53,4 @@ user_groups:
 - PhD students
 ---
 
-吳飞 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student in remote sensing and geospatial AI at the Precision Agriculture Lab, Technical University of Munich. My research interests include remote sensing, particularly hyperspectral UAV and satellite imaging, and machine-learning methods for ecosystem-biodiversity characterisation, precision agriculture, and hydrological analysis. I am involved in the “Interdisciplinary approaches to assess biodiversity and ecosystem services in urban agriculture” project’s field campaigns and modelling workflows. 
