@@ -1,51 +1,61 @@
 ---
+title: Dong Bai
 authors:
 - Dong Bai
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
+bio: My research interests include precision agriculture and Artificial Intelligence.
+  
 email: "dong.bai@tum.de"
 first_name: Dong
+last_name: Bai
+
+education:
+  courses:
+  - course: PhD in Precision Agriculture
+    institution: TUM
+    year: 2024-
+  - course: MSc in Agriculture
+    institution: CAAS
+    year: 2023
+  - course: BSc in Agriculture
+    institution: ''
+    year: 2020
+
 interests:
 - Artificial Intelligence
-- Computational Linguistics
+- Satellite Remote Sensing
 - Information Retrieval
-last_name: Bai
+
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Technical University of Munich
+  url: "paglab.org"
+role: PhD student
+
+projects:
+- 'livesen-map'
+
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org
+  link: 'mailto:'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: ''
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: ''
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Dong-Bai-3
 
 superuser: false
-title: Dong Bai
 user_groups:
 - PhD students
-
 ---
 
-吳飞 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dong Bai is is a PhD student at the Precision Agriculture Lab, Technical University of Munich. 
+His research interests include satellite remote sensing and nutrient management. He is involved in the [LiveSen-MAP](/project/livesen-map) project, which combines novel ground sensor and satellite remote sensing data for crop nitrogen management.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
