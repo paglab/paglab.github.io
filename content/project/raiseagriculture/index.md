@@ -12,7 +12,7 @@ image:
 #external_link: "https://website-f7f20.web.app/about"
 ---
 
-The **RAISEAgriculture Start-up Project** is an innovative initiative based at the Technical University of Munich (TUM) Precision Agriculture Lab, in collaboration with the [TUM Venture Lab](https://www.tum-venture-labs.de/labs/food-agro-biotech/),
+The **RAISEAgriculture** Start-up Project is an innovative initiative based at the Technical University of Munich (TUM) Precision Agriculture Lab, in collaboration with the [TUM Venture Lab](https://www.tum-venture-labs.de/labs/food-agro-biotech/),
 aiming to develop RAISE Agriculture — an autonomous, drone-based monitoring system for the early detection of stress zones in sugar beet and potato fields in Germany.
 
 The founding team envisions to revolutionize sustainable farming practices through the integration of artificial intelligence and advanced drone technology. Supported by the [EXIST Business Start-up Grant](https://exist.de/en/programm/exist-gruendungsstipendium/), the project focuses on developing an **Autonomous Drone Servicing System (ADSS)** designed to assist farmers in monitoring crop health and optimizing resource utilization.

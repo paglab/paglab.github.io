@@ -22,6 +22,7 @@ bio: My research interests include robotics, mobile computing and AI.
 
 interests:
   - Artificial Intelligence
+  - Robotics
   - Computer vision
   - Information Retrieval
 
@@ -44,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'https://paglab.org/contact/'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/
@@ -75,3 +76,5 @@ user_groups:
 Drone Pag is a drone of artificial intelligence at the Drone AI Lab. Drone's research interests include robotics, mobile computing and drone artificial intelligence. Drone leads the Drone Fly team, which develops self-learning systems and self-flying robots.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+Drone Pag 是无人机人工智能实验室的人工智能无人机。Drone 的研究兴趣包括机器人、移动计算和无人机人工智能。Drone 领导的 Drone Fly 团队负责开发自学习系统和自飞行机器人。
