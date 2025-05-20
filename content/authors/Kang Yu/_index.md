@@ -47,6 +47,10 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PrecisionAgLab
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Kang_Yu
+
 
 superuser: true
 user_groups:
