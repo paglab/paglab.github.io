@@ -15,14 +15,6 @@ publication: International Journal of Remote Sensing
 doi: 10.1080/01431161.2025.2465916
 url: ''
 abstract: ''
-featured: no
-projects: []
-tags:
-- chlorophyll content
-- machine learning
-- generalization ability
-- potatoes
-- remote monitoring
 
 ---
 
