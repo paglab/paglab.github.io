@@ -3,6 +3,7 @@ title: Prof. Dr. Kang Yu
 
 authors:
 - Kang Yu
+- K. Yu
 
 bio: My research interests include precision crop farming, hyperspectral remote sensing, and AI in agriculture.
 

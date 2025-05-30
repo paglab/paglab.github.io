@@ -38,6 +38,7 @@ social:
 superuser: false
 user_groups:
 - Research assistants & Technicians
+- Safety officers
 - Alumni
 ---
 

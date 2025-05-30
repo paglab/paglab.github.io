@@ -15,6 +15,7 @@ sections:
           - Researchers
           - PhD students
           - Grad Students
+          - Safety officers
           - Administration
           - Research assistants & Technicians
           - Visitors

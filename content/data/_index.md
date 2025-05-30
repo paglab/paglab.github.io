@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Data"
+title: "Code & Data"
 subtitle: ""
 summary: "Open research data"
 authors: []
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-We provide access to our open research datasets related to publications. 
+*We provide access to our open research datasets used in our publications.* 
