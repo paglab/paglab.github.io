@@ -54,6 +54,6 @@ user_groups:
 - Alumni
 ---
 
-weilong Qin was a visiting Phd student (2021-2023) at the Precision Agriculture Lab at TUM. His research interests include remote sensing, crop resilience and variety identification.
+Weilong Qin was a visiting Phd student (2021-2023) at the Precision Agriculture Lab at TUM. His research interests include remote sensing, crop resilience and variety identification.
 
 Dr. Qin is currently a assistant researcher at the Dryland Farming Institute, Hebei Academy of Agriculture and Forestry Sciences. He is mainly engaged in research on Remote Sensing-Based Screening of Drought- and Water-Saving Crop Varieties.
