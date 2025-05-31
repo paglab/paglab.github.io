@@ -1,6 +1,6 @@
 
 ---
-title: "UAV weed detection"
+title: "[Code & Data] UAV weed detection"
 date: 2025-05-23
 tags: ["Weed detection", "UAV ortho-mosaic", "AI", "Deep learning"]
 categories: [data]
