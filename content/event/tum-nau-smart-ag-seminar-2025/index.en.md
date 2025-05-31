@@ -1,7 +1,7 @@
 ---
 title: TUM–NAU SmartAg Seminar 2025
 author: Drone Pag
-date: '2025-06-27'
+date: '2025-06-27T09:00:00'
 slug: tum-nau-smart-ag-seminar-2025
 categories: [seminar]
 tags: [Satellite remote sensing, UAV remote sensing, Modelling, Machine learning]
