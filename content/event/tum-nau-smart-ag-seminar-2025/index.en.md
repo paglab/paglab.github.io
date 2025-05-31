@@ -32,11 +32,11 @@ url_video: ~
 slides: ''
 projects: []
 ---
-🚜 **TUM–NAU Smart Agriculture Seminar** 🌱
+🛰️ **TUM–NAU Smart Agriculture Seminar** 🌱
 
 We are pleased to announce an international seminar jointly organized by the **Technical University of Munich (TUM)** and **Nanjing Agricultural University (NAU)** on the topic:
 
-### **Remote Sensing and Data-Driven Methods for Smart Agriculture**
+### **Remote Sensing and Data-Driven Methods for Smart Agriculture** 🚁🛰️
 
 📅 **Date**: June 27, 2025  
 📍 **Location**: Online & In-person (TUM Dürnast Research Station)  
@@ -45,7 +45,7 @@ We are pleased to announce an international seminar jointly organized by the **T
 - Machine learning for agricultural decision-making  
 - Modeling plant-soil interactions for precision farming  
 
-This event fosters scientific exchange on the integration of remote sensing technologies and modeling tools to advance crop and soil monitoring, and smart and sustainable farming practices. Researchers, students, and professionals from both institutions will share their latest work and explore new collaborations.
+This event fosters scientific exchange on the integration of remote sensing technologies and modeling tools to advance crop and soil monitoring, and smart and sustainable farming practices 🚜. Researchers, students, and professionals from both institutions will share their latest work and explore new collaborations.
 
 Stay tuned for more updates and program details!
 
