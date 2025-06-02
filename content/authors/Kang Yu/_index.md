@@ -51,7 +51,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Kang_Yu
-
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kang-yu/
 
 superuser: true
 user_groups:
