@@ -61,7 +61,7 @@ Organizers: Prof. Qiang Cao, Prof. Kang Yu
 | 14:00 | Dr. Jiaoyang He | Impact of panicles on growth parameter monitoring and radiative transfer modeling investigating panicle-leaf integrated canopy |
 | 14:30 | Dr. Rui Dong    | Early maize lodging risk prediction based on multi-source data fusion by integrating proximal sensing, crop growth modeling and machine learning |
 | ----- | **30 min Coffee Break** |                     |
-| 15:30 | Dr. A Belwalkar |  tbd                   |
+| 15:30 | Dr. A Belwalkar | Evaluating SIF Retrievals from Narrow-Band Aerial Imaging Sensors: Toward Seasonal Monitoring of Leaf Nitrogen Content |
 | 16:00 | Ali Mokhtari | Evapotranspiration Modeling Using Optical Satellite Data for Precision Farming |
 | 16:30 | tbd      |                     |
 | 17:00 | tbd      |                     |
