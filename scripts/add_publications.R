@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-# scripts/import_publications.R
+# scripts/add_publications.R
 
 # Load required packages
 suppressPackageStartupMessages({
