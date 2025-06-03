@@ -1,7 +1,7 @@
 ---
 title: Global retrieval of canopy chlorophyll content from Sentinel-3 OLCI TOA data
   using a two-step upscaling method integrating physical and machine learning models
-date: '2025-01-01'
+date: '2025-06-03'
 publication_types:
 - '2'
 authors:
