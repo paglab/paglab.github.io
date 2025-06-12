@@ -133,20 +133,24 @@ params:
     date_format: January 2006
     citation_style: apa
     filters:
-      - name: Journal Articles
-        tag: '2'
-      - name: Conference Papers
-        tag: '1'
-      - name: Preprints
-        tag: '3'
-      - name: Theses
-        tag: '4'
-      - name: Books
-        tag: '5'
-      - name: Book Sections
-        tag: '6'
-      - name: Other
+      - name: Uncategorized
         tag: '0'
+      - name: Conference Paper
+        tag: '1'
+      - name: Journal Article
+        tag: '2'
+      - name: Preprint
+        tag: '3'
+      - name: Report
+        tag: '4'
+      - name: Book
+        tag: '5'
+      - name: Book Section
+        tag: '6'
+      - name: Thesis
+        tag: '7'
+      - name: Patent
+        tag: '8'
     
     # Display settings
     filter_default: "All"

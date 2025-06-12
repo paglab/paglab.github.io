@@ -3,7 +3,7 @@ title: Biodiversity Monitoring in Urban Community Gardens Using Proximal Sensing
   Drone Remote Sensing
 date: '2025-01-01'
 publication_types:
-- '0'
+- 'Preprints'
 authors:
 - Yasamin Afrasiabian
 - Felix Contiz

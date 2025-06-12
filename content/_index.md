@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: duernast_flowerstrip_pointcloud.jpg
           filters:
             brightness: 1
           parallax: false
@@ -57,13 +57,13 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Journal Papers
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'Preprints'
+        publication_type: '2'
     design:
       view: citation
       columns: '1'

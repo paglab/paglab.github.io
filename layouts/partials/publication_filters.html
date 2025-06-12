@@ -1,12 +1,13 @@
 {{ $active := .Scratch.Get "filter" | default "*" }}
+{{ $labels := dict "0" "Uncategorized" "1" "Conference Paper" "2" "Journal Article" "3" "Preprint" "4" "Report" "5" "Book" "6" "Book Section" "7" "Thesis" "8" "Patent" }}
 <div class="pub-filters">
   <div class="btn-group">
     {{ range .Site.Params.publications.filters }}
       <button
         class="btn {{ if eq $active .tag }}active{{ end }}"
         data-filter="{{ .tag }}"
-        aria-label="{{ .name }}">
-        {{ .name }}
+        aria-label="{{ index $labels .tag }}">
+        {{ index $labels .tag }}
       </button>
     {{ end }}
   </div>

@@ -1,22 +1,2 @@
-<a class="navbar-brand" href="{{ .Site.Home.RelPermalink }}" style="display: flex; align-items: center;">
-  {{ if .Site.Params.header.navbar.show_logo }}
-    <img src="{{ .Site.Params.header.navbar.logo.light | relURL }}" 
-         class="navbar-brand__logo"
-         style="max-width: 40px; height: auto;"> <!-- Prevent logo from pushing out title -->
-  {{ end }}
-  
-  {{ if .Site.Params.header.navbar.show_title }}
-    <span class="navbar-brand__title" 
-          style="display: inline-block !important;
-                 visibility: visible !important;
-                 opacity: 1 !important;
-                 font-size: 1.2rem;
-                 color: #333;
-                 margin-left: 10px;
-                 position: relative;
-                 width: auto !important;
-                 height: auto !important;">
-      {{ .Site.Title }}
-    </span>
-  {{ end }}
-</a>
+{{ $labels := dict "0" "Uncategorized" "1" "Conference Paper" "2" "Journal Article" "3" "Preprint" "4" "Report" "5" "Book" "6" "Book Section" "7" "Thesis" "8" "Patent" }}
+<small class="text-muted">{{ index $labels (index .Params.publication_types 0) }}</small>
