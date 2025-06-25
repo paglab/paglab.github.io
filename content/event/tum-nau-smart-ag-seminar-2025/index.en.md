@@ -56,15 +56,15 @@ Organizers: Prof. Qiang Cao, Prof. Kang Yu
 | Time       | Speaker          | Topic                                     |
 |------------|------------------|-------------------------------------------|
 | 12:45 | **Welcome and Introduction**    |             |
-| 13:00 | Yue Li          | Optimizing nitrogen management strategies for sustainable wheat production in China  |
+| 13:00 | Dr. A Belwalkar | Evaluating SIF Retrievals from Narrow-Band Aerial Imaging Sensors: Toward Seasonal Monitoring of Leaf Nitrogen Content |
 | 13:30 | Ali Mokhtari | Evapotranspiration Modeling Using Optical Satellite Data for Precision Farming |
 | 14:00 | Dr. Jiaoyang He | Impact of panicles on growth parameter monitoring and radiative transfer modeling investigating panicle-leaf integrated canopy |
 | 14:30 | Dr. Rui Dong    | Early maize lodging risk prediction based on multi-source data fusion by integrating proximal sensing, crop growth modeling and machine learning |
 | ----- | **30 min Coffee Break** |                     |
-| 15:30 | Dr. A Belwalkar | Evaluating SIF Retrievals from Narrow-Band Aerial Imaging Sensors: Toward Seasonal Monitoring of Leaf Nitrogen Content |
+| 15:30 | Yue Li          | Optimizing nitrogen management strategies for sustainable wheat production in China  |
 | 16:00 | Tingxuan Zhuang | Enhancing winter wheat water status diagnosis using allometry of saturated water accumulation and dry mass |
 | 16:30 | Ying Yuan | Improving estimation of winter wheat biophysical traits using reflectance-based SIF-sensitive indices and multi-task SVGP model |
-| 17:00 | Fei Wu    |                     |
+| 17:00 | Fei Wu    | tbd: Maize leaf area prediction using drones |
 | 17:30 | **Discussion & Close**  |                     |
 
 
