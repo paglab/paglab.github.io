@@ -64,7 +64,7 @@ Organizers: Prof. Qiang Cao, Prof. Kang Yu
 | 15:30 | Yue Li          | Optimizing nitrogen management strategies for sustainable wheat production in China  |
 | 16:00 | Tingxuan Zhuang | Enhancing winter wheat water status diagnosis using allometry of saturated water accumulation and dry mass |
 | 16:30 | Ying Yuan | Improving estimation of winter wheat biophysical traits using reflectance-based SIF-sensitive indices and multi-task SVGP model |
-| 17:00 | Fei Wu    | tbd: Maize leaf area prediction using drones |
+| 17:00 | Fei Wu    | Modeling Maize Leaf Area in Response to Nitrogen Combining UAV Data and an Optimized Bell-shaped Function |
 | 17:30 | **Discussion & Close**  |                     |
 
 
