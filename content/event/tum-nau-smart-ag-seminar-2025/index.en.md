@@ -66,5 +66,6 @@ Organizers: Prof. Qiang Cao, Prof. Kang Yu
 | 16:30 | Ying Yuan | Improving estimation of winter wheat biophysical traits using reflectance-based SIF-sensitive indices and multi-task SVGP model |
 | 17:00 | Fei Wu    | Modeling Maize Leaf Area in Response to Nitrogen Combining UAV Data and an Optimized Bell-shaped Function |
 | 17:30 | **Discussion & Close**  |                     |
+| 18:00 | :fire: BBQ & Beer :beer:
 
 
