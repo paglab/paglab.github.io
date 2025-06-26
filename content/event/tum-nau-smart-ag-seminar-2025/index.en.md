@@ -51,7 +51,7 @@ Stay tuned for more updates and program details!
 
 Organizers: Prof. Qiang Cao, Prof. Kang Yu  
 
-## Seminar Schedule (⏳ Loading...)
+## Seminar Schedule 
 
 | Time       | Speaker          | Topic                                     |
 |------------|------------------|-------------------------------------------|
