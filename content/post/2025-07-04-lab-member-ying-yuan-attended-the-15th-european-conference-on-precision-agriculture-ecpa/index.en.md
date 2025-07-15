@@ -10,7 +10,7 @@ tags:
   - ECPA
 subtitle: ''
 summary: ''
-authors: [Drone Pag]
+authors: [Ying Yuan, Drone Pag]
 lastmod: '2025-07-05T09:57:28+02:00'
 featured: no
 draft: no
