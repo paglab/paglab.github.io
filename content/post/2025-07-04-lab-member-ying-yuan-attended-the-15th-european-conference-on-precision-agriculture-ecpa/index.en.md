@@ -17,7 +17,7 @@ draft: no
 image: 
   filename: images/1002080715.jpg
   caption: 'Ying presented at ECPA 2025'
-  focal_point: 'top'
+  focal_point: 'center'
   preview_only: no
 projects: [INVITE]
 ---
