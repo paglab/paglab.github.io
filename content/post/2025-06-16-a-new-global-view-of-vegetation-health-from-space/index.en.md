@@ -14,7 +14,7 @@ tags:
   - Radiative transfer models
 subtitle: ''
 summary: 'Our lab has developed the world’s first global dataset of canopy chlorophyll content (CCC) using Sentinel-3 satellite observations, providing a powerful tool for monitoring vegetation health, crop conditions, and ecosystem responses to climate change.'
-authors: [Dong Li]
+authors: [Dong Li, Drone Pag]
 lastmod: '2025-07-16T13:11:28+02:00'
 featured: no
 draft: no
@@ -30,7 +30,7 @@ projects: []
 
 Photosynthesis is the foundation of life on Earth — it’s how plants turn sunlight, water, and carbon dioxide into the energy that sustains ecosystems and agriculture. At the heart of this process is *chlorophyll*, the green pigment that captures sunlight.
 
-The amount of chlorophyll in plant canopies tells us a lot about plant health, productivity, and how well ecosystems are functioning. Yet until now, there’s been no global, consistent open-access dataset to monitor this key indicator.
+The amount of chlorophyll in plant canopies tells us a lot about plant health, productivity, and how well ecosystems are functioning. Yet until now, there’s been no global, consistent, open-access dataset to monitor this key indicator.
 
 The **Precision Agriculture Laboratory at the Technical University of Munich** has changed that. Our team and international collaborators have developed the world’s first global dataset of canopy chlorophyll content (CCC), using advanced analysis of observations from the European Sentinel-3 satellites.
 
