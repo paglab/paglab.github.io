@@ -24,9 +24,8 @@ interests:
 - Nitrogen Nutrient Management
 
 organizations:
-- name: Technical University of Munich
-  url: "https://www.pa.wzw.tum.de"
-role: Visiting PhD student (2024-2025)
+- name: Inner Mongolia Agricultural University
+role: TUM Visiting PhD student (2024.12-2025.06)
 
 social:
 - icon: envelope
@@ -47,7 +46,7 @@ social:
 
 superuser: false
 user_groups:
-- Visitors
+- Alumni
 ---
 
 Yuzhe Tang is a guest PhD student from the Inner Mongolia Agricultural University. His research interests include hyperspectral remote sensing, precision agriculture, nitrogen nutrient diagnosis and nitrogen nutrient management.

@@ -24,9 +24,8 @@ interests:
 - Precision Agriculture
 
 organizations:
-- name: Technical University of Munich
-  url: "https://www.pa.wzw.tum.de"
-role: Visiting PhD student (2023-2025)
+- name: Northwest A&F University
+role: TUM Visiting PhD student (2023.07-2025.06)
 
 social:
 - icon: envelope
@@ -44,6 +43,6 @@ social:
 
 superuser: false
 user_groups:
-- Visitors
+- Alumni
 ---
 Xiaokai Chen is a guest PhD student at the Precision Agriculture Lab of the Technical University of Munich (TUM). His current research focuses on crop nitrogen nutrition monitoring and diagnosis using multi-scale remote sensing, involving near-ground, UAV and satellite remote sensing.
