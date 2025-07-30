@@ -11,7 +11,7 @@ tags:
   - crop field phenotyping
   - INVITE
 subtitle: ''
-summary: 'Winter Wheat Harvest Celebration at TUM’s Dürnast Experimental Station – A Milestone for the INVITE 2025 Project'
+summary: 'Winter Wheat Harvest Celebration at TUM’s Dürnast Experimental Station – A Milestone for the INVITE Project'
 authors: [Xiaoxin Song, Drone Pag]
 lastmod: '2025-07-30T23:22:44+02:00'
 featured: no
