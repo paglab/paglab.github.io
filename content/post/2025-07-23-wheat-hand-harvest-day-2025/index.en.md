@@ -8,9 +8,11 @@ categories:
 tags:
   - Harvest
   - winter wheat
+  - crop field phenotyping
+  - INVITE
 subtitle: ''
 summary: 'Winter Wheat Harvest Celebration at TUM’s Dürnast Experimental Station – A Milestone for the INVITE 2025 Project'
-authors: [Xiaoxin Song]
+authors: [Xiaoxin Song, Drone Pag]
 lastmod: '2025-07-30T23:22:44+02:00'
 featured: no
 draft: no
