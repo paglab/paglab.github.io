@@ -19,7 +19,7 @@ draft: no
 image:
   filename: 'images/IMG20250807WA0015.jpg'
   caption: 'Anirudh Belwalkar at IGARSS 2025'
-  focal_point: ''
+  focal_point: 'top'
   preview_only: yes
 projects: []
 ---
