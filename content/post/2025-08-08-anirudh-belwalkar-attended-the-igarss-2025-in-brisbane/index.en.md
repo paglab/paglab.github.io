@@ -25,8 +25,8 @@ projects: []
 ---
 
 Dr. Anirudh Belwalkar, postdoctoral researcher at the Precision Agriculture Lab, TUM attended the International Geoscience and Remote Sensing Symposium (IGARSS), held in Brisbane, Australia, from August 3, 2025 to August 8, 2025.
-![Anirudh Belwalkar at IGARSS 2025](images/IMG-20250807-WA0002.jpg)
+![Anirudh Belwalkar at IGARSS 2025](images/IMG20250807WA0002.jpg)
 
 At the conference, Dr. Belwalkar presented a poster titled “Estimation of leaf area index using a newly deployed UAV-borne narrow-band hyperspectral imager: initial performance evaluation”, showcasing the potential of our newly deployed hyperspectral imaging sensor for precision agriculture applications.
-![](images/IMG-20250807-WA0010.jpg)
+![Anirudh at IGARSS 2025](images/IMG20250807WA0010.jpg)
 Sincere thanks to the IGARSS organizers for the opportunity to share our research and engage in meaningful discussions with international experts in remote sensing and precision agriculture.
