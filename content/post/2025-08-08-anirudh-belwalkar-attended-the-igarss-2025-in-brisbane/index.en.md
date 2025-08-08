@@ -17,8 +17,8 @@ lastmod: '2025-08-08T00:10:40+02:00'
 featured: no
 draft: no
 image:
-  filename: 'images/IMG-20250807-WA0002.jpg'
-  caption: ''
+  filename: 'images/IMG20250807WA0015.jpg'
+  caption: 'Anirudh Belwalkar at IGARSS 2025'
   focal_point: ''
   preview_only: yes
 projects: []
