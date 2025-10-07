@@ -19,14 +19,15 @@ draft: no
 image:
   filename: 'images/epps25groupphoto.jpg'
   caption: 'TUM Precision Ag LAB at the EPPS 2025 Bonn'
-  focal_point: 'top'
-  preview_only: yes
-projects: []
+  focal_point: ''
+  preview_only: true
+projects: [INVITE, PRECISION]
 ---
 
 Members of the Precision Agriculture Lab at the Technical University of Munich participated in the **European Plant Phenomics Symposium (EPPS 2025)**, held in Bonn, Germany, from 16–19 September 2025.
-![Precision Ag LAB at EPPS 2025](images/epps25groupphoto.jpg)
+
 Professor Kang Yu, together with PhD candidates Wuhua Wang, Xiaoxin Song, and Fei Wu, represented the group and shared our recent activities in UAV-based field phenotyping.
+![Precision Ag LAB at EPPS 2025](images/epps25groupphoto.jpg)
 
 🗣️ Oral Presentation
 Xiaoxin Song delivered an oral presentation titled “Stay-green traits captured by spatiotemporal traits of UAV-based canopy spectra from the phenology of wheat and their response to climate.” The presentation introduced ongoing work (2021–2025) using UAV multispectral time-series data to quantify stay-green dynamics in wheat and explore their relationship with climate variability.
