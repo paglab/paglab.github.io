@@ -17,7 +17,7 @@ lastmod: '2025-10-07T12:39:25+02:00'
 featured: no
 draft: no
 image:
-  filename: 'images/epps25groupphoto.jpg'
+  filename: 'images/epps25xiaoxin.jpg'
   caption: 'TUM Precision Ag LAB at the EPPS 2025 Bonn'
   focal_point: ''
   preview_only: true
