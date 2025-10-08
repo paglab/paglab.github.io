@@ -62,3 +62,4 @@ user_groups:
 ---
 
 Kang Yu is a professor of Precison Agriculture at the Technical University of Munich. His research interests include crop field phenotyping, precision crop nutrient mangement, and vegetation remote sensing. He leads the Precision Agriculture group, which develops sensing and computational methods to phenotype plant traits and to monitor crop stress, nutrition response, and yield across scales using UAV and satellite remote sensing data.
+📸 Profile photo by Andreas Heddergott.
