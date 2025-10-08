@@ -24,7 +24,7 @@ abstract: ~
 date_end: '2025-11-07T14:00:00+02:00'
 all_day: no
 publishDate: '2025-10-08T19:05:24+02:00'
-authors: [Yuncai Hu, Kang Yu]
+authors: [Kang Yu, Yuncai Hu]
 featured: no
 image:
   filename: workshop-bigstar-flyer.png
@@ -75,7 +75,7 @@ projects: []
 | **11:15 – 12:00** | *Using Sensors in Precision Farming: If It Is Challenging for Researchers, Why Shouldn’t It Be for Farmers? Lessons from On-Farm Experimentation* | Prof. **Francesco Morari**, DAFNAE, University of Padova, Italy |
 | **12:00 – 12:45** | *Adoption and Economics of Variable Rate Technology* | Dr. **Markus Gandorfer**, Bavarian State Research Center for Agriculture (LfL), Germany |
 | **12:45 – 13:30** | *TBD* | Prof. **N.N **,  University,  |
-| **13:30 – 14:15** | Discussion and Concluding Words | Prof. **Kang Yu**, TUM |
+| **13:30 – 14:15** | Discussion and Concluding Remarks | Prof. **Kang Yu**, TUM |
 
 ---
 
