@@ -1,5 +1,6 @@
 ---
-title: 'Workshop: BridgIng the Gap in Space and Time for global sustAinable crop nutRient management (BIGSTAR)'
+title: 'Workshop: Bridging the Gap in Space and Time'
+subtitle: '**B**ridg**I**ng the **G**ap in **S**pace and **T**ime - Remote Sensing Technologies for Global Sust**A**inable Crop Nut**R**ient Management (**BIGSTAR**)'
 author: Drone Pag
 date: '2025-11-06'
 slug: workshop-bigstar
@@ -19,13 +20,13 @@ address:
   region: ~
   postcode: 85354
   country: Germany
-summary: An international workshop bringing together leading researchers to discuss how remote sensing technologies can bridge spatial and temporal gaps in crop nutrient monitoring and management, promoting sustainable data-driven agriculture. The workshop covers technological, methodological, and socio-economic aspects of precision nutrient management.
+summary: '**B**ridg**I**ng the **G**ap in **S**pace and **T**ime - Remote Sensing Technologies for Global Sust**A**inable Crop Nut**R**ient Management (**BIGSTAR**): An international workshop bringing together leading researchers to discuss how remote sensing technologies can bridge spatial and temporal gaps in crop nutrient monitoring and management, promoting sustainable data-driven agriculture. The workshop covers technological, methodological, and socio-economic aspects of precision nutrient management.'
 abstract: ~
 date_end: '2025-11-07T14:00:00+02:00'
 all_day: no
 publishDate: '2025-10-08T19:05:24+02:00'
 authors: [Kang Yu, Yuncai Hu]
-featured: no
+featured: true
 image:
   filename: workshop-bigstar-flyer.png
   caption: ''
@@ -37,6 +38,12 @@ url_pdf: ~
 url_video: ~
 slides: ''
 projects: []
+
+links:
+  - icon: ticket
+    icon_pack: fas
+    name: Register on Eveeno
+    url: "https://eveeno.com/296492098"
 ---
 
 ## 📍 Venue
