@@ -8,7 +8,7 @@ location: Weihenstephan Campus
 address:
   street: Emil-Ramann-Str. 2
   city: Freising
-  region: Bavaria
+  region: 
   postcode: '85354'
   country: Germany
 
@@ -57,4 +57,7 @@ slides:
 projects: ["amaized"]
 ---
 
-Further event details will be available soon.
+The September 2025 hackathon “AI Meets Drones” challenged students to apply artificial intelligence and remote sensing techniques to real UAV-borne multispectral imagery of wheat. Participants worked with data from 216 plots across 18 varieties and three nitrogen treatments collected using a MicaSense RedEdge-MX Dual camera.
+
+Over an intensive week, student teams performed reflectance extraction in QGIS, computed nitrogen- and biomass-responsive vegetation indices, and trained machine learning models for predicting crop nitrogen status and biomass.
+The hackathon concluded with four student presentations as well as reports.  
