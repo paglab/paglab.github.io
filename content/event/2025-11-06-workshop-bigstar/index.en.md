@@ -2,7 +2,7 @@
 title: 'Workshop: Bridging the Gap in Space and Time'
 subtitle: '**B**ridg**I**ng the **G**ap in **S**pace and **T**ime - Remote Sensing Technologies for Global Sust**A**inable Crop Nut**R**ient Management (**BIGSTAR**)'
 author: Drone Pag
-date: '2025-11-06'
+date: '2025-11-06T13:00:00'
 slug: workshop-bigstar
 categories:
   - conference
