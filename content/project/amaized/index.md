@@ -42,7 +42,7 @@ By integrating state-of-the-art technologies such as integrated pest management 
 
 ## Publications
 
-- Lu et al. (2025). *Weed instance segmentation from UAV Orthomosaic Images based on Deep Learning.* **Smart Agricultural Technology**. [View](../../publication/lu-weed-2025/)
-- Zhang et al. (2024).*Meta-Analysis Assessing Potential of Drone Remote Sensing in Estimating Plant Traits Related to Nitrogen Use Efficiency.* **Remote Sensing**. [View](../../publication/zhang-meta-analysis-2024/)
+- Lu et al. (2025). *Weed instance segmentation from UAV Orthomosaic Images based on Deep Learning.* **Smart Agricultural Technology**. [View](../../publication/lu-2025-sat-weed/)
+- Zhang et al. (2024).*Meta-Analysis Assessing Potential of Drone Remote Sensing in Estimating Plant Traits Related to Nitrogen Use Efficiency.* **Remote Sensing**. [View](../../publication/zhang-2024-rs-metaanalysis/)
 
 For more information, visit the [AmAIzed project page at HEF](https://www.hef.tum.de/en/hef/agromissionhub-weihenstephan/amaized/).

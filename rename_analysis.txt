@@ -1,0 +1,95 @@
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+=== PUBLICATION FOLDER STANDARDIZATION ===
+
+Found 65 publication directories
+
+RENAME PLAN:
+===========
+
+Total folders: 65 
+Need renaming: 65 
+Already correct: 0 
+
+FOLDERS TO RENAME:
+afrasiabian-biodiversity-2025-remotesensingapplicationssocietyandenvironment -> yasaminafrasiabian-2025-rsase-biodiversity
+afrasiabian-machine-2022                                               -> yasaminafrasiabian-2022-gjkidaue-machine
+anderegg-spectral-2020                                                 -> jonasanderegg-2020-fps-spectral
+camenzind-multi-2024                                                   -> moritzpaulcamenzind-2024-fps-multi
+camenzind-multi-angular-2022                                           -> moritzcamenzind-2022-ddddoudsd-multiangular
+camenzind-uas-based-2023                                               -> mpcamenzind-2023-pa-uasbased
+chen-a-2025-ieeejournalofselectedtopicsinappliedearthobservationsandremotesensing -> xiaokaichen-2025-jstars-uavproxied
+chen-improving-2025-computersandelectronicsinagriculture               -> xiaokaichen-2025-cea-improving
+chen-potential-2025-rs                                                 -> xiaokaichen-2025-rs-potential
+chi-foliar-2022                                                        -> dengkaichi-2022-stte-foliar
+chi-planting-2025-landscapeandurbanplanning                            -> dengkaichi-2025-lup-planting
+chi-urban-2020                                                         -> dengkaichi-2020-rs-urban
+colovic-hyperspectral-2022                                             -> milicacolovic-2022-a-hyperspectral
+durand-maniclas-linking-2025-annalsofbotany                            -> fdurandmaniclas-2025-aob-linking
+ejaz-detection-2023                                                    -> irsaejaz-2023-eti-detection
+ejaz-sorghum-2021                                                      -> irsaejaz-2021-fps-sorghum
+el-sharawy-stay-green-2023                                             -> helsharawy-2023-pa-staygreen
+gackstetter-approaching-2024                                           -> davidgackstetter-2024-ijaeog-approaching
+gackstetter-selfattention-2025-isprsjournalofphotogrammetryandremotesensing -> davidgackstetter-2025-ijprs-selfattention
+heinemann-optimising-2025-europeanjournalofsoilscience                 -> hheinemann-2025-ejss-optimising
+hu-predicting-2021                                                     -> naiyuehu-2021-fc-predicting
+knoke-when-2025-agroforestrysystems                                    -> thomasknoke-2025-afs-when
+li-a-2025-remotesensingofenvironment                                   -> dongli-2025-rse-more
+li-application-2024                                                    -> daoliangli-2024-cea-application
+li-global-2025-remotesensingofenvironment                              -> dongli-2025-rse-global
+li-spectroscopic-2021                                                  -> weili-2021-fps-spectroscopic
+lu-maize-2024                                                          -> chenghaolu-2024-fps-maize
+lu-weed-2025-smartagriculturaltechnology                               -> chenghaolu-2025-sat-weed
+ma-using-2022                                                          -> lfma-2022-jpnf-multispectral
+mokhtari-optical-2023                                                  -> amokhtari-2023-pa-optical
+mokhtari-optram-et-2023                                                -> alimokhtari-2023-rse-optramet
+mokhtari-satellitebased-2025-fieldcropsresearch                        -> alimokhtari-2025-fcr-satellitebased
+nnadozie-cassava-2022                                                  -> emmanuelcnnadozie-2022-unknown-cassava
+nnadozie-cassava-2023                                                  -> ecnnadozie-2023-pa-cassava
+nnadozie-detecting-2023                                                -> emmanuelcnnadozie-2023-rs-detecting
+qin-uav-based-2022                                                     -> weilongqin-2022-rs-uavbased
+roth-the-2025-gigascience                                              -> lukasroth-2025-gs-fip
+serafim-substrate-2024                                                 -> cindyserafim-2024-bpb-substrate
+song-highthroughput-2025-smartagriculturaltechnology                   -> xiaoxinsong-2025-sat-highthroughput
+tang-exploring-2025-ieeetransactionsongeoscienceandremotesensing       -> yuzhetang-2025-tgrs-exploring
+tang-ntri-2025-fieldcropsresearch                                      -> yuzhetang-2025-fcr-ntri
+van-geel-vitaliteit-2020                                               -> mvangeel-2020-g-vitaliteit
+versuliene-wheat-2024                                                  -> agnverulien-2024-ejss-wheat
+wang-characterization-2022                                             -> falvwang-2022-unknown-characterization
+wang-characterization-2025-pa                                          -> falvwang-2025-pa-characterization
+wang-drone-2024                                                        -> jiewang-2024-unknown-drone
+wang-drone-2025-computersandelectronicsinagriculture                   -> jiewang-2025-cea-drone
+wang-estimation-2022                                                   -> falvwang-2022-rs-estimation
+yang-deepspecn-2025-plantphenomics                                     -> shuaiyang-2025-pp-deepspecn
+yang-estimating-2021                                                   -> haiboyang-2021-rs-estimating
+yang-hyperspectral-2021                                                -> haiboyang-2021-ijaeog-hyperspectral
+yang-improving-2023                                                    -> hyang-2023-pa-improving
+yang-improving-2025-ijrs                                               -> haiboyang-2025-ijrs-improving
+yang-improving-2025-pa                                                 -> haiboyang-2025-pa-improving
+yang-machine-2023                                                      -> haiboyang-2023-fcr-machine
+yin-drone-2025-potatoresearch                                          -> hangyin-2025-pr-drone
+yin-identifying-2025-smartagriculturaltechnology                       -> hangyin-2025-sat-identifying
+yin-improving-2025-europeanjournalofagronomy                           -> hangyin-2025-eja-improving
+yin-mapping-2024                                                       -> hangyin-2024-rs-mapping
+yin-multi-temporal-2023                                                -> hangyin-2023-pjprsgs-multitemporal
+yu-uav-2025-smartagriculturaltechnology                                -> kangyu-2025-sat-uav
+zhang-meta-analysis-2024                                               -> jingchengzhang-2024-rs-metaanalysis
+zhang-spike-2021                                                       -> zhenzhang-2021-fcr-spike
+zhang-uav-based-2024                                                   -> jingchengzhang-2024-ubaiabppwwy-uavbased
+zhang-winter-2025-agriculture                                          -> jingzhang-2025-agr-winter
+
+To execute the renaming:
+1. Review the plan above
+2. Run: Rscript scripts/execute_rename.R
+3. Rebuild the site
+
+Rename plan saved to scripts/rename_plan.rds

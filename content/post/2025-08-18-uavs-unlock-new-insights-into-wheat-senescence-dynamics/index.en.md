@@ -23,7 +23,7 @@ image:
 projects: []
 ---
 
-Our research team has introduced a novel approach [(Song et al. 2025)](/publication/song-highthroughput-2025-smartagriculturaltechnology) to quantify wheat senescence dynamics by integrating UAV-based multispectral imaging with generalized additive models (GAMs).
+Our research team has introduced a novel approach [(Song et al. 2025)](/publication/song-2025-sat-highthroughput/) to quantify wheat senescence dynamics by integrating UAV-based multispectral imaging with generalized additive models (GAMs).
 
 Unlike traditional methods that capture only single time points, this study tracked the entire senescence process throughout the growing season and validated it, in collaboration with Prof. Minceva's Lab at TUM, using laboratory measurements of leaf anthocyanins. The results revealed clear nitrogen-related differences among wheat varieties, demonstrating that the area under the curve (AUC) of UAV-derived vegetation indices strongly correlates with grain yield.
 

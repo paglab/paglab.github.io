@@ -7,5 +7,5 @@ categories: [data]
 authors: [Chenghao Lu, Kang Yu]
 ---
 
-The dataset contains the codes and UAV orthophotos from potato fields, used in our weed detection publication [*Lu et al. (2025)*](/publication/lu-weed-2025/) .
+The dataset contains the codes and UAV orthophotos from potato fields, used in our weed detection publication [*Lu et al. (2025)*](/publication/lu-2025-sat-weed/) .
 [Download Link](https://github.com/paglab/UAV-weed-detection-paper)

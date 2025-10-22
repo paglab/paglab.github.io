@@ -23,7 +23,7 @@ image:
 projects: []
 ---
 
-Our recent publication [*Gackstetter, Yu, Körner 2026 ISPRS*](/publication/gackstetter-self-attention-2025) addresses the critical challenge of improving satellite image classification when target labels are scarce, a common issue in remote sensing. 
+Our recent publication [*Gackstetter, Yu, Körner 2026 ISPRS*](/publication/gackstetter-2025-ijprs-selfattention/) addresses the critical challenge of improving satellite image classification when target labels are scarce, a common issue in remote sensing. 
 We focus on developing effective methods for unsupervised domain adaptation (UDA), specifically through our proposed model, RAINCOAT-SRS, which builds upon existing UDA techniques tailored for satellite image time series (SITS).
 This work connects with our previous work while enhancing classification accuracy by employing self-attention mechanisms and frequency-augmented features. 
 By comparing RAINCOAT-SRS with other leading algorithms like TimeMatch, we discovered that our model outperforms standard methods. 

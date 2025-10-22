@@ -84,37 +84,85 @@ generate_citation <- function(entry) {
 
 journal_acronym <- function(journal_name) {
   if (is.null(journal_name) || is.na(journal_name) || journal_name == "") return("unknown")
-  acronym <- gsub("[^A-Za-z]", "", journal_name)
-  acronym <- tolower(acronym)
-  known <- list(
-    "internationaljournalofremotesensing" = "ijrs",
+  
+  # Normalize journal name
+  normalized <- tolower(gsub("[^a-zA-Z]", "", journal_name))
+  
+  # Comprehensive journal mapping (matches rename_publications.R)
+  journal_map <- list(
+    # Major remote sensing journals
     "remotesensing" = "rs",
+    "internationaljournalofappliedearthobservationandgeoinformation" = "ijaeog",
+    "internationaljournalofremotesensing" = "ijrs",
+    "isprsjouranalofphotogrammetryandremotesensing" = "ijprs",
+    "ieeetransactionsongeoscienceandremotesensing" = "tgrs",
+    
+    # Agriculture journals
     "precisionagriculture" = "pa",
-    "computerelectronicsinagriculture" = "cea"
+    "computerelectronicsinagriculture" = "cea",
+    "fieldcropsresearch" = "fcr",
+    "smartagriculturaltechnology" = "sat",
+    "europeanjournaofagronomy" = "eja",
+    "agroforestrysystems" = "afs",
+    "frontiersinplantsscience" = "fps",
+    "plantphenomics" = "pp",
+    
+    # Other journals
+    "remotesensingingecologyandconservation" = "rsec",
+    "remotesensingofofscandinavia" = "rss",
+    "precisionagriculture" = "pa",
+    "photogrammetricrecord" = "pr",
+    "landscapeandurbanplanning" = "lup",
+    "annalsofbotany" = "aob",
+    "agriculturalresearch" = "agr"
   )
-  return(known[[acronym]] %||% acronym)
+  
+  # Return mapped acronym or create one from first letters
+  mapped <- journal_map[[normalized]]
+  if (!is.null(mapped)) {
+    return(mapped)
+  }
+  
+  # Fallback: create acronym from significant words
+  words <- strsplit(journal_name, "\\s+")[[1]]
+  words <- words[nchar(words) > 2]  # Skip short words
+  if (length(words) == 0) return("unknown")
+  
+  acronym <- paste0(substr(tolower(words), 1, 1), collapse = "")
+  return(substr(acronym, 1, 6))  # Limit length
 }
 
 sanitize_slug <- function(entry, key_fallback) {
+  # Extract family name (last name) from first author
   first_author <- tryCatch({
     author_str <- as.character(entry$author)[1]
     if (grepl(",", author_str)) {
-      last <- trimws(strsplit(author_str, ",")[[1]][1])
+      # Format: "Last, First" - take the last name
+      family_name <- trimws(strsplit(author_str, ",")[[1]][1])
     } else {
+      # Format: "First Last" - take the last word
       name_parts <- strsplit(author_str, "\\s+")[[1]]
-      last <- name_parts[[length(name_parts)]]
+      family_name <- name_parts[[length(name_parts)]]
     }
-    tolower(iconv(last, from = "", to = "ASCII//TRANSLIT"))
+    tolower(iconv(family_name, from = "", to = "ASCII//TRANSLIT"))
   }, error = function(e) "unknown")
   
+  # Extract year
   year <- substr(parse_date(entry), 1L, 4L)
+  
+  # Extract journal acronym
   journal <- entry$journal %||% entry$booktitle %||% ""
   acronym <- journal_acronym(journal)
   
+  # Extract title keyword (first meaningful word)
   title_part <- clean_title(entry$title %||% "untitled")
-  title_first_word <- tolower(gsub("[^[:alnum:]]", "", strsplit(title_part, " ")[[1]][1]))
+  title_words <- strsplit(tolower(title_part), "\\s+")[[1]]
+  # Remove common words
+  title_words <- title_words[!title_words %in% c("a", "an", "the", "of", "and", "in", "for", "on", "with", "by", "using", "based", "via")]
+  title_keyword <- gsub("[^[:alnum:]]", "", title_words[1])
   
-  slug <- paste(first_author, title_first_word, year, acronym, sep = "-")
+  # Generate slug: familyname-year-journalacronym-titlekeyword
+  slug <- paste(first_author, year, acronym, title_keyword, sep = "-")
   slug <- gsub("-+", "-", slug)
   slug
 }
@@ -133,7 +181,7 @@ map_publication_type <- function(bibtype) {
   )
   if (is.null(bibtype) || bibtype == "~") return(type_mapping[["2"]])
   type <- tolower(as.character(bibtype))
-  result <- case_when(
+  result <- dplyr::case_when(
     type %in% c("article", "journal") ~ "2",
     type %in% c("inproceedings", "conference") ~ "1",
     type %in% c("book", "booklet") ~ "5",
@@ -207,7 +255,7 @@ main <- function() {
           "\n- Success: ", success_count,
           "\n- Failed:  ", failure_count)
   if (failure_count > 0L) {
-    failed_keys <- purrr::map_chr(keep(results, ~ !.x$success), "key")
+    failed_keys <- purrr::map_chr(purrr::keep(results, ~ !.x$success), "key")
     message("\nFailed entries:\n", paste("- ", failed_keys, collapse = "\n"))
   }
   invisible(success_count)

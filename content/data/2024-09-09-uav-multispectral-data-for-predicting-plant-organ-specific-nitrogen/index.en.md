@@ -23,7 +23,7 @@ related_content:
   publications: ["wang-uav-nitrogen-2025"]
 ---
 
-This dataset supports the study published in [**Wang F et al., 2025**](/publication/wang-characterization-2025/), which developed machine learning models to estimate nitrogen content in winter wheat using UAV-based multispectral data.
+This dataset supports the study published in [**Wang F et al., 2025**](/publication/wang-2022-unknown-characterization/), which developed machine learning models to estimate nitrogen content in winter wheat using UAV-based multispectral data.
 
 The data includes:
 

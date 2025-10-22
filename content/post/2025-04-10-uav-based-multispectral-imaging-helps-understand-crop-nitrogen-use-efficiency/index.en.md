@@ -24,7 +24,7 @@ projects: []
 
 ---
 
-Our recently accepted two papers by [Wang J *et al.* (2025)](/publication/wang-drone-2025/) and [Wang F *et al.* (2025)](/publication/wang-characterization-2025/) investigated drone remote sensing data-driven models for crop nitrogen estimation. 
+Our recently accepted two papers by [Wang J *et al.* (2025)](/publication/wang-2024-unknown-drone/) and [Wang F *et al.* (2025)](/publication/wang-2022-unknown-characterization/) investigated drone remote sensing data-driven models for crop nitrogen estimation. 
 Both works utilize drone remote sensing technology to explore nitrogen dynamics in wheat, aiming to enhance nitrogen use efficiency (NUE) in agriculture. 
 ![NUE Map from Wang J 2025](https://ars.els-cdn.com/content/image/1-s2.0-S016816992500448X-gr11.jpg)
 
