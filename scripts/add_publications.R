@@ -44,18 +44,68 @@ clean_url <- function(url) {
 }
 
 parse_date <- function(entry) {
-  date_str <- entry$date %||% entry$year %||% NA_character_
-  if (is.na(date_str)) return(format(Sys.Date(), "%Y-%m-%d"))
+  # Handle Zotero's separate year and month fields
+  year_val <- entry$year %||% NA_character_
+  month_val <- entry$month %||% NA_character_
+  date_val <- entry$date %||% NA_character_
+  # Note: urldate is the access date, NOT publication date - we ignore it for publication metadata
+  
+  # Priority order: date field, then year+month, then year only
+  # We explicitly exclude urldate as it's the access date, not publication date
+  if (!is.na(date_val) && date_val != "") {
+    # Use existing date field if available
+    date_str <- as.character(date_val)
+  } else if (!is.na(year_val) && !is.na(month_val)) {
+    # Combine year and month from Zotero export
+    year_str <- as.character(year_val)
+    month_str <- as.character(month_val)
+    
+    # Convert month name/abbreviation to number
+    month_num <- tryCatch({
+      if (nchar(month_str) <= 3) {
+        # Handle abbreviated month names (jan, feb, etc.)
+        month_abbrevs <- c("jan"=1, "feb"=2, "mar"=3, "apr"=4, "may"=5, "jun"=6,
+                          "jul"=7, "aug"=8, "sep"=9, "oct"=10, "nov"=11, "dec"=12)
+        month_abbrevs[[tolower(month_str)]] %||% 1
+      } else {
+        # Handle full month names
+        month_names <- c("january"=1, "february"=2, "march"=3, "april"=4, "may"=5, "june"=6,
+                        "july"=7, "august"=8, "september"=9, "october"=10, "november"=11, "december"=12)
+        month_names[[tolower(month_str)]] %||% 1
+      }
+    }, error = function(e) 1)
+    
+    if (is.null(month_num)) month_num <- 1
+    
+    # Create precise date string: year-month-01 (first day of month)
+    date_str <- sprintf("%s-%02d-01", year_str, month_num)
+  } else if (!is.na(year_val)) {
+    # Year only
+    date_str <- paste0(as.character(year_val), "-01-01")
+  } else {
+    # Fallback to current date
+    return(format(Sys.Date(), "%Y-%m-%d"))
+  }
+  
+  # Parse the constructed date string
   parsed_date <- tryCatch({
     if (nchar(date_str) == 4L) {
+      # Just year: YYYY
       lubridate::ymd(paste0(date_str, "-01-01"), quiet = TRUE)
     } else if (nchar(date_str) == 7L) {
+      # Year-month: YYYY-MM
       lubridate::ymd(paste0(date_str, "-01"), quiet = TRUE)
     } else {
+      # Full date: YYYY-MM-DD
       lubridate::ymd(date_str, quiet = TRUE)
     }
   }, error = function(e) Sys.Date())
-  if (is.na(parsed_date)) Sys.Date() else format(parsed_date, "%Y-%m-%d")
+  
+  if (is.na(parsed_date)) {
+    return(format(Sys.Date(), "%Y-%m-%d"))
+  } else {
+    return(format(parsed_date, "%Y-%m-%d"))
+  }
 }
 
 generate_citation <- function(entry) {

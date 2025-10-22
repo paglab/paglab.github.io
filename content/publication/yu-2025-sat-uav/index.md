@@ -1,7 +1,7 @@
 ---
 title: 'UAV hyperspectral remote sensing for crop nitrogen monitoring: progress, challenges,
   and perspectives'
-date: '2025-01-01'
+date: '2025-12-01'
 publication_types:
 - '2'
 authors:

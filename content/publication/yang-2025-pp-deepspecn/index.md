@@ -1,7 +1,7 @@
 ---
 title: 'DeepSpecN: A new hybrid method combining PROSPECT-PRO and Conv-Transformer
   to estimate leaf nitrogen content from leaf reflectance'
-date: '2025-01-01'
+date: '2025-10-01'
 publication_types:
 - '2'
 authors:
