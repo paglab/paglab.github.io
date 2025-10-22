@@ -3,7 +3,7 @@ title: 'Cassava Detection from UAV Images Using YOLOv5 Object Detection Model: T
   Weed Control in a Cassava Farm'
 date: '2022-01-01'
 publication_types:
-- '0'
+- '3'
 authors:
 - Emmanuel C. Nnadozie
 - Ogechukwu Iloanusi

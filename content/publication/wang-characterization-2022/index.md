@@ -3,7 +3,7 @@ title: Characterization of N distribution in different organs of winter wheat us
   UAV-based remote sensing
 date: '2022-01-01'
 publication_types:
-- '0'
+- '3'
 authors:
 - Falv Wang
 - Wei Li

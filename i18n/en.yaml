@@ -1,0 +1,27 @@
+# Publication type translations
+- id: pub_0
+  translation: Uncategorized
+- id: pub_1  
+  translation: Conference paper
+- id: pub_2
+  translation: Journal article
+- id: pub_3
+  translation: Preprint
+- id: pub_4
+  translation: Report
+- id: pub_5
+  translation: Book
+- id: pub_6
+  translation: Book section
+- id: pub_7
+  translation: Thesis
+- id: pub_8
+  translation: Patent
+
+# Other common translations
+- id: publication_type
+  translation: Type
+- id: date
+  translation: Date
+- id: search_placeholder
+  translation: Search publications...

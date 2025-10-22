@@ -121,13 +121,15 @@ sanitize_slug <- function(entry, key_fallback) {
 
 map_publication_type <- function(bibtype) {
   type_mapping <- list(
-    "0" = list(code = "0", label = "Other"),
-    "1" = list(code = "1", label = "Conference Papers"),
-    "2" = list(code = "2", label = "Journal Articles"),
-    "3" = list(code = "3", label = "Preprints"),
-    "4" = list(code = "4", label = "Theses"),
-    "5" = list(code = "5", label = "Books"),
-    "6" = list(code = "6", label = "Book Sections")
+    "0" = list(code = "0", label = "Uncategorized"),
+    "1" = list(code = "1", label = "Conference paper"),
+    "2" = list(code = "2", label = "Journal article"),
+    "3" = list(code = "3", label = "Preprint"),
+    "4" = list(code = "4", label = "Report"),
+    "5" = list(code = "5", label = "Book"),
+    "6" = list(code = "6", label = "Book section"),
+    "7" = list(code = "7", label = "Thesis"),
+    "8" = list(code = "8", label = "Patent")
   )
   if (is.null(bibtype) || bibtype == "~") return(type_mapping[["2"]])
   type <- tolower(as.character(bibtype))
@@ -137,7 +139,9 @@ map_publication_type <- function(bibtype) {
     type %in% c("book", "booklet") ~ "5",
     type %in% c("incollection", "inbook") ~ "6",
     type %in% c("preprint", "unpublished") ~ "3",
-    type %in% c("phdthesis", "mastersthesis") ~ "4",
+    type %in% c("phdthesis", "mastersthesis") ~ "7",
+    type %in% c("techreport", "manual") ~ "4",
+    type %in% c("patent") ~ "8",
     TRUE ~ "0"
   )
   type_mapping[[result]]
