@@ -1,7 +1,7 @@
 ---
 title: High-throughput phenotyping of canopy dynamics of wheat senescence using UAV
   multispectral imaging
-date: '2025-01-01'
+date: '2025-10-01'
 publication_types:
 - '2'
 authors:
