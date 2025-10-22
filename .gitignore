@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-_site
-.sass-cache
-=======
-public
+# Hugo build output
+public/
+_site/
+.sass-cache/
+
 # History files
 .Rhistory
 .Rapp.history
@@ -57,4 +57,6 @@ Thumbs.db
 
 # RStudio Connect folder
 rsconnect/
->>>>>>> origin/main
+
+# Fix logs and one-time scripts (local documentation)
+fix_log/
