@@ -65,7 +65,7 @@ links:
 | **15:30 – 16:15** | *Variable Rate Nutrient Work in Georgia, and Network with Faculty and Students* | Dr. **Leonardo M. Bastos**, Institute for Integrative Precision Agriculture, University of Georgia, USA |
 | **16:15 – 17:00** | *Technical Advances of UAV Remote Sensing for Crop Sensing* | Prof. **Georg Bareth**, Institute of Geography, University of Cologne, Germany |
 | **17:00 – 17:45** | *Chlorophyll Fluorescence Quantification for Crop Stress Detection Using Airborne Hyperspectral Imagery* | Prof. **Pablo Zarco-Tejada**, QuantaLab IAS-CSIC, Institute for Sustainable Agriculture, CSIC, Spain |
-| **17:45 – 18:30** | Discussion & Networking | Moderated by Prof. Kang Yu |
+| **17:45 – 18:30** | *Remotely sensing crop stresses and their combination* | Dr. **Ittai Herrmann**, The Hebrew University of Jerusalem, ISRAEL |
 | **18:30 – 21:00** | 🍽️ **Dinner at Bräustüberl Weihenstephan** | Informal networking |
 
 ---
@@ -81,8 +81,7 @@ links:
 | **10:30 – 11:15** | *Advances in Utilizing Farm Accountancy Data for the Analysis of Nitrogen Indicators in Germany* | Dr. **Philip Löw**, Thünen Institute of Rural Studies, Germany |
 | **11:15 – 12:00** | *Using Sensors in Precision Farming: If It Is Challenging for Researchers, Why Shouldn’t It Be for Farmers? Lessons from On-Farm Experimentation* | Prof. **Francesco Morari**, DAFNAE, University of Padova, Italy |
 | **12:00 – 12:45** | *Adoption and Economics of Variable Rate Technology* | Dr. **Markus Gandorfer**, Bavarian State Research Center for Agriculture (LfL), Germany |
-| **12:45 – 13:30** | *TBD* | Prof. **N.N **,  University,  |
-| **13:30 – 14:15** | Discussion and Concluding Remarks | Prof. **Kang Yu**, TUM |
+| **12:45 – 13:30** | Discussion and Concluding Remarks | Prof. **Kang Yu**, TUM |
 
 ---
 
