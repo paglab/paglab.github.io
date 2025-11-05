@@ -3,7 +3,11 @@ title: 'Workshop: Bridging the Gap in Space and Time'
 subtitle: '**B**ridg**I**ng the **G**ap in **S**pace and **T**ime - Remote Sensing Technologies for Global Sust**A**inable Crop Nut**R**ient Management (**BIGSTAR**)'
 author: Drone Pag
 date: '2025-11-06T13:00:00'
-slug: workshop-bigstar
+slug: 
+aliases:
+  - /event/workshop-bigstar/
+  - /bigstar/
+  - /bigstar-workshop/
 categories:
   - conference
 tags:
@@ -51,6 +55,8 @@ links:
 **IGZW Conference Room (3rd Floor)**  
 *Gregor-Mendel-Str. 4, 85354 Freising, Germany*  
 
+🎤 **[Meet Our Speakers](speakers/)** - Detailed profiles and research backgrounds
+
 ---
 
 ## 🗓️ **Day 1 – Thursday, 6 November 2025**
@@ -59,13 +65,13 @@ links:
 |------|----------|----------------------|
 | **13:00 – 13:10** | Opening and Welcome | Prof. **Kang Yu**, Technical University of Munich |
 | **13:10 – 13:55** | *Remote Sensing-based Precision Nitrogen Management: Recent Advances at University of Minnesota* | Prof. **Yuxin Miao**, Director, Precision Agriculture Center, University of Minnesota, USA |
-| **13:55 – 14:40** | *Remote Sensing-based Crop N Prediction* | Prof. **Fei Li**, College of Resources and Environmental Sciences, Inner Mongolia Agricultural University, China |
+| **13:55 – 14:40** | *Remotely sensing crop stresses and their combination* | Dr. **Ittai Herrmann**, The Hebrew University of Jerusalem, ISRAEL|
 | **14:40 – 15:15** | *Farm Management Information Systems and Farming Technology Innovations for Crop Management* | Prof. **Heinz Bernhardt**, Chair of Agricultural Systems Engineering, TUM, Germany |
 | **15:15 – 15:30** | ☕ **Break** |  |
 | **15:30 – 16:15** | *Variable Rate Nutrient Work in Georgia, and Network with Faculty and Students* | Dr. **Leonardo M. Bastos**, Institute for Integrative Precision Agriculture, University of Georgia, USA |
 | **16:15 – 17:00** | *Technical Advances of UAV Remote Sensing for Crop Sensing* | Prof. **Georg Bareth**, Institute of Geography, University of Cologne, Germany |
 | **17:00 – 17:45** | *Chlorophyll Fluorescence Quantification for Crop Stress Detection Using Airborne Hyperspectral Imagery* | Prof. **Pablo Zarco-Tejada**, QuantaLab IAS-CSIC, Institute for Sustainable Agriculture, CSIC, Spain |
-| **17:45 – 18:30** | *Remotely sensing crop stresses and their combination* | Dr. **Ittai Herrmann**, The Hebrew University of Jerusalem, ISRAEL |
+| **17:45 – 18:30** | *Remote Sensing-based Crop N Prediction* | Prof. **Fei Li**, College of Resources and Environmental Sciences, Inner Mongolia Agricultural University, China |
 | **18:30 – 21:00** | 🍽️ **Dinner at Bräustüberl Weihenstephan** | Informal networking |
 
 ---
