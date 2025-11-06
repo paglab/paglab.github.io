@@ -83,7 +83,7 @@ links:
 | **08:00 – 08:45** | *Leveraging Remote Sensing for Improving Crop Nitrogen Use Efficiency and Yield Prediction* | Dr. **Francisco Pinto Espinosa**, Centre for Crop Systems Analysis, Wageningen University & Research, Netherlands |
 | **08:45 – 09:30** | *Remote Sensing for Nutrient Management in Space and Time* | Dr. **Frank Liebisch**, Agroscope, Switzerland |
 | **09:30 – 10:15** | *Satellite-Based Assessment of Yield Variability – A Basis for Developing Site-Specific Management Strategies in Nitrate-Polluted Regions* | Dr. **Martin Mittermayer**, Chair of Organic Agriculture and Agronomy, TUM, Germany |
-| **10:15 – 10:30** | ☕ **Break** |  |
+| **10:15 – 10:30** | ☕ **Break** | and **Group Photo** |
 | **10:30 – 11:15** | *Advances in Utilizing Farm Accountancy Data for the Analysis of Nitrogen Indicators in Germany* | Dr. **Philip Löw**, Thünen Institute of Rural Studies, Germany |
 | **11:15 – 12:00** | *Using Sensors in Precision Farming: If It Is Challenging for Researchers, Why Shouldn’t It Be for Farmers? Lessons from On-Farm Experimentation* | Prof. **Francesco Morari**, DAFNAE, University of Padova, Italy |
 | **12:00 – 12:45** | *Adoption and Economics of Variable Rate Technology* | Dr. **Markus Gandorfer**, Bavarian State Research Center for Agriculture (LfL), Germany |
