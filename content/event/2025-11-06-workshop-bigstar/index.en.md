@@ -55,7 +55,7 @@ links:
 **IGZW Conference Room (3rd Floor)**  
 *Gregor-Mendel-Str. 4, 85354 Freising, Germany*  
 
-🎤 **[Meet Our Speakers](speakers/)** - Detailed profiles and research backgrounds
+🎤 **[Meet Our Speakers](../2025-11-06-workshop-bigstar-speakers/)** - Detailed profiles and research backgrounds
 
 ---
 
