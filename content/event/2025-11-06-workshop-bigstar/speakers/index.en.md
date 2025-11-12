@@ -26,7 +26,7 @@ Prof. Yuxin Miao is Director of the Precision Agriculture Center and Professor i
 ## Dr. Ittai Herrmann
 **The Hebrew University of Jerusalem, Israel**
 
-Dr. Ittai Herrmann is Senior Lecturer (Assistant Professor) and head of the Plant Sensing Laboratory at The Robert H. Smith Faculty of Agriculture, Food and Environment, The Hebrew University of Jerusalem. His research focuses on identifying relations between remotely sensed spectral, spatial and temporal data and morpho-physiological plant traits. The lab's work combines remote sensing with precision agriculture and high-throughput plant phenotyping to increase agricultural productivity while enhancing resource use efficiency. His expertise includes hyperspectral imaging, UAV-based remote sensing, and assessment of crop stress responses under dynamic environmental conditions and genetic diversity.
+Dr. Ittai Herrmann is Senior Lecturer (Assistant Professor) and head of the Plant Sensing Laboratory at the Robert H. Smith Faculty of Agriculture, Food and Environment, The Hebrew University of Jerusalem. His research focuses on identifying relations between remotely sensed spectral, spatial and temporal data and morpho-physiological plant traits. The lab's work combines remote sensing with precision agriculture and high-throughput plant phenotyping to increase agricultural productivity while enhancing resource use efficiency. His expertise includes hyperspectral imaging, UAV-based remote sensing, and assessment of crop stress responses under dynamic environmental conditions and genetic diversity.
 
 ---
 
@@ -47,14 +47,14 @@ Dr. Leonardo M. Bastos is Assistant Professor in Integrative Precision Agricultu
 ## Prof. Dr. Georg Bareth
 **University of Cologne, Germany**
 
-Prof. Dr. Georg Bareth is Professor of Geoinformatics and Head of the GIS & Remote Sensing Group at the Institute of Geography, University of Cologne, Germany. He currently serves as Dean of the Faculty for Mathematics and Natural Sciences and Vice President of the German Society for Photogrammetry, Remote Sensing, and Geoinformation. He graduated in Physical Geography from Stuttgart University and earned his doctorate and habilitation at the University of Hohenheim. His research focuses on proximal and remote sensing methods for crop monitoring, combining GIS and remote sensing analyses for geographical, archaeological, and agricultural applications, with over 25 years of experience in precision agriculture.
+Prof. Dr. Georg Bareth is Professor of Geoinformatics and Head of the GIS & Remote Sensing Group at the Institute of Geography, University of Cologne, Germany. He currently serves as Dean of the Faculty for Mathematics and Natural Sciences and Vice President of the German Society for Photogrammetry, Remote Sensing, and Geoinformation (DGPF). He graduated in Physical Geography from Stuttgart University and earned his doctorate and habilitation at the University of Hohenheim. His research focuses on proximal and remote sensing methods for crop monitoring, combining GIS and remote sensing analyses for geographical, archaeological, and agricultural applications, with over 25 years of experience in precision agriculture.
 
 ---
 
 ## Prof. Pablo J. Zarco-Tejada
 **CSIC, Spain**
 
-Prof. Pablo J. Zarco-Tejada leads the QuantaLab at the Institute for Sustainable Agriculture (IAS), Spanish National Research Council (CSIC), Córdoba, Spain. He previously worked as Professor at the University of Melbourne and at the Joint Research Centre, European Commission. His research specializes in hyperspectral and thermal remote sensing for vegetation stress detection, focusing on the simulation and validation of algorithms using physical models of radiative transfer. He is a leading expert in chlorophyll fluorescence quantification, photochemical indices, and predictive stress indicators for early detection of water, nutritional, and disease stress in vegetation using both manned and unmanned platforms.
+Prof. Pablo J. Zarco-Tejada leads the QuantaLab at the Institute for Sustainable Agriculture (IAS), Spanish National Research Council (CSIC), Córdoba, Spain. He is also a Professor at the University of Melbourne. He also worked at the Joint Research Centre, European Commission. His research specializes in UAV hyperspectral and thermal remote sensing for vegetation stress detection, focusing on the simulation and validation of algorithms using physical models of radiative transfer. He is a leading expert in chlorophyll fluorescence quantification, photochemical indices, and predictive stress indicators for early detection of water, nutritional, and disease stress in vegetation using both manned and unmanned platforms.
 
 ---
 
@@ -75,7 +75,7 @@ Dr. Francisco Pinto Espinosa is Assistant Professor at the Centre for Crop Syste
 ## Dr. Frank Liebisch
 **Agroscope, Switzerland**
 
-Dr. Frank Liebisch is Head of the Research Group Water Protection and Substance Flows at Agroscope, Switzerland's federal agricultural research center. He also serves as part-time researcher in the Group of Crop Science at ETH Zürich. His research interests focus on phenotyping plants with remote sensing technology to monitor crops for precision farming and crop breeding, as well as studying plant-environment interactions with special emphasis on water and mineral nutrient acquisition and stress adaptation. He has extensive experience coordinating research facilities and developing innovative remote sensing approaches for agricultural applications, combining hyperspectral imaging with physiological measurements.
+Dr. Frank Liebisch is Head of the Research Group Water Protection and Substance Flows at Agroscope, Switzerland's federal agricultural research center. He has been a researcher for several years in the Group of Crop Science at ETH Zürich. His research interests focus on phenotyping plants with remote sensing technology to monitor crops for precision farming and crop breeding, as well as studying plant-environment interactions with special emphasis on water and mineral nutrient acquisition and stress adaptation. He has extensive experience coordinating research facilities and developing innovative remote sensing approaches for agricultural applications, combining hyperspectral imaging with physiological measurements.
 
 ---
 
@@ -111,9 +111,8 @@ PD Dr. Markus Gandorfer leads the Digital Farming working group at the Institute
 
 This workshop represents a unique gathering of experts from:
 - **North America**: University of Minnesota, University of Georgia
-- **Europe**: TUM Germany, University of Cologne, Wageningen University, University of Padova, Agroscope Switzerland, CSIC Spain
+- **Europe**: TU Munich, University of Cologne, Thünen Institute, Bavarian State Research Center, Wageningen University, University of Padova, Agroscope Switzerland, CSIC Spain
 - **Asia**: Inner Mongolia Agricultural University, Hebrew University of Jerusalem
-- **Research Institutions**: Thünen Institute, Bavarian State Research Center
 
 ## 📚 **Workshop Themes**
 
