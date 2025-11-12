@@ -7,7 +7,7 @@ aliases:
   - /event/workshop-bigstar/speakers/
   - /bigstar/speakers/
 summary: 'Detailed profiles of the international speakers presenting at the BIGSTAR workshop on remote sensing technologies for sustainable crop nutrient management.'
-draft: true
+draft: false
 ---
 
 # 🎤 **Workshop Speakers**
