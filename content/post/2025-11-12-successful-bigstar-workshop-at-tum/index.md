@@ -14,6 +14,7 @@ tags:
 - digital farming
 categories:
 - event
+- workshop
 date: '2025-11-12T10:00:00Z'
 lastmod: '2025-11-12T10:00:00Z'
 featured: true
