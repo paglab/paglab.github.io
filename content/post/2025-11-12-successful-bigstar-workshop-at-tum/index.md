@@ -1,6 +1,6 @@
 ---
 title: 'Bridging the Gap in Space and Time – A Successful International Workshop at TUM!'
-subtitle: 'BIGSTAR 2025 Workshop Brings Together Leading Remote Sensing Scientists'
+subtitle: 'BIGSTAR 2025 Workshop Brings Together Leading Scientists on Precision Ag'
 summary: 'The BIGSTAR workshop successfully brought together internationally renowned scientists from across the world to discuss remote sensing technologies for global sustainable agricultural resources.'
 authors:
 - admin
@@ -31,7 +31,7 @@ projects: []
 
 🌍 **Bridging the Gap in Space and Time – A Successful International Workshop at TUM!**
 
-Last week, the Technical University of Munich (TUM) proudly hosted the international workshop "**Bridging the Gap in Space and Time: Remote Sensing for Global Sustainable Agricultural Resources (BIGSTAR)**", bringing together leading scientists from across the world. 
+Last week, the Technical University of Munich (TUM) proudly hosted the international workshop "**B**ridg**I**ng the **G**ap in **S**pace and **T**ime - Remote Sensing Technologies for Global Sustainable **A**gricultural **R**esources (**BIGSTAR**)", bringing together leading scientists from across the world. 
 
 LfL's Digital Farming, the Univ. Minnesota's Precision Agriculture, and TUM's Precision Agriculture groups jointly organized this inspiring event — connecting expertise in remote sensing, smart farming, and sustainable nutrient management.
 
@@ -57,7 +57,7 @@ We were honored to welcome an outstanding lineup of internationally renowned spe
 
 A heartfelt thank you to all speakers, co-organizers, and participants for making **#BIGSTAR2025** such a success — filled with thought-provoking talks, active discussions, and new ideas for sustainable and data-driven crop management! 🤝
 
-The workshop fostered international collaboration and knowledge exchange, advancing our understanding of how remote sensing technologies can bridge spatial and temporal gaps in crop nutrient monitoring and management for a more sustainable future.
+The workshop fostered international collaboration and knowledge exchange, advancing our understanding of how remote sensing technologies can bridge spatial and temporal gaps in crop stress and nutrient monitoring and management for a more sustainable future.
 
 ---
 

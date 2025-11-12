@@ -2,6 +2,8 @@
 title: 'Workshop Speakers - BIGSTAR 2025'
 subtitle: 'Meet the Speakers'
 date: '2025-11-06T13:00:00'
+authors:
+- admin
 aliases:
   - /event/2025-11-06-workshop-bigstar/speakers/
   - /event/workshop-bigstar/speakers/
