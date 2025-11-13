@@ -55,7 +55,7 @@ We were honored to welcome an outstanding lineup of internationally renowned spe
 
 ## 🌾 A Tremendous Success
 
-A heartfelt thank you to all speakers, co-organizers, and participants for making **#BIGSTAR2025** such a success — filled with thought-provoking talks, active discussions, and new ideas for sustainable and data-driven crop management! 🤝
+A heartfelt thank you to all speakers, co-organizers, and participants for making **#BIGSTAR2025** such a success — filled with thought-provoking talks, active discussions, and new ideas for sustainable and smart crop management! 🤝
 
 The workshop fostered international collaboration and knowledge exchange, advancing our understanding of how remote sensing technologies can bridge spatial and temporal gaps in crop stress and nutrient monitoring and management for a more sustainable future.
 
