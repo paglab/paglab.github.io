@@ -34,13 +34,13 @@ projects: []
 
 ## 🌿 Advancing Urban Biodiversity Monitoring
 
-We're excited to share our latest research published in [*Remote Sensing Applications: Society and Environment*](https://www.sciencedirect.com/science/article/pii/S2352938525002381), where we explore innovative approaches to monitoring biodiversity in urban community gardens using cutting-edge remote sensing technologies!
+We're excited to share our latest research [(Afrasiabian et al. 2025)](/publication/afrasiabian-2025-rsase-biodiversity/) published in [*Remote Sensing Applications: Society and Environment*](https://www.sciencedirect.com/science/article/pii/S2352938525002381), where we explore innovative approaches to monitoring biodiversity in urban community gardens using cutting-edge remote sensing technologies!
 
 ## 🔬 The Innovation
 
 Urban community gardens are vital green spaces that support biodiversity and ecological functioning in cities. However, these managed environments present unique challenges for biodiversity assessment due to their complex mix of vegetative and non-vegetative ground cover components. 
 
-Our study, led by **Yasamin Afrasiabian** in collaboration with researchers from **Technical University of Munich** and **Leiden University**, demonstrates how combining **drone-based multispectral imagery**, **in situ hyperspectral measurements**, and **3D canopy height models** can effectively capture plant and ground cover diversity.
+Our study, led by [**Yasamin Afrasiabian**](/author/yasamin-afrasiabian/) in collaboration with researchers from **Technical University of Munich** and **Leiden University**, demonstrates how combining **drone-based multispectral imagery**, **in situ hyperspectral measurements**, and **3D canopy height models** can effectively capture plant and ground cover diversity.
 
 ## 🎯 Key Findings
 
