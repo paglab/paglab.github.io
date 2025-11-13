@@ -24,6 +24,7 @@ featured: true
 draft: false
 
 image:
+  filename: 'images/fig3_lrg.jpg'
   caption: 'Urban community garden biodiversity monitoring'
   focal_point: 'Smart'
   preview_only: false
