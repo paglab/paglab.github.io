@@ -17,7 +17,7 @@ tags:
 - leaf nitrogen
 categories:
 - paper
-- precision agriculture
+- news
 date: '2025-10-15T09:00:00Z'
 lastmod: '2025-10-15T09:00:00Z'
 featured: true
@@ -34,7 +34,7 @@ projects: []
 
 ## 🔍 A Groundbreaking Approach to Nitrogen Sensing
 
-We're thrilled to announce a major breakthrough in plant phenotyping technology! Our latest research introduces **DeepSpecN** by [Yang et al. 2025](/publication/yang-2025-pp-deepspecn), an innovative deep learning framework that revolutionizes leaf nitrogen estimation using hyperspectral reflectance—**without requiring any field data collection**.
+We're thrilled to announce a major breakthrough in plant spectral phenotyping technology! Our latest research introduces **DeepSpecN** by [Yang et al. 2025](/publication/yang-2025-pp-deepspecn), an innovative deep learning framework that revolutionizes leaf nitrogen estimation using hyperspectral reflectance—**without requiring any field data collection**.
 
 ## 🚀 The Innovation
 
@@ -101,4 +101,4 @@ The article is now available:
 
 *This research exemplifies our lab's commitment to developing cutting-edge AI and remote sensing solutions for sustainable agriculture. Congratulations again to Shuai and the entire research team on this outstanding contribution to plant phenotyping!*
 
-#PrecisionAgriculture #HyperspectralImaging #DeepLearning #PlantPhenomics #NitrogenEstimation #SustainableFarming #ConvTransformer #SimulationBasedLearning
+#PrecisionAgriculture #Hyperspectral #DeepLearning #PlantPhenomics #NitrogenEstimation #SustainableFarming #ConvTransformer #SimulationBasedLearning #TUMPrecisionAgLAB
