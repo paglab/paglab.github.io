@@ -12,8 +12,7 @@ address:
   postcode: '85354'
   country: Germany
 
-summary: A 2-week intensive Master-level course combining drone remote sensing, AI, and team-based problem solving.
-abstract: 'The Spring Hackathon 2026 is a 2-week intensive Master-level course organized by the TUM Precision Agriculture Lab, bringing together students and early-career researchers to tackle real-world challenges at the intersection of drone-based remote sensing and artificial intelligence (AI). Participants will work in interdisciplinary teams on a shared challenge, using UAV imagery and AI methods to extract meaningful insights for agricultural and environmental applications. The program combines hands-on coding sessions, team-based problem solving, and expert mentoring from researchers in remote sensing, agronomy, and AI. The course concludes with a final challenge presentation, where teams will present their solutions. One team will be selected as the winner of the hackathon challenge.'
+summary: 'Another deep learning week! A 2-week intensive Master-level hackathon organized by the TUM Precision Agriculture Lab, bringing together students and researchers to tackle real-world challenges using UAV imagery, OA data and AI. Participants work in interdisciplinary teams with expert mentoring, concluding in final presentations where one team will be selected as the winner!'
 
 # The start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
