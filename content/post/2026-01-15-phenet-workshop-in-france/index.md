@@ -25,7 +25,7 @@ image:
 projects: []
 ---
 
-Our team Dong Bai and Kang Yu participated in the **PHENET workshop hosted by INRAE in Montpellier**, 12–15 Jan 2026, a vibrant meeting that brought together researchers and infrastructure stakeholders working on **plant phenotyping, data interoperability, and scalable approaches for crop monitoring**. The workshop was a great opportunity to connect across institutions and disciplines—from field phenotyping platforms to satellite remote sensing and AI-driven analytics—and to align on shared needs for the next phase of phenotyping network development.
+Our team [**Dong Bai**](/author/dong-bai/) and [**Kang Yu**](/author/kang-yu/) participated in the **PHENET workshop hosted by INRAE in Montpellier**, 12–15 Jan 2026, a vibrant meeting that brought together researchers and infrastructure stakeholders working on **plant phenotyping, data interoperability, and scalable approaches for crop monitoring**. The workshop was a great opportunity to connect across institutions and disciplines—from field phenotyping platforms to satellite remote sensing and AI-driven analytics—and to align on shared needs for the next phase of phenotyping network development.
 
 ## Why This Workshop Matters for Precision Agriculture
 
