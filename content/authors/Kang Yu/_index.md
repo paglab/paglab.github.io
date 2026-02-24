@@ -1,6 +1,9 @@
 ---
 title: Prof. Dr. Kang Yu
 
+aliases:
+- /author/kang-yu/
+
 authors:
 - Kang Yu
 - K. Yu
