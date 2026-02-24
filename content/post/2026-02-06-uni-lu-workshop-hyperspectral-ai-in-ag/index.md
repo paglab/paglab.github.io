@@ -20,7 +20,7 @@ draft: false
 image:
   filename: tumpa_team.JPG
   caption: ''
-  focal_point: 'Center'
+  focal_point: 'top'
   preview_only: false
 
 projects: []
