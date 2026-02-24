@@ -1,6 +1,8 @@
 ---
 title: Prof. Dr. Kang Yu
 
+slug: prof.-dr.-kang-yu
+
 aliases:
 - /author/kang-yu/
 
