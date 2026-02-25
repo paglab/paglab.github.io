@@ -24,9 +24,8 @@ interests:
 - Precision Agriculture
 
 organizations:
-- name: Technical University of Munich
-  url: "https://www.pa.wzw.tum.de"
-role: Visiting PhD student
+- name: Wuhan University
+role: Researcher, Wuhan University
 
 social:
 - icon: envelope
