@@ -1,5 +1,5 @@
 ---
-title: David Gackstetter
+title: Dr. David Gackstetter
 
 bio: My personal research focus lays on the combination of multi-contextual data fusion (in particular remote sensing data) and deep learning methods within the context of agricultural and environmental sciences. 
 
@@ -54,7 +54,7 @@ social:
 
 superuser: false
 user_groups:
-- PhD students
-- 
+- Alumni
+
 ---
 David Gackstetter earned his bachelor's degree in Environmental and Resource Management from Brandenburg University of Technology (BTU) Cottbus-Senftenberg with a focus on environmental modeling. In 2019, he completed his Master's degree in Environmental Engineering (TUM), focusing on the application of machine learning in transportation engineering. Since then, he has been working at the TUM Central Institute Hans Eisenmann Forum for Agricultural Sciences (HEF) in parts as a project engineer on the development of data infrastructures to support agricultural science research at the Weihenstephan campus. Furthermore, he also works there as a Science Manager, in the context of which he initiates, supports and coordinates interdisciplinary projects in the thematic area of Digital Agriculture. Since 2022, he has been working on his doctorate together with the Chair of Remote Sensing Methodology and the Precision Agriculture Lab.
