@@ -27,7 +27,7 @@ interests:
 organizations:
 - name: Technical University of Munich
   url: "https://www.tum.de/"
-role: Project engineer  & Phd student
+role: R&D Scientific Officer (Industry)
 
 featured_publications:
   - "gackstetter-self-attention-2025"
