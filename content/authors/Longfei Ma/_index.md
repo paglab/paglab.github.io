@@ -44,6 +44,6 @@ social:
 
 superuser: false
 user_groups:
-- Visitors
+- Alumni
 ---
 Longfei Ma is a visiting researcher at the Precision Agriculture Laboratory of the Technical University of Munich (TUM). His current research centers on the accurate estimation of chlorophyll content in rice at both the leaf and canopy scales based on spectral data. His work involves the exploration of leaf absorption spectral characteristics and the application of canopy spectral invariant theory.
