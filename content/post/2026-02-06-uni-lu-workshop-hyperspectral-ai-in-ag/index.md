@@ -11,7 +11,8 @@ tags:
 - Crop Nitrogen Management
 - Wheat
 categories:
-- Events, Conference
+- Events 
+- Conference
 date: '2026-02-06T00:00:00Z'
 lastmod: '2026-02-10T00:00:00Z'
 featured: true
