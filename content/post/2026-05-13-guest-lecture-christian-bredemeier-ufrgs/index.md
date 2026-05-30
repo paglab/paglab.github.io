@@ -14,7 +14,8 @@ tags:
 - UFRGS
 - GEAD
 categories:
-- Events, Conference
+- Seminar
+- News
 date: '2026-05-13T14:00:00Z'
 lastmod: '2026-05-14T00:00:00Z'
 featured: true
