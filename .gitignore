@@ -60,3 +60,6 @@ rsconnect/
 
 # Fix logs and one-time scripts (local documentation)
 fix_log/
+
+# Local workflow / process guides (not published)
+WORKFLOW-*.md
