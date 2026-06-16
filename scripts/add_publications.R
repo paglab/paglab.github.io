@@ -25,6 +25,28 @@ config <- list(
 # ---- Helper Functions ----
 `%||%` <- function(x, y) if (!is.null(x) && !is.na(x)) x else y
 
+# Normalise a DOI for reliable comparison (lowercase, strip resolver prefix)
+normalize_doi <- function(d) {
+  if (is.null(d) || all(is.na(d)) || identical(d, "")) return("")
+  d <- tolower(trimws(as.character(d)[1]))
+  d <- gsub("^https?://(dx\\.)?doi\\.org/", "", d)
+  d <- gsub("[\"' ]", "", d)
+  d
+}
+
+# Scan existing publication pages and collect the DOIs already on the site,
+# so re-imports dedup by DOI (robust to slug/journal-acronym differences).
+load_existing_dois <- function(output_dir) {
+  files <- list.files(output_dir, pattern = "index\\.md$",
+                      recursive = TRUE, full.names = TRUE)
+  dois <- vapply(files, function(f) {
+    lines <- tryCatch(readLines(f, warn = FALSE), error = function(e) character(0))
+    dl <- grep("^doi:\\s*", lines, value = TRUE)
+    if (length(dl)) normalize_doi(sub("^doi:\\s*", "", dl[1])) else ""
+  }, character(1))
+  unique(dois[nzchar(dois)])
+}
+
 clean_title <- function(title) {
   if (is.null(title) || is.na(title)) return("")
   title <- gsub("[{}]", "", title)
@@ -118,7 +140,7 @@ generate_citation <- function(entry) {
     authors <- auths
   }
   title <- clean_title(entry$title %||% "Untitled")
-  journal <- entry$journal %||% entry$booktitle %||% ""
+  journal <- trimws(gsub("[{}]", "", entry$journal %||% entry$booktitle %||% ""))
   year <- substr(parse_date(entry), 1L, 4L)
   if (config$citation_style == "apa") {
     citation <- glue::glue("{authors} ({year}). {title}. *{journal}*",
@@ -134,7 +156,11 @@ generate_citation <- function(entry) {
 
 journal_acronym <- function(journal_name) {
   if (is.null(journal_name) || is.na(journal_name) || journal_name == "") return("unknown")
-  
+
+  # Strip BibTeX protective braces (e.g. "{{Computers}}") before processing
+  journal_name <- trimws(gsub("[{}]", "", journal_name))
+  if (journal_name == "") return("unknown")
+
   # Normalize journal name
   normalized <- tolower(gsub("[^a-zA-Z]", "", journal_name))
   
@@ -173,9 +199,10 @@ journal_acronym <- function(journal_name) {
     return(mapped)
   }
   
-  # Fallback: create acronym from significant words
+  # Fallback: create acronym from significant words (letters only, no digits)
   words <- strsplit(journal_name, "\\s+")[[1]]
-  words <- words[nchar(words) > 2]  # Skip short words
+  words <- gsub("[^a-zA-Z]", "", words)  # drop digits/punctuation within tokens
+  words <- words[nchar(words) > 2]       # skip short words (of, in, and, -, 2025)
   if (length(words) == 0) return("unknown")
   
   acronym <- paste0(substr(tolower(words), 1, 1), collapse = "")
@@ -254,23 +281,43 @@ validate_entry <- function(entry) {
 
 # ---- Main Execution ----
 main <- function() {
+  # Optional: pass a bib path as the first CLI arg, else use the configured default.
+  args <- commandArgs(trailingOnly = TRUE)
+  bib_path <- if (length(args) >= 1L && nzchar(args[1])) args[1] else config$bib_file
+  message("Reading: ", bib_path)
   bib <- tryCatch(
-    RefManageR::ReadBib(config$bib_file, check = FALSE),
+    RefManageR::ReadBib(bib_path, check = FALSE),
     error = function(e) stop("Failed to read BibTeX file: ", e$message)
   )
   if (length(bib) == 0L) {
     message("No publications found in the BibTeX file")
     return(invisible(FALSE))
   }
+  # DOIs already on the site -> dedup by DOI (robust to slug differences).
+  state <- new.env(parent = emptyenv())
+  state$dois <- load_existing_dois(config$output_dir)
+  message("Existing publications with a DOI: ", length(state$dois))
+
   results <- purrr::map(names(bib), function(key) {
     entry <- tryCatch(validate_entry(bib[[key]]), error = function(e) {
       warning("Skipping invalid entry '", key, "': ", e$message)
-      return(list(success = FALSE, key = key))
+      return(NULL)
     })
-    if (is.null(entry)) return(list(success = FALSE, key = key))
+    if (is.null(entry) || !is.null(entry$success)) return(list(success = FALSE, key = key))
+    doi <- normalize_doi(entry$doi %||% "")
+    if (nzchar(doi) && doi %in% state$dois) {
+      message("Skipping (DOI already on site): ", key)
+      return(list(success = TRUE, key = key))
+    }
     slug <- sanitize_slug(entry, key)
     dir <- file.path(config$output_dir, slug)
     tryCatch({
+      index_file <- file.path(dir, "index.md")
+      if (file.exists(index_file)) {
+        message("Skipping existing publication: ", slug)
+        if (nzchar(doi)) state$dois <- c(state$dois, doi)
+        return(list(success = TRUE, key = key))
+      }
       if (!dir.exists(dir)) {
         dir.create(dir, recursive = TRUE, showWarnings = FALSE)
       }
@@ -279,20 +326,17 @@ main <- function() {
         date = parse_date(entry),
         publication_types = list(map_publication_type(entry$bibtype)$code),
         authors = tryCatch(as.character(entry$author), error = function(e) "Unknown"),
-        publication = entry$journal %||% entry$booktitle %||% "",
+        publication = trimws(gsub("[{}]", "", entry$journal %||% entry$booktitle %||% "")),
         doi = entry$doi %||% "",
         url = entry$url %||% "",
         abstract = entry$abstract %||% ""
       )
-      index_file <- file.path(dir, "index.md")
-      if (file.exists(index_file)) {
-        message("Skipping existing publication: ", slug)
-        return(list(success = TRUE, key = key))
-      }
       writeLines(
         c("---", yaml::as.yaml(metadata), "---", "", generate_citation(entry)),
-        file.path(dir, "index.md")
+        index_file
       )
+      if (nzchar(doi)) state$dois <- c(state$dois, doi)
+      message("Added: ", slug)
       list(success = TRUE, key = key)
     }, error = function(e) {
       warning("Failed to process '", key, "': ", e$message)
