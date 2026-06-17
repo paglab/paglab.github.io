@@ -29,7 +29,6 @@ This dataset accompanies the Data Descriptor published in *Scientific Data* by [
 
 Urban gardens support city biodiversity through diverse ground covers that provide habitat, pollination, pest control, and soil functions — but their spatial heterogeneity has been poorly mapped due to a lack of high-resolution imagery. This dataset addresses that gap.
 
-![Ground-cover semantic segmentation results (RGB tile, eight-class label mask, and DeepLabV3+ prediction).](Fig6_GroundCovermasks.webp)
 
 ## What's in the dataset
 
