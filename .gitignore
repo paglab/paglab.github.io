@@ -63,3 +63,6 @@ fix_log/
 
 # Local workflow / process guides (not published)
 WORKFLOW-*.md
+
+# Editor workspace files (user/machine-specific paths)
+*.code-workspace
