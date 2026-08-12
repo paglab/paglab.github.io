@@ -67,5 +67,8 @@ WORKFLOW-*.md
 # Editor workspace files (user/machine-specific paths)
 *.code-workspace
 
+# Claude / AI assistant local settings
+.claude/
+
 # Publisher reference PDFs dropped into data entries (not for publishing)
 content/data/**/s41597-*.pdf
