@@ -20,7 +20,6 @@ interests:
 - Vegetation monitoring with multispectral and hyperspectral data
 - Modeling of crop nitrogen and yield from Earth observation
 - Soil moisture and evaporation processes
-- Physically grounded and transferable remote sensing methods
 
 organizations:
 - name: Spatial Business Integration GmbH
