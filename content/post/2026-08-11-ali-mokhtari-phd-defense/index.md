@@ -26,7 +26,7 @@ draft: false
 
 image:
   filename: 'ali_defense_feature.jpeg'
-  caption: 'Dr. Ali Mokhtari celebrates his successful PhD defense'
+  caption: 'Ali Mokhtari successfully defended his doctoral dissertation. (Left to right: Prof. Mirjana Minceva, Ali Mokhtari: Prof. Kang Yu)'
   focal_point: 'Smart'
   preview_only: false
 
