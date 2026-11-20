@@ -22,7 +22,7 @@ draft: false
 
 image:
   filename: tsinghua_second_gate.jpg
-  caption: 'Prof. Kang Yu with Prof. Le Yu at the historic Second Gate of Tsinghua University, Beijing.'
+  caption: 'Prof. Le Yu (left) and Prof. Kang Yu (right) at the historic Second Gate of Tsinghua University, Beijing.'
   focal_point: 'center'
   preview_only: false
 
@@ -41,7 +41,7 @@ In Beijing, Prof. Le Yu hosted a joint workshop at DESS with researchers and stu
 
 - **Remote Sensing of Plant Traits for Nitrogen Nutrition and Yield Estimation** — Prof. Kang Yu, TUM Precision Agriculture Lab
 - **Crop Growth Simulation and Prediction under Extreme Climate Stress** — Jinghui Zheng, Department of Earth System Science, Tsinghua University
-- Further talks on **AI-based soil property estimation** and **nitrogen nutrition sensors**
+- Further talks on **AI-based crop and soil property estimation, Earth system modelling**, **hyperspectral remote sensing**, and **nitrogen nutrition sensors**
 
 ![Talks from both groups at the joint workshop at Tsinghua University.](tsinghua_workshop_presentations.jpg)
 
